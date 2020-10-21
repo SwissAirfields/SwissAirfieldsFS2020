@@ -1,0 +1,31 @@
+<AssetPackage Name="sc-airport-lsph-hegmatten" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title/>
+		<Manufacturer/>
+		<Creator/>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\sc-airport-lsph-hegmatten\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\sc-airport-lsph-hegmatten</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="lsph-assetgroup">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\LSPH</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
