@@ -1,19 +1,34 @@
 {
   "content": [
     {
+      "path": "AirportServices/LSZV/Services.xml",
+      "size": 2149,
+      "date": 132477102267779957
+    },
+    {
       "path": "ContentInfo/sc-airport-lszv-sitterdorf/Thumbnail.jpg",
       "size": 13520,
-      "date": 132398945780000000
+      "date": 132468902573170451
+    },
+    {
+      "path": "LivingWorld_Config/LSZV_LWcfg.xml",
+      "size": 2268,
+      "date": 132477102267779957
+    },
+    {
+      "path": "manifest.json",
+      "size": 280,
+      "date": 132477475805964244
     },
     {
       "path": "scenery/LSZV-PERIMETER.BGL",
       "size": 1210,
-      "date": 132468360329159414
+      "date": 132477181570788740
     },
     {
       "path": "scenery/LSZV.bgl",
-      "size": 3739,
-      "date": 132468360329049058
+      "size": 167771,
+      "date": 132477529017111855
     }
   ]
 }
