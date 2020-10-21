@@ -13,56 +13,56 @@
 		<LibraryObject name="{5BB9F3CE-6F1F-4145-918D-D61BA339590E}" scale="2.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Gen_Hangar152-->
-	<SceneryObject lat="47.51761993837320" lon="8.77192531342521" alt="0.00000000000000" pitch="0.000656" bank="-0.000656" heading="-156.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="47.51760230887839" lon="8.77192686550669" alt="0.00000000000000" pitch="0.000669" bank="-0.000669" heading="23.000006" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{EEF5B6C2-D395-4948-80F1-E7D052F0028A}" scale="1.100000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Gen_Hangar152-->
-	<SceneryObject lat="47.51771377439810" lon="8.77198362396242" alt="0.00000000000000" pitch="0.000813" bank="-0.000813" heading="-156.999999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="47.51769682982109" lon="8.77198515979948" alt="0.00000000000000" pitch="0.000826" bank="-0.000826" heading="23.000006" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{EEF5B6C2-D395-4948-80F1-E7D052F0028A}" scale="1.100000"/>
 	</SceneryObject>
 	<SceneryObject lat="47.51284374442560" lon="8.76996846778477" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE"/>
 	</SceneryObject>
-	<Airport country="Switzerland" city="Winterthur" name="Hegmatten" ident="LSPH" lat="47.51487085804445" lon="8.77189831009724" alt="385.72115347813815" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+	<Airport country="Switzerland" state="Zürich" city="Winterthur" name="Hegmatten" ident="LSPH" lat="47.51487085804445" lon="8.77189831009724" alt="385.72115347813815" magvar="2.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiwayPoint index="0" type="NORMAL" orientation="FORWARD" lat="47.51823715632563" lon="8.77308286851602"/>
+		<TaxiwayPoint index="1" type="NORMAL" orientation="FORWARD" lat="47.51700618199939" lon="8.77265952962214"/>
 		<TaxiwayPoint index="2" type="NORMAL" orientation="FORWARD" lat="47.51153231822980" lon="8.77043718109688"/>
-		<TaxiwayPoint index="26" type="NORMAL" orientation="FORWARD" lat="47.51162178566690" lon="8.77061587525401"/>
-		<TaxiwayPoint index="25" type="NORMAL" orientation="FORWARD" lat="47.51169122036922" lon="8.77037193863471"/>
-		<TaxiwayPoint index="24" type="NORMAL" orientation="FORWARD" lat="47.51179952379044" lon="8.77029438896474"/>
-		<TaxiwayPoint index="23" type="NORMAL" orientation="FORWARD" lat="47.51266028366967" lon="8.77047967909733"/>
 		<TaxiwayPoint index="3" type="NORMAL" orientation="FORWARD" lat="47.51284777537633" lon="8.77094332121264"/>
-		<TaxiwayPoint index="22" type="NORMAL" orientation="FORWARD" lat="47.51355846440821" lon="8.77090865623104"/>
-		<TaxiwayPoint index="27" type="NORMAL" orientation="FORWARD" lat="47.51673263494315" lon="8.77219406790405"/>
-		<TaxiwayPoint index="29" type="NORMAL" orientation="FORWARD" lat="47.51678341039439" lon="8.77212914071520"/>
-		<TaxiwayPoint index="28" type="NORMAL" orientation="FORWARD" lat="47.51679848775259" lon="8.77222004206598"/>
-		<TaxiwayPoint index="30" type="NORMAL" orientation="FORWARD" lat="47.51680652921809" lon="8.77201345701164"/>
 		<TaxiwayPoint index="4" type="NORMAL" orientation="FORWARD" lat="47.51687495132171" lon="8.77158633329028"/>
 		<TaxiwayPoint index="5" type="NORMAL" orientation="FORWARD" lat="47.51689967400141" lon="8.77169641907331"/>
 		<TaxiwayPoint index="6" type="NORMAL" orientation="FORWARD" lat="47.51695100213549" lon="8.77195600930937"/>
-		<TaxiwayPoint index="14" type="NORMAL" orientation="FORWARD" lat="47.51700216587457" lon="8.77205011715311"/>
-		<TaxiwayPoint index="1" type="NORMAL" orientation="FORWARD" lat="47.51700618199939" lon="8.77265952962214"/>
 		<TaxiwayPoint index="7" type="NORMAL" orientation="FORWARD" lat="47.51707106316871" lon="8.77211835041395"/>
-		<TaxiwayPoint index="31" type="NORMAL" orientation="FORWARD" lat="47.51710899957840" lon="8.77234910002210"/>
 		<TaxiwayPoint index="8" type="NORMAL" orientation="FORWARD" lat="47.51718799913217" lon="8.77215531165760"/>
+		<TaxiwayPoint index="9" type="NORMAL" orientation="FORWARD" lat="47.51736014400507" lon="8.77209411504229"/>
+		<TaxiwayPoint index="10" type="NORMAL" orientation="FORWARD" lat="47.51755873781900" lon="8.77202642130193"/>
+		<TaxiwayPoint index="11" type="NORMAL" orientation="FORWARD" lat="47.51729329088447" lon="8.77212043795180"/>
+		<TaxiwayPoint index="12" type="NORMAL" orientation="FORWARD" lat="47.51751581786157" lon="8.77203648689758"/>
+		<TaxiwayPoint index="13" type="NORMAL" orientation="FORWARD" lat="47.51744672040387" lon="8.77205419575665"/>
+		<TaxiwayPoint index="14" type="NORMAL" orientation="FORWARD" lat="47.51700216587457" lon="8.77205011715311"/>
+		<TaxiwayPoint index="17" type="NORMAL" orientation="FORWARD" lat="47.51796443855700" lon="8.77313523265975"/>
+		<TaxiwayPoint index="18" type="NORMAL" orientation="FORWARD" lat="47.51800242999832" lon="8.77289220338450"/>
+		<TaxiwayPoint index="19" type="NORMAL" orientation="FORWARD" lat="47.51796850559302" lon="8.77274468845885"/>
+		<TaxiwayPoint index="20" type="NORMAL" orientation="FORWARD" lat="47.51787149257268" lon="8.77259985414024"/>
+		<TaxiwayPoint index="21" type="NORMAL" orientation="FORWARD" lat="47.51771228653506" lon="8.77250691546283"/>
+		<TaxiwayPoint index="22" type="NORMAL" orientation="FORWARD" lat="47.51355846440821" lon="8.77090865623104"/>
+		<TaxiwayPoint index="23" type="NORMAL" orientation="FORWARD" lat="47.51266028366967" lon="8.77047967909733"/>
+		<TaxiwayPoint index="24" type="NORMAL" orientation="FORWARD" lat="47.51179952379044" lon="8.77029438896474"/>
+		<TaxiwayPoint index="25" type="NORMAL" orientation="FORWARD" lat="47.51169122036922" lon="8.77037193863471"/>
+		<TaxiwayPoint index="26" type="NORMAL" orientation="FORWARD" lat="47.51162178566690" lon="8.77061587525401"/>
+		<TaxiwayPoint index="27" type="NORMAL" orientation="FORWARD" lat="47.51673263494315" lon="8.77219406790405"/>
+		<TaxiwayPoint index="28" type="NORMAL" orientation="FORWARD" lat="47.51679848775259" lon="8.77222004206598"/>
+		<TaxiwayPoint index="29" type="NORMAL" orientation="FORWARD" lat="47.51678341039439" lon="8.77212914071520"/>
+		<TaxiwayPoint index="30" type="NORMAL" orientation="FORWARD" lat="47.51680652921809" lon="8.77201345701164"/>
+		<TaxiwayPoint index="31" type="NORMAL" orientation="FORWARD" lat="47.51711212569650" lon="8.77233975724560"/>
+		<TaxiwayPoint index="32" type="NORMAL" orientation="FORWARD" lat="47.51725624871602" lon="8.77239063884977"/>
 		<TaxiwayPoint index="33" type="NORMAL" orientation="FORWARD" lat="47.51721474118438" lon="8.77225351744298"/>
 		<TaxiwayPoint index="34" type="NORMAL" orientation="FORWARD" lat="47.51722727209636" lon="8.77221462388254"/>
-		<TaxiwayPoint index="32" type="NORMAL" orientation="FORWARD" lat="47.51725624871602" lon="8.77239063884977"/>
-		<TaxiwayPoint index="11" type="NORMAL" orientation="FORWARD" lat="47.51729329088447" lon="8.77212043795180"/>
-		<TaxiwayPoint index="9" type="NORMAL" orientation="FORWARD" lat="47.51736014400507" lon="8.77209411504229"/>
-		<TaxiwayPoint index="13" type="NORMAL" orientation="FORWARD" lat="47.51744672040387" lon="8.77205419575665"/>
 		<TaxiwayPoint index="35" type="NORMAL" orientation="FORWARD" lat="47.51747003596520" lon="8.77243250718131"/>
-		<TaxiwayPoint index="12" type="NORMAL" orientation="FORWARD" lat="47.51751581786157" lon="8.77203648689758"/>
-		<TaxiwayPoint index="10" type="NORMAL" orientation="FORWARD" lat="47.51755873781900" lon="8.77202642130193"/>
 		<TaxiwayPoint index="36" type="NORMAL" orientation="FORWARD" lat="47.51761061120408" lon="8.77230838442638"/>
 		<TaxiwayPoint index="37" type="NORMAL" orientation="FORWARD" lat="47.51763449996646" lon="8.77223487761035"/>
-		<TaxiwayPoint index="21" type="NORMAL" orientation="FORWARD" lat="47.51771228653506" lon="8.77250691546283"/>
-		<TaxiwayPoint index="20" type="NORMAL" orientation="FORWARD" lat="47.51787149257268" lon="8.77259985414024"/>
-		<TaxiwayPoint index="17" type="NORMAL" orientation="FORWARD" lat="47.51796443855700" lon="8.77313523265975"/>
-		<TaxiwayPoint index="19" type="NORMAL" orientation="FORWARD" lat="47.51796850559302" lon="8.77274468845885"/>
-		<TaxiwayPoint index="18" type="NORMAL" orientation="FORWARD" lat="47.51800242999832" lon="8.77289220338450"/>
-		<TaxiwayPoint index="0" type="NORMAL" orientation="FORWARD" lat="47.51823715632563" lon="8.77308286851602"/>
-		<TaxiwayParking index="38" type="FUEL" lat="47.51767186160126" lon="8.77211756469774" heading="-67.000000" radius="6.000000" name="NONE" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="15" type="RAMP_GA_SMALL" lat="47.51724640190558" lon="8.77216325204785" heading="117.000000" radius="6.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="16" type="RAMP_GA_SMALL" lat="47.51682769873882" lon="8.77191498378380" heading="100.000000" radius="6.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="15" type="RAMP_GA_SMALL" lat="47.51725667549005" lon="8.77212570311448" heading="117.000000" radius="6.000000" name="PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="38" type="FUEL" lat="47.51767186160126" lon="8.77211756469774" heading="293.000000" radius="6.000000" name="NONE" number="20" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
 		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="34" end="15" width="4.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="30" end="16" width="4.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
@@ -143,8 +143,35 @@
 				<Vertex lat="47.51750987810045" lon="8.77191465104011"/>
 			</Apron>
 		</Aprons>
-		<PaintedElements/>
+		<PaintedElements>
+			<PaintedLine type="WIDE_WHITE" trueAngle="NONE">
+				<Vertex lat="47.51238769504157" lon="8.77074807651028"/>
+				<Vertex lat="47.51245353149746" lon="8.77079195283255"/>
+			</PaintedLine>
+			<PaintedLine type="WIDE_WHITE" trueAngle="NONE">
+				<Vertex lat="47.51238046977676" lon="8.77078370869453"/>
+				<Vertex lat="47.51245353873558" lon="8.77079198368798"/>
+			</PaintedLine>
+			<PaintedLine type="WIDE_WHITE" trueAngle="NONE">
+				<Vertex lat="47.51247851578233" lon="8.77077778436619"/>
+				<Vertex lat="47.51247068067151" lon="8.77082248456320"/>
+			</PaintedLine>
+			<PaintedLine type="WIDE_WHITE" trueAngle="NONE">
+				<Vertex lat="47.51748810625978" lon="8.77280232915416"/>
+				<Vertex lat="47.51748120239129" lon="8.77284640338719"/>
+			</PaintedLine>
+			<PaintedLine type="WIDE_WHITE" trueAngle="NONE">
+				<Vertex lat="47.51757528432683" lon="8.77287561504394"/>
+				<Vertex lat="47.51750491029328" lon="8.77282896535361"/>
+			</PaintedLine>
+			<PaintedLine type="WIDE_WHITE" trueAngle="NONE">
+				<Vertex lat="47.51758221860032" lon="8.77283775468594"/>
+				<Vertex lat="47.51750496766125" lon="8.77282886967546"/>
+			</PaintedLine>
+		</PaintedElements>
 		<ApronEdgeLights/>
+		<Com frequency="134.975" type="UNICOM" name="Winterthur"/>
+		<DeleteAirport deleteAllApproaches="TRUE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="TRUE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllBlastFences="TRUE" deleteAllBoundaryFences="TRUE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="TRUE" deleteAllArrivals="TRUE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="TRUE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="TRUE" deleteAllTerminalWaypoints="TRUE" deleteAllTerminalNDBs="TRUE"/>
 	</Airport>
 </FSData>
 
