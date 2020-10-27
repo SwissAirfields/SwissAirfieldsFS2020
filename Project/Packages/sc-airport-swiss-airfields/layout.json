@@ -28,12 +28,42 @@
     {
       "path": "manifest.json",
       "size": 299,
-      "date": 132482794212149979
+      "date": 132482945408172512
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Library.xml",
-      "size": 1810,
-      "date": 132482704630066597
+      "size": 4479,
+      "date": 132482945403536315
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/AIRFIELD_EDGE_FADED.PNG.DDS",
+      "size": 16512,
+      "date": 132482945406975112
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/airfield_edge_faded.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132482889472761579
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/AIRFIELD_EDGE_FADED.PNG.DDS.json",
+      "size": 249,
+      "date": 132482945406769901
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/RUNWAY_ARROW.PNG.DDS",
+      "size": 262272,
+      "date": 132482945406202888
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/runway_arrow.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132482898591252896
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/RUNWAY_ARROW.PNG.DDS.json",
+      "size": 249,
+      "date": 132482945405992692
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/RUNWAY_CORNER.PNG.DDS",
@@ -66,29 +96,44 @@
       "date": 132482704630701734
     },
     {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/WHITE_PAINT.PNG.DDS",
+      "size": 65664,
+      "date": 132482945404947448
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/white_paint.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132482883080254341
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/WHITE_PAINT.PNG.DDS.json",
+      "size": 232,
+      "date": 132482945404732214
+    },
+    {
       "path": "scenery/LSPH-PERIMETER.BGL",
       "size": 1281,
-      "date": 132482704628352843
+      "date": 132482945400626736
     },
     {
       "path": "scenery/LSPH.bgl",
-      "size": 165726,
-      "date": 132482704628218881
+      "size": 169050,
+      "date": 132482945400500664
     },
     {
       "path": "scenery/LSZV-PERIMETER.BGL",
       "size": 1210,
-      "date": 132482691389616289
+      "date": 132482945402746908
     },
     {
       "path": "scenery/LSZV.bgl",
       "size": 170027,
-      "date": 132482807969231676
+      "date": 132482945401910327
     },
     {
       "path": "scenery/SwissAirfieldsAssets/assets.BGL",
       "size": 50660,
-      "date": 132482794210904404
+      "date": 132482945526034531
     }
   ]
 }
