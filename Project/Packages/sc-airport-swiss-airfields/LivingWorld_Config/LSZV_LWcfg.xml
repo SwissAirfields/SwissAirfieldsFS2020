@@ -12,13 +12,13 @@
 			<ParkingEntry ParkingType="GATE_HEAVY" Rate="1.0"/>
 		</AmbientVehiclesQuantityByParking>	
 		<ParkedAircraftsQuantityByParking>
-			<ParkingEntryWeighted ParkingType="RAMP_GA_SMALL" Rate="0.05" GoodToBadMatchRate="0.7"/>
-			<ParkingEntryWeighted ParkingType="RAMP_GA_MEDIUM" Rate="0.05" GoodToBadMatchRate="0.5"/>
-			<ParkingEntryWeighted ParkingType="GATE_SMALL" Rate="0.05" GoodToBadMatchRate="0.5"/>
-			<ParkingEntryWeighted ParkingType="RAMP_CARGO" Rate="0.05" GoodToBadMatchRate="0.5"/>
-			<ParkingEntryWeighted ParkingType="GATE_MEDIUM" Rate="0.05" GoodToBadMatchRate="0.5"/>
-			<ParkingEntryWeighted ParkingType="GATE_HEAVY" Rate="0.05" GoodToBadMatchRate="0.5"/>
-			<ParkingEntryWeighted ParkingType="RAMP_GA_LARGE" Rate="0.05" GoodToBadMatchRate="0.5"/>
+			<ParkingEntryWeighted ParkingType="RAMP_GA_SMALL" Rate="0.9" GoodToBadMatchRate="0.7"/>
+			<ParkingEntryWeighted ParkingType="RAMP_GA_MEDIUM" Rate="0.9" GoodToBadMatchRate="0.5"/>
+			<ParkingEntryWeighted ParkingType="GATE_SMALL" Rate="0.9" GoodToBadMatchRate="0.5"/>
+			<ParkingEntryWeighted ParkingType="RAMP_CARGO" Rate="0.9" GoodToBadMatchRate="0.5"/>
+			<ParkingEntryWeighted ParkingType="GATE_MEDIUM" Rate="0.9" GoodToBadMatchRate="0.5"/>
+			<ParkingEntryWeighted ParkingType="GATE_HEAVY" Rate="0.9" GoodToBadMatchRate="0.5"/>
+			<ParkingEntryWeighted ParkingType="RAMP_GA_LARGE" Rate="0.9" GoodToBadMatchRate="0.5"/>
 		</ParkedAircraftsQuantityByParking>
 		<FrequencyOfServicesOnEmptyParkings Rate="0.01"/>
 		<RatioOfAmbientVehiclesThatAreImmobile Rate="0.15"/>
