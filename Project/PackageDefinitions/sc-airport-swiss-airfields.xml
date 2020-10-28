@@ -50,6 +50,15 @@
 			<AssetDir>PackageSources\LSZV\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="airport-lspg-kaegiswil">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSPG\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+
 	</AssetGroups>
 </AssetPackage>
 

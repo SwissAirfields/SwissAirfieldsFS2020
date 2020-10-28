@@ -1,6 +1,11 @@
 {
   "content": [
     {
+      "path": "AirportServices/LSPG/Services.xml",
+      "size": 2109,
+      "date": 132477953495595826
+    },
+    {
       "path": "AirportServices/LSPH/Services.xml",
       "size": 2109,
       "date": 132477953495595826
@@ -16,19 +21,24 @@
       "date": 132386270720000000
     },
     {
+      "path": "LivingWorld_Config/LSPG_LWcfg.xml",
+      "size": 2222,
+      "date": 132483063106887495
+    },
+    {
       "path": "LivingWorld_Config/LSPH_LWcfg.xml",
       "size": 2229,
       "date": 132477953495615831
     },
     {
       "path": "LivingWorld_Config/LSZV_LWcfg.xml",
-      "size": 2229,
-      "date": 132477953495615831
+      "size": 2222,
+      "date": 132483063106887495
     },
     {
       "path": "manifest.json",
       "size": 299,
-      "date": 132482945408172512
+      "date": 132483669605595561
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Library.xml",
@@ -109,6 +119,16 @@
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/WHITE_PAINT.PNG.DDS.json",
       "size": 232,
       "date": 132482945404732214
+    },
+    {
+      "path": "scenery/LSPG-PERIMETER.BGL",
+      "size": 1430,
+      "date": 132483707577511414
+    },
+    {
+      "path": "scenery/LSPG.bgl",
+      "size": 169112,
+      "date": 132483707577356280
     },
     {
       "path": "scenery/LSPH-PERIMETER.BGL",
