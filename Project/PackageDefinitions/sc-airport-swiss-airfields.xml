@@ -58,7 +58,14 @@
 			<AssetDir>PackageSources\LSPG\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
-
+		<AssetGroup Name="airport-lszt-lommis">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZT\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
 
