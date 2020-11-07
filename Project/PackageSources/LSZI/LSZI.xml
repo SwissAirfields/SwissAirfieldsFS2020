@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<SceneryObject lat="47.50841505652567" lon="7.95016262538292" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-0.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE"/>
+	</SceneryObject>
+	<Airport region="Europe" country="Switzerland" state="Aargau" city="Schupfart" name="Fricktal-Schupfart" ident="LSZI" lat="47.50877683954674" lon="7.95046396970851" alt="543.06769757345319" magvar="2.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<TaxiName index="0" name=""/>
+		<Runway lat="47.50896857307685" lon="7.94987732097568" alt="542.46980396285653" heading="74.70001983642578" length="530.00000000000000" width="30.00000000000000" patternAltitude="914.00000000000000" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" transparent="TRUE" number="07" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="47.50834969662360" lon="7.94660680702640" alt="542.46505825966597" heading="74.00003051757813"/>
+			<RunwayStart end="SECONDARY" lat="47.50959666065746" lon="7.95325302971718" alt="542.47498526424170" heading="-105.99996948242188"/>
+		</Runway>
+		<Runway lat="47.50922251266699" lon="7.94977417862937" alt="542.47304855659604" heading="74.70001983642578" length="530.00000000000000" width="30.00000000000000" patternAltitude="914.00000000000000" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" transparent="TRUE" number="07" designator="L" primaryLanding="FALSE" primaryTakeoff="FALSE" primaryPattern="LEFT" secondaryLanding="FALSE" secondaryTakeoff="FALSE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="47.50860363621374" lon="7.94650366468010" alt="542.46830285340548" heading="74.00003051757813"/>
+			<RunwayStart end="SECONDARY" lat="47.50985060024761" lon="7.95314988737088" alt="542.47822985798120" heading="-105.99996948242188"/>
+		</Runway>
+		<Aprons>
+			<Apron surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="87" green="87" blue="87" alpha="255" override="TRUE"/>
+				<Vertex lat="47.50831303724762" lon="7.95135595580707"/>
+				<Vertex lat="47.50850518480073" lon="7.95128342231179"/>
+				<Vertex lat="47.50865499668323" lon="7.95195497317798"/>
+				<Vertex lat="47.50875607946770" lon="7.95191127143639"/>
+				<Vertex lat="47.50882911985806" lon="7.95230614794687"/>
+				<Vertex lat="47.50901241911667" lon="7.95248274274016"/>
+				<Vertex lat="47.50905378595152" lon="7.95270018217618"/>
+				<Vertex lat="47.50890323361931" lon="7.95276648820721"/>
+				<Vertex lat="47.50881220483895" lon="7.95275824668754"/>
+				<Vertex lat="47.50872045666309" lon="7.95281553250943"/>
+				<Vertex lat="47.50869558184975" lon="7.95276867717273"/>
+				<Vertex lat="47.50846134432396" lon="7.95288830730176"/>
+				<Vertex lat="47.50838568687632" lon="7.95250316598372"/>
+				<Vertex lat="47.50834115643888" lon="7.95249842555902"/>
+				<Vertex lat="47.50817328919149" lon="7.95162902743142"/>
+				<Vertex lat="47.50835058471993" lon="7.95154729550475"/>
+			</Apron>
+			<Apron surface="{94AD3AE4-CF79-4B18-8725-CE4903C0CA2A}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50821697442291" lon="7.94657348899740"/>
+				<Vertex lat="47.50820748183464" lon="7.94652227729689"/>
+				<Vertex lat="47.50824218083743" lon="7.94650826737199"/>
+				<Vertex lat="47.50825167343191" lon="7.94655947910372"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50832769886062" lon="7.94648604586234"/>
+				<Vertex lat="47.50832532571278" lon="7.94647324290560"/>
+				<Vertex lat="47.50835134766486" lon="7.94646273637835"/>
+				<Vertex lat="47.50835372081387" lon="7.94647553934094"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50838841771701" lon="7.94743854535124"/>
+				<Vertex lat="47.50838319679807" lon="7.94741037884021"/>
+				<Vertex lat="47.50844391531704" lon="7.94738586330890"/>
+				<Vertex lat="47.50844913624194" lon="7.94741402984999"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50842517289148" lon="7.94764124568387"/>
+				<Vertex lat="47.50841649811862" lon="7.94764474817475"/>
+				<Vertex lat="47.50840937932833" lon="7.94760634272408"/>
+				<Vertex lat="47.50841805410002" lon="7.94760284022734"/>
+			</Apron>
+			<Apron surface="{D348E47C-BE45-478F-A507-251BB57811B6}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50845508693363" lon="7.94734917457696"/>
+				<Vertex lat="47.50842038785437" lon="7.94736318450808"/>
+				<Vertex lat="47.50839665642925" lon="7.94723515485344"/>
+				<Vertex lat="47.50843135549302" lon="7.94722114484426"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50843438392518" lon="7.94644395571474"/>
+				<Vertex lat="47.50843201077857" lon="7.94643115273526"/>
+				<Vertex lat="47.50849273415521" lon="7.94640663522817"/>
+				<Vertex lat="47.50849510730453" lon="7.94641943822131"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50847722672651" lon="7.94646848929369"/>
+				<Vertex lat="47.50846855195494" lon="7.94647199178840"/>
+				<Vertex lat="47.50846143316398" lon="7.94643358630502"/>
+				<Vertex lat="47.50847010793439" lon="7.94643008380445"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50852030434159" lon="7.94819195767944"/>
+				<Vertex lat="47.50851674462356" lon="7.94817275319795"/>
+				<Vertex lat="47.50852541956353" lon="7.94816925062326"/>
+				<Vertex lat="47.50852897928214" lon="7.94818845510768"/>
+			</Apron>
+			<Apron surface="{D348E47C-BE45-478F-A507-251BB57811B6}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50857780494544" lon="7.94730028819530"/>
+				<Vertex lat="47.50854310586875" lon="7.94731429816058"/>
+				<Vertex lat="47.50851937444161" lon="7.94718626821429"/>
+				<Vertex lat="47.50855407350280" lon="7.94717225817094"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50857796894542" lon="7.94638495737205"/>
+				<Vertex lat="47.50857559579780" lon="7.94637215435562"/>
+				<Vertex lat="47.50860161774637" lon="7.94636164777900"/>
+				<Vertex lat="47.50860399089515" lon="7.94637445080128"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50857039014303" lon="7.94736453840339"/>
+				<Vertex lat="47.50856516922413" lon="7.94733637179330"/>
+				<Vertex lat="47.50862588774486" lon="7.94731185617671"/>
+				<Vertex lat="47.50863110866972" lon="7.94734002281686"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50863441027536" lon="7.94875405198258"/>
+				<Vertex lat="47.50862573550159" lon="7.94875755448784"/>
+				<Vertex lat="47.50861861671062" lon="7.94871914887908"/>
+				<Vertex lat="47.50862729148322" lon="7.94871564636796"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50867649324816" lon="7.94753791463415"/>
+				<Vertex lat="47.50866781847602" lon="7.94754141714187"/>
+				<Vertex lat="47.50866069968581" lon="7.94750301150932"/>
+				<Vertex lat="47.50866937445679" lon="7.94749950899575"/>
+			</Apron>
+			<Apron surface="{94AD3AE4-CF79-4B18-8725-CE4903C0CA2A}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="1.837832" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50868082785681" lon="7.94632902765409"/>
+				<Vertex lat="47.50871552692673" lon="7.94631501756489"/>
+				<Vertex lat="47.50872501950793" lon="7.94636622965282"/>
+				<Vertex lat="47.50869032043182" lon="7.94638023971079"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50872900060691" lon="7.94930543684899"/>
+				<Vertex lat="47.50872544088853" lon="7.94928623228841"/>
+				<Vertex lat="47.50873411582953" lon="7.94928272969937"/>
+				<Vertex lat="47.50873767554849" lon="7.94930193426288"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50876847756452" lon="7.94809032324193"/>
+				<Vertex lat="47.50876491784678" lon="7.94807111867134"/>
+				<Vertex lat="47.50877359278573" lon="7.94806761608028"/>
+				<Vertex lat="47.50877715250405" lon="7.94808682065381"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50884242988876" lon="7.94987667611271"/>
+				<Vertex lat="47.50883375511506" lon="7.94988017863225"/>
+				<Vertex lat="47.50882663632346" lon="7.94984177287066"/>
+				<Vertex lat="47.50883531109599" lon="7.94983827034526"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50888653329772" lon="7.94865245786773"/>
+				<Vertex lat="47.50887785852489" lon="7.94865596039025"/>
+				<Vertex lat="47.50887073973328" lon="7.94861755460002"/>
+				<Vertex lat="47.50887941450494" lon="7.94861405207166"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50893586419991" lon="7.95043349132043"/>
+				<Vertex lat="47.50893230448172" lon="7.95041428668475"/>
+				<Vertex lat="47.50894097942224" lon="7.95041078408200"/>
+				<Vertex lat="47.50894453914101" lon="7.95042998872061"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50897761663318" lon="7.94920420084476"/>
+				<Vertex lat="47.50897405691529" lon="7.94918499619674"/>
+				<Vertex lat="47.50898273185445" lon="7.94918149359148"/>
+				<Vertex lat="47.50898629157292" lon="7.94920069824242"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50904987554932" lon="7.95100225557778"/>
+				<Vertex lat="47.50904120077585" lon="7.95100575811097"/>
+				<Vertex lat="47.50903408198483" lon="7.95096735219767"/>
+				<Vertex lat="47.50904275675713" lon="7.95096384965862"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50909394332592" lon="7.94976917859122"/>
+				<Vertex lat="47.50908526855297" lon="7.94977268112766"/>
+				<Vertex lat="47.50907814976134" lon="7.94973427518420"/>
+				<Vertex lat="47.50908682453314" lon="7.94973077264190"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50913995910602" lon="7.95154203589082"/>
+				<Vertex lat="47.50913639938775" lon="7.95152283117923"/>
+				<Vertex lat="47.50914507432861" lon="7.95151932856268"/>
+				<Vertex lat="47.50914863404748" lon="7.95153853327720"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50918541820781" lon="7.95033353523083"/>
+				<Vertex lat="47.50918185848967" lon="7.95031433050327"/>
+				<Vertex lat="47.50919053343021" lon="7.95031082788380"/>
+				<Vertex lat="47.50919409314892" lon="7.95033003261430"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50924963425440" lon="7.95208943491529"/>
+				<Vertex lat="47.50924095948013" lon="7.95209293746179"/>
+				<Vertex lat="47.50923384068932" lon="7.95205453139789"/>
+				<Vertex lat="47.50924251546242" lon="7.95205102884554"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50930111815476" lon="7.95090248124626"/>
+				<Vertex lat="47.50929244338174" lon="7.95090598379633"/>
+				<Vertex lat="47.50928532459068" lon="7.95086757770003"/>
+				<Vertex lat="47.50929399936254" lon="7.95086407514410"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50935356221687" lon="7.95270341729536"/>
+				<Vertex lat="47.50935000249828" lon="7.95268421250362"/>
+				<Vertex lat="47.50935867743984" lon="7.95268070987244"/>
+				<Vertex lat="47.50936223715901" lon="7.95269991466711"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50938883092430" lon="7.95144328197287"/>
+				<Vertex lat="47.50938527120621" lon="7.95142407717121"/>
+				<Vertex lat="47.50939394614636" lon="7.95142057453814"/>
+				<Vertex lat="47.50939750586505" lon="7.95143977934272"/>
+			</Apron>
+			<Apron surface="{94AD3AE4-CF79-4B18-8725-CE4903C0CA2A}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50950902577653" lon="7.95332405030415"/>
+				<Vertex lat="47.50947432668588" lon="7.95333806055134"/>
+				<Vertex lat="47.50946483412532" lon="7.95328684770356"/>
+				<Vertex lat="47.50949953320978" lon="7.95327283742514"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50950053260524" lon="7.95198966877696"/>
+				<Vertex lat="47.50949185783142" lon="7.95199317134031"/>
+				<Vertex lat="47.50948473904059" lon="7.95195476509364"/>
+				<Vertex lat="47.50949341381325" lon="7.95195126252443"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50945781081685" lon="7.95321325253582"/>
+				<Vertex lat="47.50945258990659" lon="7.95318508544308"/>
+				<Vertex lat="47.50969548333629" lon="7.95308701331790"/>
+				<Vertex lat="47.50970070427042" lon="7.95311518053087"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50958973168621" lon="7.95329130426118"/>
+				<Vertex lat="47.50958735853798" lon="7.95327850099351"/>
+				<Vertex lat="47.50961338049250" lon="7.95326799421041"/>
+				<Vertex lat="47.50961575364189" lon="7.95328079748394"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50960136693081" lon="7.95260193647209"/>
+				<Vertex lat="47.50959780721251" lon="7.95258273159134"/>
+				<Vertex lat="47.50960648215306" lon="7.95257922894379"/>
+				<Vertex lat="47.50961004187194" lon="7.95259843382747"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="4.979424" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50972920304450" lon="7.95321912093055"/>
+				<Vertex lat="47.50972052827058" lon="7.95322262350961"/>
+				<Vertex lat="47.50971340947903" lon="7.95318421709418"/>
+				<Vertex lat="47.50972208425178" lon="7.95318071450927"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50969799978603" lon="7.95324616868603"/>
+				<Vertex lat="47.50969562663885" lon="7.95323336539310"/>
+				<Vertex lat="47.50975635003131" lon="7.95320884728632"/>
+				<Vertex lat="47.50975872318119" lon="7.95322165059290"/>
+			</Apron>
+			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.408628" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50984041444598" lon="7.95318736738997"/>
+				<Vertex lat="47.50983804129783" lon="7.95317456406045"/>
+				<Vertex lat="47.50986406325303" lon="7.95316405722714"/>
+				<Vertex lat="47.50986643640234" lon="7.95317686056251"/>
+			</Apron>
+			<Apron surface="{94AD3AE4-CF79-4B18-8725-CE4903C0CA2A}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="0.267036" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.50997398000810" lon="7.95307588577992"/>
+				<Vertex lat="47.50998347261280" lon="7.95312709921369"/>
+				<Vertex lat="47.50994877360250" lon="7.95314110958753"/>
+				<Vertex lat="47.50993928100399" lon="7.95308989618499"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+		<DeleteAirport deleteAllApproaches="TRUE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="TRUE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllBlastFences="TRUE" deleteAllBoundaryFences="TRUE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="TRUE" deleteAllArrivals="TRUE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="TRUE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="TRUE" deleteAllTerminalWaypoints="TRUE" deleteAllTerminalNDBs="TRUE"/>
+	</Airport>
+</FSData>
+

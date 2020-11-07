@@ -82,6 +82,14 @@
 			<AssetDir>PackageSources\LSZV\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="airport-lszi-fricktal_schupfart">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZI\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
 
