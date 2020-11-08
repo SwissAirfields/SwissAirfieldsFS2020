@@ -18,12 +18,20 @@
 			<AssetDir>PackageDefinitions\sc-airport-swiss-airfields\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\sc-airport-swiss-airfields\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="SimObjects-LSZI-tee">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\misc\LSZI-tee</AssetDir>
+			<OutputDir>SimObjects\misc\LSZI-tee</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="SimObjects-LSZT-tee">
 			<Type>SimObject</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\SimObjects\misc\LSZT-tee</AssetDir>
+			<AssetDir>PackageSources\SimObjects\misc\LSZT-tee\</AssetDir>
 			<OutputDir>SimObjects\misc\LSZT-tee\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="SwissAirfieldsAssets">
@@ -56,6 +64,14 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\LSPH\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="airport-lszi-fricktal_schupfart">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZI\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="airport-lszk-speck">
