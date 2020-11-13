@@ -98,6 +98,14 @@
 			<AssetDir>PackageSources\LSZV\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="airport-lsgc-les_eplatures">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSGC\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
 
