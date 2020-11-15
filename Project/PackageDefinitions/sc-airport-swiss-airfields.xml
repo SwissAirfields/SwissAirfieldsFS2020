@@ -34,6 +34,14 @@
 			<AssetDir>PackageSources\SimObjects\misc\LSZT-tee\</AssetDir>
 			<OutputDir>SimObjects\misc\LSZT-tee\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="SimObjects-LSZQ-tee">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\misc\LSZQ-tee\</AssetDir>
+			<OutputDir>SimObjects\misc\LSZQ-tee\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="SwissAirfieldsAssets">
 			<Type>ArtProj</Type>
 			<Flags>
@@ -104,6 +112,14 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\LSGC\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="airport-lszq-bressaucourt">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZQ\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
