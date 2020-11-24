@@ -122,6 +122,14 @@
 			<AssetDir>PackageSources\LSZQ\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="airport-lszf-birrfeld">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZF\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
 
