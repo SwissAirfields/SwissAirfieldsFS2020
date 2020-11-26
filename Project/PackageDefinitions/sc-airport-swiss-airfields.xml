@@ -18,21 +18,21 @@
 			<AssetDir>PackageDefinitions\sc-airport-swiss-airfields\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\sc-airport-swiss-airfields\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="SimObjects-LSZF-tee">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\misc\LSZF-tee</AssetDir>
+			<OutputDir>SimObjects\misc\LSZF-tee</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="SimObjects-LSZI-tee">
 			<Type>SimObject</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\SimObjects\misc\LSZI-tee</AssetDir>
-			<OutputDir>SimObjects\misc\LSZI-tee</OutputDir>
-		</AssetGroup>
-		<AssetGroup Name="SimObjects-LSZT-tee">
-			<Type>SimObject</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageSources\SimObjects\misc\LSZT-tee\</AssetDir>
-			<OutputDir>SimObjects\misc\LSZT-tee\</OutputDir>
+			<AssetDir>PackageSources\SimObjects\misc\LSZI-tee\</AssetDir>
+			<OutputDir>SimObjects\misc\LSZI-tee\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="SimObjects-LSZQ-tee">
 			<Type>SimObject</Type>
@@ -41,6 +41,14 @@
 			</Flags>
 			<AssetDir>PackageSources\SimObjects\misc\LSZQ-tee\</AssetDir>
 			<OutputDir>SimObjects\misc\LSZQ-tee\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="SimObjects-LSZT-tee">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\misc\LSZT-tee\</AssetDir>
+			<OutputDir>SimObjects\misc\LSZT-tee\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="SwissAirfieldsAssets">
 			<Type>ArtProj</Type>
@@ -58,6 +66,14 @@
 			<AssetDir>PackageSources\materials\</AssetDir>
 			<OutputDir>MaterialLibs\SwissAirfieldsMaterials\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="airport-lsgc-les_eplatures">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSGC\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="airport-lspg-kaegiswil">
 			<Type>BGL</Type>
 			<Flags>
@@ -72,6 +88,14 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\LSPH\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="airport-lszf-birrfeld">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZF\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="airport-lszi-fricktal_schupfart">
@@ -90,6 +114,14 @@
 			<AssetDir>PackageSources\LSZK\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="airport-lszq-bressaucourt">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZQ\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="airport-lszt-lommis">
 			<Type>BGL</Type>
 			<Flags>
@@ -104,22 +136,6 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\LSZV\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
-		</AssetGroup>
-		<AssetGroup Name="airport-lsgc-les_eplatures">
-			<Type>BGL</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageSources\LSGC\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
-		</AssetGroup>
-		<AssetGroup Name="airport-lszq-bressaucourt">
-			<Type>BGL</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageSources\LSZQ\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
