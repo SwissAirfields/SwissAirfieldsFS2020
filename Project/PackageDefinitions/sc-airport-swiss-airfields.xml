@@ -18,6 +18,14 @@
 			<AssetDir>PackageDefinitions\sc-airport-swiss-airfields\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\sc-airport-swiss-airfields\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="SimObject-LSGE-tee">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\misc\LSGE-tee</AssetDir>
+			<OutputDir>SimObjects\misc\LSGE-tee</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="SimObjects-LSZF-tee">
 			<Type>SimObject</Type>
 			<Flags>
@@ -55,8 +63,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\SimObjects\misc\LSZV-tee</AssetDir>
-			<OutputDir>SimObjects\misc\LSZV-tee</OutputDir>
+			<AssetDir>PackageSources\SimObjects\misc\LSZV-tee\</AssetDir>
+			<OutputDir>SimObjects\misc\LSZV-tee\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="SwissAirfieldsAssets">
 			<Type>ArtProj</Type>
