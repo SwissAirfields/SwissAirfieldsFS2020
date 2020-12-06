@@ -23,8 +23,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\SimObjects\misc\LSZF-tee</AssetDir>
-			<OutputDir>SimObjects\misc\LSZF-tee</OutputDir>
+			<AssetDir>PackageSources\SimObjects\misc\LSZF-tee\</AssetDir>
+			<OutputDir>SimObjects\misc\LSZF-tee\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="SimObjects-LSZI-tee">
 			<Type>SimObject</Type>
@@ -50,6 +50,14 @@
 			<AssetDir>PackageSources\SimObjects\misc\LSZT-tee\</AssetDir>
 			<OutputDir>SimObjects\misc\LSZT-tee\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="SimObjects-LSZV-tee">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\misc\LSZV-tee</AssetDir>
+			<OutputDir>SimObjects\misc\LSZV-tee</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="SwissAirfieldsAssets">
 			<Type>ArtProj</Type>
 			<Flags>
@@ -72,6 +80,14 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\LSGC\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="airport-lsge-ecuvillens">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSGE\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="airport-lspg-kaegiswil">
