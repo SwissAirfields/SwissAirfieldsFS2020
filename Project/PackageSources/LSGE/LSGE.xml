@@ -65,7 +65,7 @@
 	<SceneryObject lat="46.75463035033351" lon="7.07625447843545" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-0.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="10.000000" sockLength="4.000000" lighted="FALSE"/>
 	</SceneryObject>
-	<Rectangle width="222.215820" falloff="70.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="46.75485825890905" longitude="7.07046468751008" altitude="693.63696639053524" latitude2="46.75420019738090" longitude2="7.08089030273514" altitude2="693.62415364105254">
+	<Rectangle width="222.215820" falloff="70.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="46.75485802173582" longitude="7.07046465555741" altitude="693.63696191646159" latitude2="46.75420043454722" longitude2="7.08089033473316" altitude2="693.62416145205498">
 		<RunwayDeformation alt="694.780945" ratio="0.000000"/>
 		<RunwayDeformation alt="696.095764" ratio="0.500000"/>
 		<RunwayDeformation alt="696.299988" ratio="0.625000"/>
@@ -306,7 +306,7 @@
 			<RunwayDeformation alt="698.900024" ratio="0.875000"/>
 			<RunwayDeformation alt="698.900024" ratio="1.000000"/>
 			<Markings edges="FALSE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="TRUE" ident="TRUE" leadingZeroIdent="TRUE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
-			<Lights center="NONE" edge="MEDIUM"/>
+			<Lights center="NONE" edge="NONE"/>
 			<Vasi end="PRIMARY" side="RIGHT" type="APAP" biasX="19.711651" biasZ="311.118195" spacing="90.000000" pitch="4.500000"/>
 			<Vasi end="SECONDARY" side="LEFT" type="APAP" biasX="20.615473" biasZ="314.108429" spacing="90.000000" pitch="4.000000"/>
 			<RunwayStart end="PRIMARY" lat="46.75556324150703" lon="7.07103443386134" alt="692.65065529942513" heading="95.08000183105469"/>
