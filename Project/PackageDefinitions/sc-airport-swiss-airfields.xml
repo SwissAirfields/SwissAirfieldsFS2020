@@ -114,6 +114,14 @@
 			<AssetDir>PackageSources\LSPH\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="airport-lsze-bad_ragaz">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZE\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="airport-lszf-birrfeld">
 			<Type>BGL</Type>
 			<Flags>
