@@ -11,6 +11,11 @@
       "date": 132517614936329105
     },
     {
+      "path": "AirportServices/LSGY/Services.xml",
+      "size": 2109,
+      "date": 132517614936329105
+    },
+    {
       "path": "AirportServices/LSPG/Services.xml",
       "size": 2109,
       "date": 132477953495595826
@@ -67,6 +72,11 @@
     },
     {
       "path": "LivingWorld_Config/LSGE_LWcfg.xml",
+      "size": 2222,
+      "date": 132517614936414402
+    },
+    {
+      "path": "LivingWorld_Config/LSGY_LWcfg.xml",
       "size": 2222,
       "date": 132517614936414402
     },
@@ -321,6 +331,16 @@
       "date": 132526378072455425
     },
     {
+      "path": "scenery/LSGY-PERIMETER.BGL",
+      "size": 6930,
+      "date": 132540164831836494
+    },
+    {
+      "path": "scenery/LSGY.bgl",
+      "size": 89496,
+      "date": 132540164831287874
+    },
+    {
       "path": "scenery/LSPG-PERIMETER.BGL",
       "size": 1430,
       "date": 132483707577511414
@@ -444,6 +464,36 @@
       "path": "SimObjects/misc/LSGE-tee/texture/texture.CFG",
       "size": 63,
       "date": 132517614936092516
+    },
+    {
+      "path": "SimObjects/misc/LSGY-tee/model/LSGY-tee.bin",
+      "size": 2816,
+      "date": 132540133119211421
+    },
+    {
+      "path": "SimObjects/misc/LSGY-tee/model/LSGY-tee.gltf",
+      "size": 4517,
+      "date": 132540133119301356
+    },
+    {
+      "path": "SimObjects/misc/LSGY-tee/model/LSGY-tee.xml",
+      "size": 585,
+      "date": 132540124421094134
+    },
+    {
+      "path": "SimObjects/misc/LSGY-tee/model/model.CFG",
+      "size": 29,
+      "date": 132540124551083284
+    },
+    {
+      "path": "SimObjects/misc/LSGY-tee/sim.cfg",
+      "size": 111,
+      "date": 132540123232850414
+    },
+    {
+      "path": "SimObjects/misc/LSGY-tee/texture/texture.CFG",
+      "size": 63,
+      "date": 132493288480642590
     },
     {
       "path": "SimObjects/misc/LSZF-tee/model/LSZF-tee.bin",
