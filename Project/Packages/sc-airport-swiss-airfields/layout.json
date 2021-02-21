@@ -8,12 +8,12 @@
     {
       "path": "AirportServices/LSGE/Services.xml",
       "size": 2109,
-      "date": 132517614936329105
+      "date": 132584089903157410
     },
     {
       "path": "AirportServices/LSGY/Services.xml",
       "size": 2109,
-      "date": 132517614936329105
+      "date": 132584089903167343
     },
     {
       "path": "AirportServices/LSPG/Services.xml",
@@ -28,7 +28,7 @@
     {
       "path": "AirportServices/LSZE/Services.xml",
       "size": 2109,
-      "date": 132526373838916466
+      "date": 132584089903177356
     },
     {
       "path": "AirportServices/LSZF/Services.xml",
@@ -73,12 +73,12 @@
     {
       "path": "LivingWorld_Config/LSGE_LWcfg.xml",
       "size": 2222,
-      "date": 132517614936414402
+      "date": 132584089903177356
     },
     {
       "path": "LivingWorld_Config/LSGY_LWcfg.xml",
       "size": 2222,
-      "date": 132517614936414402
+      "date": 132584089903190519
     },
     {
       "path": "LivingWorld_Config/LSPG_LWcfg.xml",
@@ -93,7 +93,7 @@
     {
       "path": "LivingWorld_Config/LSZE_LWcfg.xml",
       "size": 2222,
-      "date": 132526373838916466
+      "date": 132584089903200428
     },
     {
       "path": "LivingWorld_Config/LSZF_LWcfg.xml",
@@ -126,14 +126,49 @@
       "date": 132483063106887495
     },
     {
+      "path": "MaterialLibs/MaterialsLSZF/Library.xml",
+      "size": 1808,
+      "date": 132584190152087279
+    },
+    {
+      "path": "MaterialLibs/MaterialsLSZF/Textures/LSZF_LINES1.PNG.DDS",
+      "size": 349700,
+      "date": 132584190156119615
+    },
+    {
+      "path": "MaterialLibs/MaterialsLSZF/Textures/LSZF_lines1.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132584171902162043
+    },
+    {
+      "path": "MaterialLibs/MaterialsLSZF/Textures/LSZF_LINES1.PNG.DDS.json",
+      "size": 249,
+      "date": 132584190156009850
+    },
+    {
+      "path": "MaterialLibs/MaterialsLSZF/Textures/LSZF_LINES2.PNG.DDS",
+      "size": 349700,
+      "date": 132584190154054429
+    },
+    {
+      "path": "MaterialLibs/MaterialsLSZF/Textures/LSZF_lines2.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132584172508885241
+    },
+    {
+      "path": "MaterialLibs/MaterialsLSZF/Textures/LSZF_LINES2.PNG.DDS.json",
+      "size": 249,
+      "date": 132584190153989232
+    },
+    {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Library.xml",
-      "size": 10681,
-      "date": 132508252342240902
+      "size": 12451,
+      "date": 132584210643224272
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/AIRFIELD_EDGE_FADED.PNG.DDS",
       "size": 16512,
-      "date": 132482945406975112
+      "date": 132584086261521739
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/airfield_edge_faded.png.DDS.FLAGS",
@@ -143,12 +178,12 @@
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/AIRFIELD_EDGE_FADED.PNG.DDS.json",
       "size": 249,
-      "date": 132482945406769901
+      "date": 132574718244309474
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/CAUTION.PNG.DDS",
       "size": 65664,
-      "date": 132490068287408883
+      "date": 132584086261752138
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/caution.png.DDS.FLAGS",
@@ -158,12 +193,12 @@
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/CAUTION.PNG.DDS.json",
       "size": 232,
-      "date": 132490068287343738
+      "date": 132574718242758072
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/CLOSED.PNG.DDS",
       "size": 22020,
-      "date": 132490068288643236
+      "date": 132574718247436534
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/closed.png.DDS.FLAGS",
@@ -173,12 +208,12 @@
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/CLOSED.PNG.DDS.json",
       "size": 232,
-      "date": 132490068288588071
+      "date": 132574718247421400
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/GLIDER_ACT.PNG.DDS",
       "size": 5636,
-      "date": 132497595197876826
+      "date": 132574718229032630
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/glider_act.png.DDS.FLAGS",
@@ -188,12 +223,12 @@
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/GLIDER_ACT.PNG.DDS.json",
       "size": 249,
-      "date": 132497595197886830
+      "date": 132574718229012624
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSGC-FREQUENCY.PNG.DDS",
       "size": 1048704,
-      "date": 132497769523535843
+      "date": 132584086262226110
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSGC-frequency.png.DDS.FLAGS",
@@ -203,12 +238,12 @@
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSGC-FREQUENCY.PNG.DDS.json",
       "size": 246,
-      "date": 132497769523480756
+      "date": 132574718221416857
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSGC_HOLD_06.PNG.DDS",
       "size": 1048704,
-      "date": 132497769523971123
+      "date": 132584086262016559
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSGC_hold_06.png.DDS.FLAGS",
@@ -218,12 +253,12 @@
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSGC_HOLD_06.PNG.DDS.json",
       "size": 249,
-      "date": 132497769523906384
+      "date": 132574718246113570
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSGC_HOLD_24.PNG.DDS",
       "size": 1048704,
-      "date": 132497769523748322
+      "date": 132584086262050773
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSGC_hold_24.png.DDS.FLAGS",
@@ -233,12 +268,42 @@
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSGC_HOLD_24.PNG.DDS.json",
       "size": 249,
-      "date": 132497769523631042
+      "date": 132574718224750887
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSZF_LINES1.PNG.DDS",
+      "size": 349700,
+      "date": 132584210647042623
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSZF_lines1.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132584207013370409
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSZF_LINES1.PNG.DDS.json",
+      "size": 249,
+      "date": 132584210647012575
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSZF_LINES2.PNG.DDS",
+      "size": 349700,
+      "date": 132584210645119515
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSZF_lines2.png.DDS.FLAGS",
+      "size": 39,
+      "date": 132584207233160294
+    },
+    {
+      "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/LSZF_LINES2.PNG.DDS.json",
+      "size": 249,
+      "date": 132584210645099519
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/ROLLING_RESTRICTED.PNG.DDS",
       "size": 65664,
-      "date": 132490068287238505
+      "date": 132584086262297625
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/rolling_restricted.png.DDS.FLAGS",
@@ -248,12 +313,12 @@
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/ROLLING_RESTRICTED.PNG.DDS.json",
       "size": 249,
-      "date": 132490068287183372
+      "date": 132574718222901907
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/RUNWAY_ARROW.PNG.DDS",
       "size": 262272,
-      "date": 132482945406202888
+      "date": 132584086262442484
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/runway_arrow.png.DDS.FLAGS",
@@ -263,12 +328,12 @@
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/RUNWAY_ARROW.PNG.DDS.json",
       "size": 249,
-      "date": 132482945405992692
+      "date": 132574718241232551
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/RUNWAY_CORNER.PNG.DDS",
       "size": 65664,
-      "date": 132482704630381004
+      "date": 132584086262567686
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/runway_corner.png.DDS.FLAGS",
@@ -278,12 +343,12 @@
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/RUNWAY_CORNER.PNG.DDS.json",
       "size": 249,
-      "date": 132482704630250192
+      "date": 132574718226163151
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/RUNWAY_SIDE.PNG.DDS",
       "size": 16512,
-      "date": 132482704630787039
+      "date": 132584086262783745
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/runway_side.png.DDS.FLAGS",
@@ -293,12 +358,12 @@
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/RUNWAY_SIDE.PNG.DDS.json",
       "size": 249,
-      "date": 132482704630701734
+      "date": 132574718239708649
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/WHITE_PAINT.PNG.DDS",
       "size": 65664,
-      "date": 132482945404947448
+      "date": 132584086262795896
     },
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/white_paint.png.DDS.FLAGS",
@@ -308,202 +373,202 @@
     {
       "path": "MaterialLibs/SwissAirfieldsMaterials/Textures/WHITE_PAINT.PNG.DDS.json",
       "size": 232,
-      "date": 132482945404732214
+      "date": 132574718238447912
     },
     {
       "path": "scenery/LSGC-PERIMETER.BGL",
       "size": 2315,
-      "date": 132497769521724767
+      "date": 132574718199744224
     },
     {
       "path": "scenery/LSGC.bgl",
-      "size": 79156,
-      "date": 132498790497872025
+      "size": 79158,
+      "date": 132584190143970398
     },
     {
       "path": "scenery/LSGE-PERIMETER.BGL",
       "size": 1696,
-      "date": 132518577622421850
+      "date": 132584190145009376
     },
     {
       "path": "scenery/LSGE.bgl",
-      "size": 71319,
-      "date": 132526378072455425
+      "size": 71855,
+      "date": 132584190144695370
     },
     {
       "path": "scenery/LSGY-PERIMETER.BGL",
       "size": 7074,
-      "date": 132540180049305521
+      "date": 132584190147455164
     },
     {
       "path": "scenery/LSGY.bgl",
       "size": 89496,
-      "date": 132540180048571436
+      "date": 132584190146151418
     },
     {
       "path": "scenery/LSPG-PERIMETER.BGL",
       "size": 1430,
-      "date": 132483707577511414
+      "date": 132574718206592403
     },
     {
       "path": "scenery/LSPG.bgl",
-      "size": 169112,
-      "date": 132490068281987237
+      "size": 169120,
+      "date": 132584190149079672
     },
     {
       "path": "scenery/LSPH-PERIMETER.BGL",
-      "size": 1281,
-      "date": 132482945400626736
+      "size": 3264,
+      "date": 132584190150588349
     },
     {
       "path": "scenery/LSPH.bgl",
-      "size": 169050,
-      "date": 132490068282929482
+      "size": 169126,
+      "date": 132584190150016259
     },
     {
       "path": "scenery/LSZE-PERIMETER.BGL",
       "size": 1633,
-      "date": 132526378073152866
+      "date": 132584190151679869
     },
     {
       "path": "scenery/LSZE.bgl",
       "size": 13331,
-      "date": 132526378072986607
+      "date": 132584190151276293
     },
     {
       "path": "scenery/LSZF-PERIMETER.BGL",
       "size": 2248,
-      "date": 132509050238983522
+      "date": 132574718211335212
     },
     {
       "path": "scenery/LSZF.bgl",
-      "size": 144840,
-      "date": 132518577625776653
+      "size": 145548,
+      "date": 132584226310898932
     },
     {
       "path": "scenery/LSZI-PERIMETER.BGL",
       "size": 933,
-      "date": 132494262151969828
+      "date": 132574718212886530
     },
     {
       "path": "scenery/LSZI.bgl",
       "size": 175305,
-      "date": 132497769523177388
+      "date": 132584190159181488
     },
     {
       "path": "scenery/LSZK-PERIMETER.BGL",
-      "size": 947,
-      "date": 132490068284058861
+      "size": 1328,
+      "date": 132584190161445763
     },
     {
       "path": "scenery/LSZK.bgl",
-      "size": 174980,
-      "date": 132490068283929289
+      "size": 174982,
+      "date": 132584190161004608
     },
     {
       "path": "scenery/LSZQ-PERIMETER.BGL",
       "size": 2107,
-      "date": 132500367979514371
+      "date": 132574718216106129
     },
     {
       "path": "scenery/LSZQ.bgl",
       "size": 73646,
-      "date": 132518577628445408
+      "date": 132584190162856335
     },
     {
       "path": "scenery/LSZT-PERIMETER.BGL",
       "size": 916,
-      "date": 132490068285673932
+      "date": 132574718217560735
     },
     {
       "path": "scenery/LSZT.bgl",
       "size": 177421,
-      "date": 132491818996576989
+      "date": 132584190164475772
     },
     {
       "path": "scenery/LSZV-PERIMETER.BGL",
       "size": 1210,
-      "date": 132482945402746908
+      "date": 132574718219120994
     },
     {
       "path": "scenery/LSZV.bgl",
       "size": 174209,
-      "date": 132518577630284229
+      "date": 132584190165474223
     },
     {
       "path": "scenery/SwissAirfieldsAssets/assets.BGL",
       "size": 343282,
-      "date": 132526378071670317
+      "date": 132584190142615338
     },
     {
       "path": "SimObjects/misc/LSGE-tee/model/LSGE-tee.bin",
       "size": 18280,
-      "date": 132518577634444539
+      "date": 132584190172289985
     },
     {
       "path": "SimObjects/misc/LSGE-tee/model/LSGE-tee.gltf",
       "size": 3046,
-      "date": 132518577634499621
+      "date": 132584190172345876
     },
     {
       "path": "SimObjects/misc/LSGE-tee/model/LSGE-tee.xml",
       "size": 585,
-      "date": 132517614936082514
+      "date": 132584089903021060
     },
     {
       "path": "SimObjects/misc/LSGE-tee/model/model.CFG",
       "size": 29,
-      "date": 132517614936082514
+      "date": 132584089903021060
     },
     {
       "path": "SimObjects/misc/LSGE-tee/sim.cfg",
       "size": 111,
-      "date": 132517614936082514
+      "date": 132584089903031054
     },
     {
       "path": "SimObjects/misc/LSGE-tee/texture/texture.CFG",
       "size": 63,
-      "date": 132517614936092516
+      "date": 132584089903041061
     },
     {
       "path": "SimObjects/misc/LSGY-tee/model/LSGY-tee.bin",
       "size": 2816,
-      "date": 132540133119211421
+      "date": 132584190172757021
     },
     {
       "path": "SimObjects/misc/LSGY-tee/model/LSGY-tee.gltf",
       "size": 4517,
-      "date": 132540133119301356
+      "date": 132584190172817125
     },
     {
       "path": "SimObjects/misc/LSGY-tee/model/LSGY-tee.xml",
       "size": 585,
-      "date": 132540124421094134
+      "date": 132584089903071096
     },
     {
       "path": "SimObjects/misc/LSGY-tee/model/model.CFG",
       "size": 29,
-      "date": 132540124551083284
+      "date": 132584089903081078
     },
     {
       "path": "SimObjects/misc/LSGY-tee/sim.cfg",
       "size": 111,
-      "date": 132540123232850414
+      "date": 132584089903091076
     },
     {
       "path": "SimObjects/misc/LSGY-tee/texture/texture.CFG",
       "size": 63,
-      "date": 132493288480642590
+      "date": 132584089903091076
     },
     {
       "path": "SimObjects/misc/LSZF-tee/model/LSZF-tee.bin",
       "size": 2816,
-      "date": 132509050240468443
+      "date": 132574718250860473
     },
     {
       "path": "SimObjects/misc/LSZF-tee/model/LSZF-tee.gltf",
       "size": 4517,
-      "date": 132509050240478445
+      "date": 132574718250880495
     },
     {
       "path": "SimObjects/misc/LSZF-tee/model/LSZF-tee.xml",
@@ -528,12 +593,12 @@
     {
       "path": "SimObjects/misc/LSZI-tee/model/LSZI-tee.bin",
       "size": 2816,
-      "date": 132494262159084716
+      "date": 132574718251161317
     },
     {
       "path": "SimObjects/misc/LSZI-tee/model/LSZI-tee.gltf",
       "size": 4517,
-      "date": 132494262159129944
+      "date": 132574718251171471
     },
     {
       "path": "SimObjects/misc/LSZI-tee/model/LSZI-tee.xml",
@@ -558,12 +623,12 @@
     {
       "path": "SimObjects/misc/LSZQ-tee/model/LSZQ-tee.bin",
       "size": 2816,
-      "date": 132500367986460578
+      "date": 132574718251504548
     },
     {
       "path": "SimObjects/misc/LSZQ-tee/model/LSZQ-tee.gltf",
       "size": 4517,
-      "date": 132500367986470589
+      "date": 132574718251524436
     },
     {
       "path": "SimObjects/misc/LSZQ-tee/model/LSZQ-tee.xml",
@@ -588,12 +653,12 @@
     {
       "path": "SimObjects/misc/LSZT-tee/model/LSZT-tee.bin",
       "size": 18280,
-      "date": 132491696153088745
+      "date": 132574718251884548
     },
     {
       "path": "SimObjects/misc/LSZT-tee/model/LSZT-tee.gltf",
       "size": 3046,
-      "date": 132491696153134042
+      "date": 132574718251944686
     },
     {
       "path": "SimObjects/misc/LSZT-tee/model/LSZT-tee.xml",
@@ -618,32 +683,32 @@
     {
       "path": "SimObjects/misc/LSZV-tee/model/LSZV-tee.bin",
       "size": 18280,
-      "date": 132518577636431752
+      "date": 132584190173617896
     },
     {
       "path": "SimObjects/misc/LSZV-tee/model/LSZV-tee.gltf",
       "size": 3046,
-      "date": 132518577636486230
+      "date": 132584190173673078
     },
     {
       "path": "SimObjects/misc/LSZV-tee/model/LSZV-tee.xml",
       "size": 585,
-      "date": 132517614936185126
+      "date": 132584089903124930
     },
     {
       "path": "SimObjects/misc/LSZV-tee/model/model.CFG",
       "size": 29,
-      "date": 132517614936195156
+      "date": 132584089903134856
     },
     {
       "path": "SimObjects/misc/LSZV-tee/sim.cfg",
       "size": 111,
-      "date": 132517614936195156
+      "date": 132584089903144854
     },
     {
       "path": "SimObjects/misc/LSZV-tee/texture/texture.CFG",
       "size": 63,
-      "date": 132517614936205152
+      "date": 132584089903152268
     }
   ]
 }

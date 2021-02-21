@@ -31,8 +31,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\SimObjects\misc\LSGY-tee</AssetDir>
-			<OutputDir>SimObjects\misc\LSGY-tee</OutputDir>
+			<AssetDir>PackageSources\SimObjects\misc\LSGY-tee\</AssetDir>
+			<OutputDir>SimObjects\misc\LSGY-tee\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="SimObjects-LSZF-tee">
 			<Type>SimObject</Type>
