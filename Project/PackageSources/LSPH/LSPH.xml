@@ -23,7 +23,10 @@
 	<SceneryObject lat="47.51284374442339" lon="8.76996846778477" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-0.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE"/>
 	</SceneryObject>
-	<Airport country="Switzerland" state="Zürich" city="Winterthur" name="Hegmatten" ident="LSPH" lat="47.51487085804445" lon="8.77189831009724" alt="385.72115347813815" magvar="2.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+	<SceneryObject lat="47.51823749999627" lon="8.77229750000000" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE"/>
+	</SceneryObject>
+	<Airport country="Switzerland" state="Zürich" city="Winterthur" name="Hegmatten" ident="LSPH" lat="47.51487085804445" lon="8.77189831009724" alt="385.72115347813815" magvar="2.000000" trafficScalar="1.000000" airportTestRadius="600.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
 		<TaxiwayPoint index="0" type="NORMAL" orientation="FORWARD" lat="47.51823715632563" lon="8.77308286851602"/>
 		<TaxiwayPoint index="1" type="NORMAL" orientation="FORWARD" lat="47.51700618199939" lon="8.77265952962214"/>
 		<TaxiwayPoint index="2" type="NORMAL" orientation="FORWARD" lat="47.51153231822980" lon="8.77043718109688"/>
