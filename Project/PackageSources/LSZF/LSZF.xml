@@ -114,7 +114,7 @@
 		<TaxiwayPoint parentGroupID="3" groupIndex="16" index="16" type="NORMAL" orientation="FORWARD" lat="47.44342632742398" lon="8.22905411085965"/>
 		<TaxiwayPoint parentGroupID="3" groupIndex="214" index="373" type="NORMAL" orientation="FORWARD" lat="47.44342899999677" lon="8.23856600000000"/>
 		<TaxiwayPoint parentGroupID="3" groupIndex="220" index="379" type="NORMAL" orientation="FORWARD" lat="47.44343453486394" lon="8.22827865609247"/>
-		<TaxiwayPoint parentGroupID="3" groupIndex="15" index="15" type="NORMAL" orientation="FORWARD" lat="47.44346932699646" lon="8.22911909950087"/>
+		<TaxiwayPoint parentGroupID="3" groupIndex="15" index="15" type="HOLD_SHORT_NO_DRAW" orientation="FORWARD" lat="47.44346932699646" lon="8.22911909950087"/>
 		<TaxiwayPoint parentGroupID="3" groupIndex="210" index="369" type="NORMAL" orientation="FORWARD" lat="47.44347833316967" lon="8.24005373919312"/>
 		<TaxiwayPoint parentGroupID="3" groupIndex="14" index="14" type="NORMAL" orientation="FORWARD" lat="47.44350956069447" lon="8.22919395394431"/>
 		<TaxiwayPoint parentGroupID="3" groupIndex="67" index="96" type="NORMAL" orientation="FORWARD" lat="47.44352454817699" lon="8.23251431567377"/>
@@ -255,7 +255,7 @@
 		<TaxiwayPoint parentGroupID="3" groupIndex="116" index="198" type="NORMAL" orientation="FORWARD" lat="47.44446638608093" lon="8.23099710436988"/>
 		<TaxiwayPoint parentGroupID="3" groupIndex="32" index="31" type="NORMAL" orientation="FORWARD" lat="47.44446966298606" lon="8.23853145633092"/>
 		<TaxiwayPoint parentGroupID="3" groupIndex="109" index="183" type="NORMAL" orientation="FORWARD" lat="47.44448803030456" lon="8.23033629885768"/>
-		<TaxiwayPoint parentGroupID="3" groupIndex="24" index="427" type="NORMAL" orientation="FORWARD" lat="47.44448961687078" lon="8.23850396368771"/>
+		<TaxiwayPoint parentGroupID="3" groupIndex="24" index="427" type="HOLD_SHORT_NO_DRAW" orientation="FORWARD" lat="47.44448961687078" lon="8.23850396368771"/>
 		<TaxiwayPoint parentGroupID="3" groupIndex="107" index="177" type="NORMAL" orientation="FORWARD" lat="47.44449944558708" lon="8.23031056533823"/>
 		<TaxiwayPoint parentGroupID="3" groupIndex="108" index="178" type="NORMAL" orientation="FORWARD" lat="47.44450609137392" lon="8.23035325572970"/>
 		<TaxiwayPoint parentGroupID="3" groupIndex="55" index="76" type="NORMAL" orientation="FORWARD" lat="47.44451599999681" lon="8.23251100000000"/>
@@ -1168,7 +1168,7 @@
 				<Vertex lat="47.44354099999680" lon="8.22929700000000"/>
 				<Vertex lat="47.44350956069447" lon="8.22919395394431"/>
 				<Vertex lat="47.44346932699646" lon="8.22911909950087"/>
-				<Vertex lat="47.44342632742398" lon="8.22905411085965"/>
+				<Vertex lat="47.44342632721946" lon="8.22905411073003"/>
 				<Vertex lat="47.44338947388179" lon="8.22901514737381"/>
 			</PaintedLine>
 			<PaintedLine parentGroupID="7" groupIndex="160" type="HOLD_SHORT_FORWARD" trueAngle="NONE" surface="{1A736261-AA2D-42AD-A583-E15B16DCA3A0}">
