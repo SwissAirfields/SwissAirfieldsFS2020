@@ -18,6 +18,14 @@
 			<AssetDir>PackageDefinitions\sc-airport-swiss-airfields\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\sc-airport-swiss-airfields\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="LSGT-Assets">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSGT-assets</AssetDir>
+			<OutputDir>scenery\LSGT-Assets</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="SimObject-LSGE-tee">
 			<Type>SimObject</Type>
 			<Flags>
@@ -87,7 +95,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\materials</AssetDir>
+			<AssetDir>PackageSources\materials\</AssetDir>
 			<OutputDir>MaterialLibs\SwissAirfieldsMaterials\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="airport-lsgc-les_eplatures">
