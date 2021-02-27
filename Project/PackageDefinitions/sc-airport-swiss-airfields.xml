@@ -23,8 +23,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\LSGT-assets</AssetDir>
-			<OutputDir>scenery\LSGT-Assets</OutputDir>
+			<AssetDir>PackageSources\LSGT-assets\</AssetDir>
+			<OutputDir>scenery\LSGT-Assets\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="SimObject-LSGE-tee">
 			<Type>SimObject</Type>
@@ -33,6 +33,14 @@
 			</Flags>
 			<AssetDir>PackageSources\SimObjects\misc\LSGE-tee\</AssetDir>
 			<OutputDir>SimObjects\misc\LSGE-tee\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="SimObjects-LSGT-tee">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\misc\LSGT-tee</AssetDir>
+			<OutputDir>SimObjects\misc\LSGT-tee\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="SimObjects-LSGY-tee">
 			<Type>SimObject</Type>
