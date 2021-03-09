@@ -9,7 +9,8 @@
 		<LibraryObject name="{8CF18816-B926-4B9A-80F4-59ADAED13AD6}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Container_Orange_Small-->
-	<SceneryObject lat="47.44466697828570" lon="8.23203367372876" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="79.044133" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="47.44466805938342" lon="8.23203338115606" alt="0.00000000000000" pitch="0.002022" bank="-0.002022" heading="78.499979" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<NoShadow/>
 		<LibraryObject name="{7F9E70BE-BB96-419C-A8D8-3BE347F631B3}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Garbage_Container01_Middle-->
@@ -66,9 +67,6 @@
 	<SceneryObject lat="47.44463641480588" lon="8.22984639816428" alt="0.00000000000000" pitch="0.000444" bank="-0.000444" heading="126.136273" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Beechcraft King Air 350i Asobo" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName=" (copy)" lat="47.44429899955717" lon="8.23121447429374" alt="0.00000000000000" pitch="0.003039" bank="-0.001544" heading="-99.146971" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="Bonanza G36 Asobo" scale="1.000000"/>
-	</SceneryObject>
 	<SceneryObject lat="47.44471480470035" lon="8.23028341997453" alt="0.00000000000000" pitch="0.001168" bank="-0.001168" heading="168.985806" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Bonanza G36 Asobo" scale="1.000000"/>
 	</SceneryObject>
@@ -90,12 +88,8 @@
 	<SceneryObject lat="47.44345705143359" lon="8.22980505694445" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="80.350031" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="LSZF-tee" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject lat="47.44408071605331" lon="8.23148593803737" alt="6.31744116425921" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject lat="47.44408071605331" lon="8.23148593803737" alt="6.50000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<SimObject containerTitle="windoscks_orange" scale="0.750000"/>
-	</SceneryObject>
-	<!--SceneryObject name: lszf-fence-high-corner-->
-	<SceneryObject lat="47.44470576554662" lon="8.22977351630986" alt="0.00000000000000" pitch="0.001544" bank="-0.002828" heading="77.642141" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{DD8372F4-D521-4892-E333-9F419FCCE50A}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: lszf-hangar4-->
 	<SceneryObject lat="47.44406826086537" lon="8.23139251099047" alt="0.00299546862129" pitch="0.001544" bank="-0.001544" heading="168.500002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
@@ -106,12 +100,28 @@
 		<LibraryObject name="{1083586E-31CA-45BF-0D44-C6FAC08D0EAD}" scale="1.000000"/>
 	</SceneryObject>
 	<Group name="Group 0" displayName="Fence">
+		<!--SceneryObject name: lszf-fence-high-corner-->
+		<SceneryObject lat="47.44470576554662" lon="8.22977351630986" alt="0.00000000000000" pitch="0.001544" bank="-0.002828" heading="77.642141" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{DD8372F4-D521-4892-E333-9F419FCCE50A}" scale="1.000000"/>
+		</SceneryObject>
 		<!--SceneryObject name: lszf-fence-high-long-->
-		<SceneryObject lat="47.44470569760824" lon="8.22977341544213" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="80.999992" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SceneryObject displayName=" (copy) (copy) (copy)" lat="47.44435407083802" lon="8.22982796657685" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-11.799999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 			<LibraryObject name="{EBA55613-A5D0-4736-FFB4-691A4D95E4AC}" scale="1.000000"/>
 		</SceneryObject>
 		<!--SceneryObject name: lszf-fence-high-long-->
-		<SceneryObject displayName=" (copy)" lat="47.44456059746850" lon="8.22976571261096" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-11.500003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SceneryObject displayName=" (copy) (copy) (copy) (copy)" lat="47.44425080963740" lon="8.22985994142969" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-11.799999" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{EBA55613-A5D0-4736-FFB4-691A4D95E4AC}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: lszf-fence-high-long-->
+		<SceneryObject displayName=" (copy) (copy)" lat="47.44445733987753" lon="8.22979594975149" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-11.500003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{EBA55613-A5D0-4736-FFB4-691A4D95E4AC}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: lszf-fence-high-long-->
+		<SceneryObject displayName=" (copy)" lat="47.44456070302788" lon="8.22976477759024" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-11.500003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{EBA55613-A5D0-4736-FFB4-691A4D95E4AC}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: lszf-fence-high-long-->
+		<SceneryObject lat="47.44470569760824" lon="8.22977341544213" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="80.999992" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 			<LibraryObject name="{EBA55613-A5D0-4736-FFB4-691A4D95E4AC}" scale="1.000000"/>
 		</SceneryObject>
 		<!--SceneryObject name: lszf-fence-high-long-->
