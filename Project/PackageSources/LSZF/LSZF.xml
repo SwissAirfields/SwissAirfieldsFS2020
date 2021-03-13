@@ -76,15 +76,6 @@
 	<SceneryObject lat="47.44467776856830" lon="8.23005070297366" alt="0.00000000000000" pitch="0.002732" bank="-0.001544" heading="169.423061" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Cessna 172SP Asobo AirTraffic 01" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject lat="47.44396892521198" lon="8.23000396399036" alt="0.00000000000000" pitch="0.000936" bank="-0.000936" heading="79.252994" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="DA40 TDI Asobo" scale="1.000000"/>
-	</SceneryObject>
-	<SceneryObject lat="47.44417317823758" lon="8.23177432932378" alt="0.00000000000000" pitch="0.000574" bank="-0.000574" heading="80.407760" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="DV20 Asobo" scale="1.000000"/>
-	</SceneryObject>
-	<SceneryObject lat="47.44448200926754" lon="8.23168818180562" alt="0.00000000000000" pitch="0.001127" bank="-0.001079" heading="77.886075" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="DV20 Asobo" scale="1.000000"/>
-	</SceneryObject>
 	<SceneryObject lat="47.44345705143359" lon="8.22980505694445" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="80.350031" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="LSZF-tee" scale="1.000000"/>
 	</SceneryObject>
@@ -96,7 +87,7 @@
 		<LibraryObject name="{09305039-0FEA-476C-B7F2-EC16A1D27EA3}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: lszf-hangar5-->
-	<SceneryObject lat="47.44417703106338" lon="8.23217511418897" alt="0.02195176992996" pitch="0.000287" bank="-0.000287" heading="168.500002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject lat="47.44417703106338" lon="8.23217511418897" alt="0.05258692391658" pitch="0.000287" bank="-0.000287" heading="168.500002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{1083586E-31CA-45BF-0D44-C6FAC08D0EAD}" scale="1.000000"/>
 	</SceneryObject>
 	<Group name="Group 0" displayName="Fence">

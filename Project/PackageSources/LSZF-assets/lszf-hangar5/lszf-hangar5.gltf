@@ -12,6 +12,7 @@
         "ASOBO_normal_map_convention",
         "ASOBO_tags",
         "ASOBO_material_shadow_options",
+        "ASOBO_material_detail_map",
         "ASOBO_material_glass"
     ],
     "scene" : 0,
@@ -621,11 +622,27 @@
             "extensions" : {
                 "ASOBO_material_shadow_options" : {
                     "noCastShadow" : true
+                },
+                "ASOBO_material_detail_map" : {
+                    "detailColorTexture" : {
+                        "index" : 11,
+                        "texCoord" : 0
+                    },
+                    "UVScale" : 1,
+                    "UVOffset" : [
+                        0.0,
+                        0.0
+                    ],
+                    "blendTreshold" : 0.10000000149011612
                 }
             },
             "extras" : {
                 "msfs_material_mode" : 1,
                 "msfs_albedo_texture" : {
+                    "name" : "BricksPaintedWhite001_AO_1K.jpg",
+                    "type" : "Image"
+                },
+                "msfs_detail_albedo_texture" : {
                     "name" : "DecalHausnummer.png",
                     "type" : "Image"
                 },
@@ -667,7 +684,7 @@
             "name" : "Decal_Hausnummer",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 11,
+                    "index" : 12,
                     "texCoord" : 0
                 },
                 "metallicFactor" : 0,
@@ -727,20 +744,20 @@
             },
             "name" : "Sichtbetong",
             "normalTexture" : {
-                "index" : 12,
+                "index" : 13,
                 "texCoord" : 0
             },
             "occlusionTexture" : {
-                "index" : 13,
+                "index" : 14,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 14,
+                    "index" : 15,
                     "texCoord" : 0
                 },
                 "metallicRoughnessTexture" : {
-                    "index" : 13,
+                    "index" : 14,
                     "texCoord" : 0
                 }
             }
@@ -804,20 +821,20 @@
             },
             "name" : "Kunststoff",
             "normalTexture" : {
-                "index" : 15,
+                "index" : 16,
                 "texCoord" : 0
             },
             "occlusionTexture" : {
-                "index" : 16,
+                "index" : 17,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 17,
+                    "index" : 18,
                     "texCoord" : 0
                 },
                 "metallicRoughnessTexture" : {
-                    "index" : 16,
+                    "index" : 17,
                     "texCoord" : 0
                 }
             }
@@ -879,20 +896,20 @@
             },
             "name" : "Dach",
             "normalTexture" : {
-                "index" : 18,
+                "index" : 19,
                 "texCoord" : 0
             },
             "occlusionTexture" : {
-                "index" : 19,
+                "index" : 20,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 20,
+                    "index" : 21,
                     "texCoord" : 0
                 },
                 "metallicRoughnessTexture" : {
-                    "index" : 19,
+                    "index" : 20,
                     "texCoord" : 0
                 }
             }
@@ -950,20 +967,20 @@
             },
             "name" : "Roof",
             "normalTexture" : {
-                "index" : 21,
+                "index" : 22,
                 "texCoord" : 0
             },
             "occlusionTexture" : {
-                "index" : 22,
+                "index" : 23,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 23,
+                    "index" : 24,
                     "texCoord" : 0
                 },
                 "metallicRoughnessTexture" : {
-                    "index" : 22,
+                    "index" : 23,
                     "texCoord" : 0
                 }
             }
@@ -1036,13 +1053,13 @@
             },
             "name" : "Glas",
             "normalTexture" : {
-                "index" : 24,
+                "index" : 25,
                 "scale" : 10,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 25,
+                    "index" : 26,
                     "texCoord" : 0
                 },
                 "metallicFactor" : 0.7111111283302307,
@@ -1102,20 +1119,20 @@
             },
             "name" : "Metal",
             "normalTexture" : {
-                "index" : 26,
+                "index" : 27,
                 "texCoord" : 0
             },
             "occlusionTexture" : {
-                "index" : 27,
+                "index" : 28,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 28,
+                    "index" : 29,
                     "texCoord" : 0
                 },
                 "metallicRoughnessTexture" : {
-                    "index" : 27,
+                    "index" : 28,
                     "texCoord" : 0
                 }
             }
@@ -1173,16 +1190,16 @@
             },
             "name" : "Roof.001",
             "normalTexture" : {
-                "index" : 29,
+                "index" : 30,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 30,
+                    "index" : 31,
                     "texCoord" : 0
                 },
                 "metallicRoughnessTexture" : {
-                    "index" : 31,
+                    "index" : 32,
                     "texCoord" : 0
                 }
             }
@@ -1255,13 +1272,13 @@
             },
             "name" : "HangarDoorGlas",
             "normalTexture" : {
-                "index" : 32,
+                "index" : 33,
                 "scale" : 10,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 33,
+                    "index" : 34,
                     "texCoord" : 0
                 },
                 "metallicFactor" : 0.7111111283302307,
@@ -1322,16 +1339,16 @@
             },
             "name" : "Metal.001",
             "normalTexture" : {
-                "index" : 34,
+                "index" : 35,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 35,
+                    "index" : 36,
                     "texCoord" : 0
                 },
                 "metallicRoughnessTexture" : {
-                    "index" : 36,
+                    "index" : 37,
                     "texCoord" : 0
                 }
             }
@@ -1628,16 +1645,16 @@
             "source" : 20
         },
         {
-            "source" : 18
-        },
-        {
             "source" : 21
         },
         {
-            "source" : 20
+            "source" : 19
         },
         {
             "source" : 22
+        },
+        {
+            "source" : 21
         },
         {
             "source" : 23
@@ -1652,16 +1669,16 @@
             "source" : 26
         },
         {
-            "source" : 18
+            "source" : 27
         },
         {
-            "source" : 20
+            "source" : 19
         },
         {
             "source" : 21
         },
         {
-            "source" : 27
+            "source" : 22
         },
         {
             "source" : 28
@@ -1670,10 +1687,13 @@
             "source" : 29
         },
         {
-            "source" : 26
+            "source" : 30
         },
         {
-            "source" : 25
+            "source" : 27
+        },
+        {
+            "source" : 26
         }
     ],
     "images" : [
@@ -1736,6 +1756,11 @@
             "mimeType" : "image/png",
             "name" : "DecalHausnummer",
             "uri" : "DecalHausnummer.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "DecalHausnummer-BricksPaintedWhite001_AO_1K",
+            "uri" : "DecalHausnummer-BricksPaintedWhite001_AO_1K.png"
         },
         {
             "mimeType" : "image/jpeg",
@@ -1938,12 +1963,12 @@
             "max" : [
                 11.453936576843262,
                 4.706667900085449,
-                0.24357031285762787
+                0.29357030987739563
             ],
             "min" : [
                 10.500365257263184,
                 2.995910167694092,
-                0.24357031285762787
+                0.29357030987739563
             ],
             "type" : "VEC3"
         },
@@ -1966,12 +1991,12 @@
             "max" : [
                 21.083250045776367,
                 5.298436164855957,
-                0.24357031285762787
+                0.29357030987739563
             ],
             "min" : [
                 17.359275817871094,
                 3.0260252952575684,
-                0.24357031285762787
+                0.29357030987739563
             ],
             "type" : "VEC3"
         },
@@ -1992,12 +2017,12 @@
             "componentType" : 5126,
             "count" : 4,
             "max" : [
-                -0.005000114440917969,
+                -0.05500011518597603,
                 2.4936959743499756,
                 -1.215569019317627
             ],
             "min" : [
-                -0.005001068115234375,
+                -0.055001068860292435,
                 2.2128701210021973,
                 -1.8621644973754883
             ],
