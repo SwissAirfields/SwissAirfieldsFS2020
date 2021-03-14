@@ -50,6 +50,14 @@
 			<AssetDir>PackageSources\SimObjects\misc\LSZF-tee\</AssetDir>
 			<OutputDir>SimObjects\misc\LSZF-tee\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="SimObjects-LSZF-windsock">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\misc\LSZF-windsock\</AssetDir>
+			<OutputDir>SimObjects\misc\LSZF-windsock\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="SimObjects-LSZI-tee">
 			<Type>SimObject</Type>
 			<Flags>
