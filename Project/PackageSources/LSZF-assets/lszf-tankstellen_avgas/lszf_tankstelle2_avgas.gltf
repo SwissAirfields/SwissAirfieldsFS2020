@@ -9,8 +9,7 @@
         "version" : "2.0"
     },
     "extensionsUsed" : [
-        "ASOBO_normal_map_convention",
-        "ASOBO_macro_light"
+        "ASOBO_normal_map_convention"
     ],
     "scene" : 0,
     "scenes" : [
@@ -25,9 +24,7 @@
             },
             "name" : "Scene",
             "nodes" : [
-                0,
-                1,
-                2
+                0
             ]
         }
     ],
@@ -44,56 +41,6 @@
                 0.44999998807907104,
                 1.0299999713897705,
                 0.25
-            ]
-        },
-        {
-            "extensions" : {
-                "ASOBO_macro_light" : {
-                    "color" : [
-                        1,
-                        1,
-                        1
-                    ],
-                    "intensity" : 1000,
-                    "cone_angle" : 360,
-                    "has_simmetry" : false,
-                    "flash_frequency" : 0,
-                    "flash_duration" : 0,
-                    "flash_phase" : 0,
-                    "rotation_speed" : 0,
-                    "day_night_cycle" : false
-                }
-            },
-            "name" : "Light",
-            "rotation" : [
-                0.5232754945755005,
-                0.34203392267227173,
-                -0.7269423604011536,
-                0.28416627645492554
-            ],
-            "scale" : [
-                0.41506633162498474,
-                0.4150663912296295,
-                0.4150663912296295
-            ],
-            "translation" : [
-                -0.03748786449432373,
-                4.355134010314941,
-                -0.07450392842292786
-            ]
-        },
-        {
-            "name" : "Camera",
-            "rotation" : [
-                0.483536034822464,
-                0.33687159419059753,
-                -0.20870360732078552,
-                0.7804827094078064
-            ],
-            "translation" : [
-                7.358891487121582,
-                4.958309173583984,
-                6.925790786743164
             ]
         }
     ],
