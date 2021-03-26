@@ -38,9 +38,9 @@
                 0.25
             ],
             "translation" : [
-                0.44999998807907104,
-                1.0299999713897705,
-                0.25
+                -0.5,
+                -1,
+                0.2900000214576721
             ]
         }
     ],
@@ -187,29 +187,29 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 247,
+            "count" : 248,
             "max" : [
-                0.10000002384185791,
-                0,
-                0.08000004291534424
+                2,
+                2.0299999713897705,
+                -0.08000004291534424
             ],
             "min" : [
-                -1.899999976158142,
-                -1.8299849033355713,
-                -2
+                0,
+                0.20001506805419922,
+                -2.1600000858306885
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 247,
+            "count" : 248,
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 247,
+            "count" : 248,
             "type" : "VEC2"
         },
         {
@@ -221,29 +221,29 @@
         {
             "bufferView" : 4,
             "componentType" : 5126,
-            "count" : 96,
+            "count" : 90,
             "max" : [
-                0.10000002384185791,
-                -0.04999995231628418,
-                0.1600000411272049
+                2,
+                1.9800000190734863,
+                -4.470348358154297e-08
             ],
             "min" : [
-                -1.899999976158142,
-                -2.0299999713897705,
-                -2
+                0,
+                0,
+                -2.1600000858306885
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 5,
             "componentType" : 5126,
-            "count" : 96,
+            "count" : 90,
             "type" : "VEC3"
         },
         {
             "bufferView" : 6,
             "componentType" : 5126,
-            "count" : 96,
+            "count" : 90,
             "type" : "VEC2"
         },
         {
@@ -257,14 +257,14 @@
             "componentType" : 5126,
             "count" : 42,
             "max" : [
-                0.10000002384185791,
-                0,
-                0
+                2,
+                2.0299999713897705,
+                -0.16000008583068848
             ],
             "min" : [
-                -1.899999976158142,
-                -0.029999971389770508,
-                -2
+                0,
+                2,
+                -2.1600000858306885
             ],
             "type" : "VEC3"
         },
@@ -290,68 +290,68 @@
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 2964,
+            "byteLength" : 2976,
             "byteOffset" : 0
         },
         {
             "buffer" : 0,
-            "byteLength" : 2964,
-            "byteOffset" : 2964
+            "byteLength" : 2976,
+            "byteOffset" : 2976
         },
         {
             "buffer" : 0,
-            "byteLength" : 1976,
-            "byteOffset" : 5928
+            "byteLength" : 1984,
+            "byteOffset" : 5952
         },
         {
             "buffer" : 0,
             "byteLength" : 870,
-            "byteOffset" : 7904
+            "byteOffset" : 7936
         },
         {
             "buffer" : 0,
-            "byteLength" : 1152,
-            "byteOffset" : 8776
+            "byteLength" : 1080,
+            "byteOffset" : 8808
         },
         {
             "buffer" : 0,
-            "byteLength" : 1152,
-            "byteOffset" : 9928
+            "byteLength" : 1080,
+            "byteOffset" : 9888
         },
         {
             "buffer" : 0,
-            "byteLength" : 768,
-            "byteOffset" : 11080
+            "byteLength" : 720,
+            "byteOffset" : 10968
         },
         {
             "buffer" : 0,
             "byteLength" : 396,
-            "byteOffset" : 11848
+            "byteOffset" : 11688
         },
         {
             "buffer" : 0,
             "byteLength" : 504,
-            "byteOffset" : 12244
+            "byteOffset" : 12084
         },
         {
             "buffer" : 0,
             "byteLength" : 504,
-            "byteOffset" : 12748
+            "byteOffset" : 12588
         },
         {
             "buffer" : 0,
             "byteLength" : 336,
-            "byteOffset" : 13252
+            "byteOffset" : 13092
         },
         {
             "buffer" : 0,
             "byteLength" : 132,
-            "byteOffset" : 13588
+            "byteOffset" : 13428
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 13720,
+            "byteLength" : 13560,
             "uri" : "lszf_tankstelle1_avgas.bin"
         }
     ]
