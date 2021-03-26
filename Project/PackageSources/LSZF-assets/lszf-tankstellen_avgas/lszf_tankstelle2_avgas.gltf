@@ -15,7 +15,14 @@
     "scene" : 0,
     "scenes" : [
         {
-            "extras" : {},
+            "extras" : {
+                "glTF2ExportSettings" : {
+                    "export_apply" : 1,
+                    "export_extras" : 1,
+                    "export_tangents" : 1,
+                    "use_selection" : 1
+                }
+            },
             "name" : "Scene",
             "nodes" : [
                 0,
