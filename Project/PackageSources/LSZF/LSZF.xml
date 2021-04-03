@@ -69,15 +69,15 @@
 		<SimObject containerTitle="LSZF-tee" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Unknown-->
-	<SceneryObject lat="47.44407514757093" lon="8.22979765554265" alt="0.00000000000000" pitch="0.000772" bank="-0.000772" heading="-9.709093" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{2E2F3C33-6129-48C8-A332-D5A987BD57D2}" scale="1.000000"/>
+	<SceneryObject lat="47.44407541632675" lon="8.22978257224858" alt="0.55000000000000" pitch="0.001544" bank="-0.002479" heading="-11.529612" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{E98FFBF1-E1EC-4E04-8235-14A7FE9E5761}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: lszf-hangar1-3-->
 	<SceneryObject lat="47.44364675607038" lon="8.22871071257975" alt="-0.94946739589159" pitch="0.000444" bank="-0.000444" heading="168.706028" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{A39B3793-BA9B-436C-9AA9-C58B3A7F9793}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: lszf-hangar4-->
-	<SceneryObject lat="47.44406826086537" lon="8.23139251099047" alt="0.00299682474292" pitch="0.001544" bank="-0.001544" heading="168.500002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject lat="47.44406826086537" lon="8.23139251099047" alt="-0.73878038933219" pitch="0.001544" bank="-0.001544" heading="168.500002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{09305039-0FEA-476C-B7F2-EC16A1D27EA3}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: lszf-hangar5-->
@@ -85,8 +85,8 @@
 		<LibraryObject name="{1083586E-31CA-45BF-0D44-C6FAC08D0EAD}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: lszf-restaurant-->
-	<SceneryObject lat="47.44407541632675" lon="8.22978257224858" alt="0.55000000000000" pitch="0.001544" bank="-0.002479" heading="-11.529612" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-		<LibraryObject name="{E98FFBF1-E1EC-4E04-8235-14A7FE9E5761}" scale="1.000000"/>
+	<SceneryObject lat="47.44407514757093" lon="8.22979765554265" alt="0.00000000000000" pitch="0.000772" bank="-0.000772" heading="-9.709093" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2E2F3C33-6129-48C8-A332-D5A987BD57D2}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: lszf-tankstelle-slave-->
 	<SceneryObject lat="47.44360713460727" lon="8.22873001162417" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="173.623245" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
