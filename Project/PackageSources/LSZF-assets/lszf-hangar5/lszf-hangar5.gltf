@@ -38,61 +38,52 @@
                     "cat_index" : -1,
                     "all_materials" : [
                         {
-                            "name" : "Backsteinwand",
-                            "category" : ""
+                            "name" : "CC0_Blech"
                         },
                         {
-                            "name" : "CC0_Blech",
-                            "category" : ""
+                            "name" : "CC0_Brick_Wall15"
                         },
                         {
-                            "name" : "CC0_Bricks",
-                            "category" : ""
+                            "name" : "CC0_Bricks"
                         },
                         {
-                            "name" : "CC0_Gargentor",
-                            "category" : ""
+                            "name" : "CC0_Gargentor"
                         },
                         {
-                            "name" : "CC0_Hangarglas",
-                            "category" : ""
+                            "name" : "CC0_Hangar_Dach"
                         },
                         {
-                            "name" : "CC0_Hangartor",
-                            "category" : ""
+                            "name" : "CC0_Hangar_Dach_Wellblech"
                         },
                         {
-                            "name" : "CC0_Metal",
-                            "category" : ""
+                            "name" : "CC0_Hangarboden"
                         },
                         {
-                            "name" : "CC0_wood_planks",
-                            "category" : ""
+                            "name" : "CC0_Hangarglas"
                         },
                         {
-                            "name" : "Glas",
-                            "category" : ""
+                            "name" : "CC0_Hangartor"
                         },
                         {
-                            "name" : "Hangar_Dach",
-                            "category" : ""
+                            "name" : "CC0_Metal"
                         },
                         {
-                            "name" : "Hangarboden",
-                            "category" : ""
+                            "name" : "CC0_Sichtbetong"
                         },
                         {
-                            "name" : "Sichtbetong",
-                            "category" : ""
+                            "name" : "CC0_wood_planks"
+                        },
+                        {
+                            "name" : "Glas"
                         }
                     ],
                     "materials" : [
                         {
-                            "name" : "Backsteinwand",
+                            "name" : "CC0_Blech",
                             "category" : ""
                         },
                         {
-                            "name" : "CC0_Blech",
+                            "name" : "CC0_Brick_Wall15",
                             "category" : ""
                         },
                         {
@@ -101,6 +92,18 @@
                         },
                         {
                             "name" : "CC0_Gargentor",
+                            "category" : ""
+                        },
+                        {
+                            "name" : "CC0_Hangar_Dach",
+                            "category" : ""
+                        },
+                        {
+                            "name" : "CC0_Hangar_Dach_Wellblech",
+                            "category" : ""
+                        },
+                        {
+                            "name" : "CC0_Hangarboden",
                             "category" : ""
                         },
                         {
@@ -116,29 +119,21 @@
                             "category" : ""
                         },
                         {
+                            "name" : "CC0_Sichtbetong",
+                            "category" : ""
+                        },
+                        {
                             "name" : "CC0_wood_planks",
                             "category" : ""
                         },
                         {
                             "name" : "Glas",
-                            "category" : ""
-                        },
-                        {
-                            "name" : "Hangar_Dach",
-                            "category" : ""
-                        },
-                        {
-                            "name" : "Hangarboden",
-                            "category" : ""
-                        },
-                        {
-                            "name" : "Sichtbetong",
                             "category" : ""
                         }
                     ],
                     "mat_index" : 5,
                     "last_selected" : "Tor1.016",
-                    "show_prefs" : 1
+                    "show_prefs" : 0
                 }
             },
             "name" : "Scene",
@@ -917,7 +912,7 @@
                 "msfs_roughness_scale" : 1,
                 "msfs_metallic_scale" : 1
             },
-            "name" : "Hangar_Dach",
+            "name" : "CC0_Hangar_Dach",
             "normalTexture" : {
                 "index" : 13,
                 "texCoord" : 0
@@ -929,6 +924,75 @@
                 },
                 "metallicRoughnessTexture" : {
                     "index" : 15,
+                    "texCoord" : 0
+                }
+            }
+        },
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extras" : {
+                "msfs_material_mode" : 1,
+                "msfs_albedo_texture" : {
+                    "name" : "generic_metal_Corrugated_2_1K_albedo.jpg",
+                    "type" : "Image"
+                },
+                "msfs_metallic_texture" : {
+                    "name" : "generic_metal_Corrugated_2_1K_roughness.jpg",
+                    "type" : "Image"
+                },
+                "msfs_normal_texture" : {
+                    "name" : "generic_metal_Corrugated_2_1K_normal.jpg",
+                    "type" : "Image"
+                },
+                "msfs_show_tint" : 1,
+                "msfs_show_sss_color" : 0,
+                "msfs_show_glass_parameters" : 0,
+                "msfs_show_decal_parameters" : 0,
+                "msfs_show_fresnel_parameters" : 0,
+                "msfs_show_parallax_parameters" : 0,
+                "msfs_show_geo_decal_parameters" : 0,
+                "msfs_show_albedo" : 1,
+                "msfs_show_metallic" : 1,
+                "msfs_show_normal" : 1,
+                "msfs_show_emissive" : 1,
+                "msfs_show_detail_albedo" : 1,
+                "msfs_show_detail_metallic" : 1,
+                "msfs_show_detail_normal" : 1,
+                "msfs_show_blend_mask" : 1,
+                "msfs_show_anisotropic_direction" : 0,
+                "msfs_show_clearcoat" : 0,
+                "msfs_show_behind_glass" : 0,
+                "msfs_show_blend_mode" : 1,
+                "msfs_show_draworder" : 1,
+                "msfs_show_no_cast_shadow" : 1,
+                "msfs_show_double_sided" : 1,
+                "msfs_show_responsive_aa" : 0,
+                "msfs_show_day_night_cycle" : 1,
+                "msfs_show_collision_material" : 1,
+                "msfs_show_road_material" : 1,
+                "msfs_show_ao_use_uv2" : 1,
+                "msfs_show_uv_clamp" : 1,
+                "msfs_show_alpha_cutoff" : 1,
+                "msfs_show_blend_threshold" : 1,
+                "msfs_roughness_scale" : 1,
+                "msfs_metallic_scale" : 1
+            },
+            "name" : "CC0_Hangar_Dach_Wellblech",
+            "normalTexture" : {
+                "index" : 16,
+                "texCoord" : 0
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 17,
+                    "texCoord" : 0
+                },
+                "metallicRoughnessTexture" : {
+                    "index" : 18,
                     "texCoord" : 0
                 }
             }
@@ -992,20 +1056,20 @@
             },
             "name" : "CC0_Gargentor",
             "normalTexture" : {
-                "index" : 16,
+                "index" : 19,
                 "texCoord" : 0
             },
             "occlusionTexture" : {
-                "index" : 17,
+                "index" : 20,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 18,
+                    "index" : 21,
                     "texCoord" : 0
                 },
                 "metallicRoughnessTexture" : {
-                    "index" : 17,
+                    "index" : 20,
                     "texCoord" : 0
                 }
             }
@@ -1072,20 +1136,20 @@
             },
             "name" : "CC0_Blech",
             "normalTexture" : {
-                "index" : 19,
+                "index" : 22,
                 "texCoord" : 0
             },
             "occlusionTexture" : {
-                "index" : 20,
+                "index" : 23,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 21,
+                    "index" : 24,
                     "texCoord" : 0
                 },
                 "metallicRoughnessTexture" : {
-                    "index" : 20,
+                    "index" : 23,
                     "texCoord" : 0
                 }
             }
@@ -1139,12 +1203,12 @@
             },
             "name" : "CC0_Sichtbetong",
             "normalTexture" : {
-                "index" : 22,
+                "index" : 25,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 23,
+                    "index" : 26,
                     "texCoord" : 0
                 },
                 "metallicFactor" : 0,
@@ -1208,12 +1272,12 @@
             },
             "name" : "CC0_Hangarboden",
             "normalTexture" : {
-                "index" : 24,
+                "index" : 27,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 25,
+                    "index" : 28,
                     "texCoord" : 0
                 },
                 "metallicFactor" : 0,
@@ -1278,12 +1342,12 @@
             },
             "name" : "CC0_Bricks",
             "normalTexture" : {
-                "index" : 26,
+                "index" : 29,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 27,
+                    "index" : 30,
                     "texCoord" : 0
                 },
                 "metallicFactor" : 0,
@@ -1501,6 +1565,15 @@
                     },
                     "indices" : 67,
                     "material" : 7
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 68,
+                        "NORMAL" : 69,
+                        "TEXCOORD_0" : 70
+                    },
+                    "indices" : 71,
+                    "material" : 8
                 }
             ]
         },
@@ -1509,11 +1582,11 @@
             "primitives" : [
                 {
                     "attributes" : {
-                        "POSITION" : 68,
-                        "NORMAL" : 69,
-                        "TEXCOORD_0" : 70
+                        "POSITION" : 72,
+                        "NORMAL" : 73,
+                        "TEXCOORD_0" : 74
                     },
-                    "indices" : 71,
+                    "indices" : 75,
                     "material" : 5
                 }
             ]
@@ -1521,15 +1594,6 @@
         {
             "name" : "Fl\u00e4che.003",
             "primitives" : [
-                {
-                    "attributes" : {
-                        "POSITION" : 72,
-                        "NORMAL" : 73,
-                        "TEXCOORD_0" : 74
-                    },
-                    "indices" : 75,
-                    "material" : 8
-                },
                 {
                     "attributes" : {
                         "POSITION" : 76,
@@ -1565,6 +1629,15 @@
                     },
                     "indices" : 91,
                     "material" : 12
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 92,
+                        "NORMAL" : 93,
+                        "TEXCOORD_0" : 94
+                    },
+                    "indices" : 95,
+                    "material" : 13
                 }
             ]
         }
@@ -1619,15 +1692,6 @@
             "source" : 11
         },
         {
-            "source" : 9
-        },
-        {
-            "source" : 11
-        },
-        {
-            "source" : 10
-        },
-        {
             "source" : 12
         },
         {
@@ -1635,6 +1699,15 @@
         },
         {
             "source" : 14
+        },
+        {
+            "source" : 9
+        },
+        {
+            "source" : 11
+        },
+        {
+            "source" : 10
         },
         {
             "source" : 15
@@ -1653,6 +1726,15 @@
         },
         {
             "source" : 20
+        },
+        {
+            "source" : 21
+        },
+        {
+            "source" : 22
+        },
+        {
+            "source" : 23
         }
     ],
     "images" : [
@@ -1715,6 +1797,21 @@
             "mimeType" : "image/jpeg",
             "name" : "generic_roof_metal_1K_roughness",
             "uri" : "generic_roof_metal_1K_roughness.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "generic_metal_Corrugated_2_1K_normal",
+            "uri" : "generic_metal_Corrugated_2_1K_normal.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "generic_metal_Corrugated_2_1K_albedo",
+            "uri" : "generic_metal_Corrugated_2_1K_albedo.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "generic_metal_Corrugated_2_1K_roughness",
+            "uri" : "generic_metal_Corrugated_2_1K_roughness.jpg"
         },
         {
             "mimeType" : "image/jpeg",
@@ -2320,7 +2417,7 @@
         {
             "bufferView" : 64,
             "componentType" : 5126,
-            "count" : 36,
+            "count" : 30,
             "max" : [
                 11.300000190734863,
                 5.937274932861328,
@@ -2336,23 +2433,57 @@
         {
             "bufferView" : 65,
             "componentType" : 5126,
-            "count" : 36,
+            "count" : 30,
             "type" : "VEC3"
         },
         {
             "bufferView" : 66,
             "componentType" : 5126,
-            "count" : 36,
+            "count" : 30,
             "type" : "VEC2"
         },
         {
             "bufferView" : 67,
             "componentType" : 5123,
-            "count" : 60,
+            "count" : 48,
             "type" : "SCALAR"
         },
         {
             "bufferView" : 68,
+            "componentType" : 5126,
+            "count" : 6,
+            "max" : [
+                11.300000190734863,
+                5.937274932861328,
+                0.25
+            ],
+            "min" : [
+                -11.349879264831543,
+                3.8781797885894775,
+                -54.099998474121094
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 69,
+            "componentType" : 5126,
+            "count" : 6,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 70,
+            "componentType" : 5126,
+            "count" : 6,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 71,
+            "componentType" : 5123,
+            "count" : 12,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 72,
             "componentType" : 5126,
             "count" : 801,
             "max" : [
@@ -2368,25 +2499,25 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 69,
+            "bufferView" : 73,
             "componentType" : 5126,
             "count" : 801,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 70,
+            "bufferView" : 74,
             "componentType" : 5126,
             "count" : 801,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 71,
+            "bufferView" : 75,
             "componentType" : 5123,
             "count" : 1305,
             "type" : "SCALAR"
         },
         {
-            "bufferView" : 72,
+            "bufferView" : 76,
             "componentType" : 5126,
             "count" : 848,
             "max" : [
@@ -2402,25 +2533,25 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 73,
+            "bufferView" : 77,
             "componentType" : 5126,
             "count" : 848,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 74,
+            "bufferView" : 78,
             "componentType" : 5126,
             "count" : 848,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 75,
+            "bufferView" : 79,
             "componentType" : 5123,
             "count" : 1527,
             "type" : "SCALAR"
         },
         {
-            "bufferView" : 76,
+            "bufferView" : 80,
             "componentType" : 5126,
             "count" : 137,
             "max" : [
@@ -2436,25 +2567,25 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 77,
+            "bufferView" : 81,
             "componentType" : 5126,
             "count" : 137,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 78,
+            "bufferView" : 82,
             "componentType" : 5126,
             "count" : 137,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 79,
+            "bufferView" : 83,
             "componentType" : 5123,
             "count" : 243,
             "type" : "SCALAR"
         },
         {
-            "bufferView" : 80,
+            "bufferView" : 84,
             "componentType" : 5126,
             "count" : 100,
             "max" : [
@@ -2470,25 +2601,25 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 81,
+            "bufferView" : 85,
             "componentType" : 5126,
             "count" : 100,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 82,
+            "bufferView" : 86,
             "componentType" : 5126,
             "count" : 100,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 83,
+            "bufferView" : 87,
             "componentType" : 5123,
             "count" : 168,
             "type" : "SCALAR"
         },
         {
-            "bufferView" : 84,
+            "bufferView" : 88,
             "componentType" : 5126,
             "count" : 98,
             "max" : [
@@ -2504,25 +2635,25 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 85,
+            "bufferView" : 89,
             "componentType" : 5126,
             "count" : 98,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 86,
+            "bufferView" : 90,
             "componentType" : 5126,
             "count" : 98,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 87,
+            "bufferView" : 91,
             "componentType" : 5123,
             "count" : 180,
             "type" : "SCALAR"
         },
         {
-            "bufferView" : 88,
+            "bufferView" : 92,
             "componentType" : 5126,
             "count" : 62,
             "max" : [
@@ -2538,19 +2669,19 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 89,
+            "bufferView" : 93,
             "componentType" : 5126,
             "count" : 62,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 90,
+            "bufferView" : 94,
             "componentType" : 5126,
             "count" : 62,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 91,
+            "bufferView" : 95,
             "componentType" : 5123,
             "count" : 129,
             "type" : "SCALAR"
@@ -2879,23 +3010,43 @@
         },
         {
             "buffer" : 0,
-            "byteLength" : 432,
+            "byteLength" : 360,
             "byteOffset" : 28672
         },
         {
             "buffer" : 0,
-            "byteLength" : 432,
-            "byteOffset" : 29104
+            "byteLength" : 360,
+            "byteOffset" : 29032
         },
         {
             "buffer" : 0,
-            "byteLength" : 288,
-            "byteOffset" : 29536
+            "byteLength" : 240,
+            "byteOffset" : 29392
         },
         {
             "buffer" : 0,
-            "byteLength" : 120,
-            "byteOffset" : 29824
+            "byteLength" : 96,
+            "byteOffset" : 29632
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 29728
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 29800
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 29872
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24,
+            "byteOffset" : 29920
         },
         {
             "buffer" : 0,
