@@ -26,6 +26,14 @@
 			<AssetDir>PackageSources\LSGT-assets\</AssetDir>
 			<OutputDir>scenery\LSGT-Assets\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="LSZF-Assets">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZF-assets</AssetDir>
+			<OutputDir>scenery\LSZF-Assets\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="SimObject-LSGE-tee">
 			<Type>SimObject</Type>
 			<Flags>
@@ -57,6 +65,14 @@
 			</Flags>
 			<AssetDir>PackageSources\SimObjects\misc\LSZF-tee\</AssetDir>
 			<OutputDir>SimObjects\misc\LSZF-tee\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="SimObjects-LSZF-windsock">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\misc\LSZF-windsock\</AssetDir>
+			<OutputDir>SimObjects\misc\LSZF-windsock\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="SimObjects-LSZI-tee">
 			<Type>SimObject</Type>
