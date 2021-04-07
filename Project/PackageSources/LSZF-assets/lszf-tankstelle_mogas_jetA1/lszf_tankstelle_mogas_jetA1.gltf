@@ -14,7 +14,17 @@
     "scene" : 0,
     "scenes" : [
         {
-            "extras" : {},
+            "extras" : {
+                "glTF2ExportSettings" : {
+                    "export_apply" : 1,
+                    "export_extras" : 1,
+                    "export_generate_guid" : 1,
+                    "export_texture_dir" : "texture",
+                    "export_xml" : 1,
+                    "export_xml_file" : "lszf_tankstelle_mogas_jetA1",
+                    "use_selection" : 1
+                }
+            },
             "name" : "Scene",
             "nodes" : [
                 0,
@@ -77,7 +87,7 @@
             "extras" : {
                 "msfs_material_mode" : 1,
                 "msfs_albedo_texture" : {
-                    "name" : "props.jpeg",
+                    "name" : "props_tankstelle_mogas_jetA1_1K_albedo.jpg",
                     "type" : "Image"
                 },
                 "msfs_show_tint" : 1,
@@ -276,8 +286,8 @@
     "images" : [
         {
             "mimeType" : "image/jpeg",
-            "name" : "props",
-            "uri" : "props.jpg"
+            "name" : "props_tankstelle_mogas_jetA1_1K_albedo",
+            "uri" : "props_tankstelle_mogas_jetA1_1K_albedo.jpg"
         }
     ],
     "accessors" : [
@@ -719,7 +729,7 @@
     "buffers" : [
         {
             "byteLength" : 13132,
-            "uri" : "lszf-tankstelle-slave.bin"
+            "uri" : "lszf_tankstelle_mogas_jetA1.bin"
         }
     ]
 }
