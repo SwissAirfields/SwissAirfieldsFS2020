@@ -1,5 +1,13 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
+	<!--SceneryObject name: Gen_Airport_RedWhite_Antenna_01-->
+	<SceneryObject lat="47.08343999999698" lon="6.79325000000000" alt="0.00000000000000" pitch="0.000055" bank="-0.000055" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1DEF7401-E51C-44DE-B545-C7B2002E289E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Airport_RedWhite_Antenna_01-->
+	<SceneryObject lat="47.08574999999697" lon="6.79546000000000" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1DEF7401-E51C-44DE-B545-C7B2002E289E}" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: Gen_Airport_Tower01-->
 	<SceneryObject lat="47.08493878053819" lon="6.79639232319017" alt="0.00000000000000" pitch="0.000041" bank="-0.000041" heading="-35.700046" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{634B83BB-96A9-453D-8452-938F9804DE4F}" scale="1.000000"/>
@@ -44,14 +52,18 @@
 	<SceneryObject lat="47.08509278299017" lon="6.79680990925466" alt="0.00000000000000" pitch="0.001468" bank="-0.001468" heading="144.300000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{42555E22-3916-44A5-800A-7C908FDC51C2}" scale="0.750000"/>
 	</SceneryObject>
+	<!--SceneryObject name: ILS_Antenna_02-->
+	<SceneryObject lat="47.08082999999696" lon="6.78669000000000" alt="0.00000000000000" pitch="0.000041" bank="-0.000041" heading="54.300041" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C233E165-298F-4606-97AB-4F22DD8EB1B2}" scale="1.000000"/>
+	</SceneryObject>
 	<SceneryObject lat="47.08550999999242" lon="6.79487000000000" alt="0.00000000000000" pitch="0.000041" bank="-0.000041" heading="-0.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE"/>
 	</SceneryObject>
-	<Rectangle width="56.258919" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08082424946721" longitude="6.78691590448668" altitude="1026.63973835017532" latitude2="47.08108665827144" longitude2="6.78745048997242" altitude2="1026.64034574851394">
+	<Rectangle width="56.258919" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08082424884132" longitude="6.78691590514686" altitude="1026.63973842468113" latitude2="47.08108665889125" longitude2="6.78745048931224" altitude2="1026.64034494943917">
 		<RunwayDeformation alt="1026.640015" ratio="0.000000"/>
 		<RunwayDeformation alt="1027.000000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="16.330660" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="47.08093486488569" longitude="6.78760013923367" altitude="1025.01696959324181" latitude2="47.08665972404280" longitude2="6.79925656385748" altitude2="1025.02913864236325">
+	<Rectangle width="16.330660" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="47.08093456833101" longitude="6.78760045160326" altitude="1025.01697294507176" latitude2="47.08666002062289" longitude2="6.79925625151912" altitude2="1025.02913457807153">
 		<RunwayDeformation alt="1026.640015" ratio="0.000000"/>
 		<RunwayDeformation alt="1026.650024" ratio="0.055026"/>
 		<RunwayDeformation alt="1020.491943" ratio="0.330155"/>
@@ -63,15 +75,15 @@
 		<RunwayDeformation alt="1021.904175" ratio="0.926269"/>
 		<RunwayDeformation alt="1021.370239" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="37.756351" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08373494070037" longitude="6.79388571368924" altitude="1020.96195519343019" latitude2="47.08524710558323" longitude2="6.79696610657058" altitude2="1020.96509769093245">
+	<Rectangle width="37.756351" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08373492005877" longitude="6.79388573545086" altitude="1020.96195601578802" latitude2="47.08524712621937" longitude2="6.79696608480953" altitude2="1020.96509614773095">
 		<RunwayDeformation alt="1020.599976" ratio="0.000000"/>
 		<RunwayDeformation alt="1020.892639" ratio="0.282340"/>
 		<RunwayDeformation alt="1022.269836" ratio="0.708298"/>
 		<RunwayDeformation alt="1021.121338" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="13.720929" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08475686736977" longitude="6.79653253405720" altitude="1021.49635813944042" latitude2="47.08506241003374" longitude2="6.79715503444254" altitude2="1021.49698345642537"/>
-	<Rectangle width="21.496878" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08529562751122" longitude="6.79690761078374" altitude="1021.41408094484359" latitude2="47.08555172914316" longitude2="6.79742939007527" altitude2="1021.41459996160120"/>
-	<Rectangle width="13.402521" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08559464396809" longitude="6.79738254573615" altitude="1021.41099774371833" latitude2="47.08615848778460" longitude2="6.79831214529159" altitude2="1021.41192448511720"/>
+	<Rectangle width="13.720929" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08475686649762" longitude="6.79653253493643" altitude="1021.49635796993971" latitude2="47.08506241089986" longitude2="6.79715503356332" altitude2="1021.49698290508240"/>
+	<Rectangle width="21.496878" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08529562691802" longitude="6.79690761141254" altitude="1021.41408073250204" latitude2="47.08555172973031" longitude2="6.79742938944648" altitude2="1021.41459945216775"/>
+	<Rectangle width="13.402521" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08559464206034" longitude="6.79738254814550" altitude="1021.41099738050252" latitude2="47.08615848968634" longitude2="6.79831214288225" altitude2="1021.41192412842065"/>
 	<Airport region="Europe" country="Switzerland" state="Neuchâtel" city="La-chaux-de-fonds" name="Les Eplatures" ident="LSGC" lat="47.08474243333225" lon="6.79706424493823" alt="1015.38031515479088" magvar="1.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
 		<TaxiwayPoint index="0" type="HOLD_SHORT" orientation="REVERSE" lat="47.08101984290550" lon="6.78786000000000"/>
 		<TaxiwayPoint index="1" type="NORMAL" orientation="FORWARD" lat="47.08172636441306" lon="6.78929505809272"/>
@@ -1236,7 +1248,10 @@
 		</PaintedElements>
 		<ApronEdgeLights/>
 		<Com frequency="118.125" type="TOWER" name="Les Eplatures"/>
-		<DeleteAirport deleteAllApproaches="TRUE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="TRUE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllBlastFences="TRUE" deleteAllBoundaryFences="TRUE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="TRUE" deleteAllArrivals="TRUE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="TRUE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="TRUE" deleteAllTerminalWaypoints="TRUE" deleteAllTerminalNDBs="TRUE"/>
+	    <Ils lat="47.08083333" lon="6.78666667" alt="1026.6" heading="234.3" frequency="108.15" magvar="0.0" ident="ICF" width="5.0" name="ILS 24">
+			<Dme lat="47.08574" lon="6.79546" alt="1027.5" range="27N"/>
+		</Ils>
+		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="TRUE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllBlastFences="TRUE" deleteAllBoundaryFences="TRUE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="TRUE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="TRUE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
 	</Airport>
 </FSData>
 
