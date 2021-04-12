@@ -75,14 +75,14 @@
 	<SceneryObject lat="47.08550999999242" lon="6.79487000000000" alt="0.00000000000000" pitch="0.000041" bank="-0.000041" heading="-0.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE"/>
 	</SceneryObject>
-	<Rectangle width="13.720929" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08475686312588" longitude="6.79653253852012" altitude="1021.49635642115027" latitude2="47.08506241424735" longitude2="6.79715502997965" altitude2="1021.49698156956583"/>
-	<Rectangle width="21.496878" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08529562454667" longitude="6.79690761391682" altitude="1021.41407918091863" latitude2="47.08555173207754" longitude2="6.79742938694222" altitude2="1021.41459811292589"/>
-	<Rectangle width="13.402521" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08559463454542" longitude="6.79738255794712" altitude="1021.41099630016834" latitude2="47.08615849717717" longitude2="6.79831213308067" altitude2="1021.41192231886089"/>
-	<Rectangle width="56.258919" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08082424634305" longitude="6.78691590777268" altitude="1026.63973682839423" latitude2="47.08108666136525" longitude2="6.78745048668644" altitude2="1026.64034363999963">
+	<Rectangle width="13.720929" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08475686140982" longitude="6.79653254029811" altitude="1021.49635535012931" latitude2="47.08506241595129" longitude2="6.79715502820167" altitude2="1021.49698120262474"/>
+	<Rectangle width="21.496878" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08529562333812" longitude="6.79690761516780" altitude="1021.41407830268145" latitude2="47.08555173327397" longitude2="6.79742938569126" altitude2="1021.41459754761308"/>
+	<Rectangle width="13.402521" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08559463079882" longitude="6.79738256283418" altitude="1021.41099523752928" latitude2="47.08615850091178" longitude2="6.79831212819363" altitude2="1021.41192192863673"/>
+	<Rectangle width="56.258919" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08082424510165" longitude="6.78691590911247" altitude="1026.63973617833108" latitude2="47.08108666259450" longitude2="6.78745048534665" altitude2="1026.64034283999354">
 		<RunwayDeformation alt="1026.640015" ratio="0.000000"/>
 		<RunwayDeformation alt="1027.000000" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="16.330660" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="47.08093338276642" longitude="6.78760169960139" altitude="1025.01697193738073" latitude2="47.08666120628898" longitude2="6.79925500364584" altitude2="1025.02913273684680">
+	<Rectangle width="16.330660" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="1" latitude="47.08093279036360" longitude="6.78760232462573" altitude="1025.01697228569537" latitude2="47.08666179874265" longitude2="6.79925437868369" altitude2="1025.02913095150143">
 		<RunwayDeformation alt="1026.640015" ratio="0.000000"/>
 		<RunwayDeformation alt="1026.650024" ratio="0.055026"/>
 		<RunwayDeformation alt="1020.491943" ratio="0.330155"/>
@@ -94,7 +94,7 @@
 		<RunwayDeformation alt="1021.904175" ratio="0.926269"/>
 		<RunwayDeformation alt="1021.370239" ratio="1.000000"/>
 	</Rectangle>
-	<Rectangle width="37.756351" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08373483727829" longitude="6.79388582222836" altitude="1020.96195469144732" latitude2="47.08524720897807" longitude2="6.79696599803434" altitude2="1020.96509458031505">
+	<Rectangle width="37.756351" falloff="30.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" latitude="47.08373479592290" longitude="6.79388586596560" altitude="1020.96195412427187" latitude2="47.08524725032255" longitude2="6.79696595429825" altitude2="1020.96509370300919">
 		<RunwayDeformation alt="1020.599976" ratio="0.000000"/>
 		<RunwayDeformation alt="1020.892639" ratio="0.282340"/>
 		<RunwayDeformation alt="1022.269836" ratio="0.708298"/>
@@ -102,12 +102,12 @@
 	</Rectangle>
 	<Airport region="Europe" country="Switzerland" state="NeuchÃ¢tel" city="La-chaux-de-fonds" name="Les Eplatures" ident="LSGC" lat="47.08474243333225" lon="6.79706424493823" alt="1015.38031515479088" magvar="1.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
 		<AirportGroup displayName="Runway" groupID="1"/>
-		<AirportGroup displayName="TaxiwayParking" groupID="2" groupIndex="7"/>
-		<AirportGroup displayName="Apron" groupID="3" groupIndex="8"/>
-		<AirportGroup displayName="PaintedLine" groupID="4" groupIndex="9"/>
+		<AirportGroup displayName="TaxiwayParking" groupID="2" groupIndex="38"/>
+		<AirportGroup displayName="Apron" groupID="3" groupIndex="39"/>
+		<AirportGroup displayName="PaintedLine" groupID="4" groupIndex="40"/>
 		<TaxiwayParking parentGroupID="2" groupIndex="12" index="188" type="FUEL" lat="47.08476892595937" lon="6.79581942205490" heading="144.300003" radius="8.000000" name="NONE" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="2" index="159" type="RAMP_GA_MEDIUM" lat="47.08380718308092" lon="6.79406961203871" heading="341.848785" radius="14.000000" name="E_PARKING" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="2" groupIndex="9" index="168" type="RAMP_GA_MEDIUM" lat="47.08537159805438" lon="6.79710243916667" heading="295.717316" radius="8.000000" name="W_PARKING" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="2" groupIndex="9" index="168" type="RAMP_GA_MEDIUM" lat="47.08537159805136" lon="6.79710243916667" heading="295.717316" radius="8.000000" name="W_PARKING" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="2" groupIndex="10" index="169" type="RAMP_GA_MEDIUM" lat="47.08547720824323" lon="6.79731358723584" heading="1.799236" radius="8.000000" name="W_PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="2" groupIndex="11" index="170" type="RAMP_GA_SMALL" lat="47.08386033943101" lon="6.79437894506152" heading="318.255920" radius="6.000000" name="E_PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking parentGroupID="2" groupIndex="1" index="160" type="RAMP_GA_SMALL" lat="47.08402306491448" lon="6.79437457663777" heading="51.010418" radius="6.000000" name="E_PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
@@ -143,29 +143,48 @@
 			<Apron parentGroupID="3" groupIndex="1" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.300000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Coloration red="120" green="120" blue="120" alpha="255" override="TRUE"/>
 				<Vertex lat="47.08127936067834" lon="6.78726174705063"/>
-				<Vertex lat="47.08106986607223" lon="6.78683994381147"/>
-				<Vertex lat="47.08084963548489" lon="6.78707021373821"/>
-				<Vertex lat="47.08082453872961" lon="6.78712164069977"/>
-				<Vertex lat="47.08081537761903" lon="6.78718767579828"/>
-				<Vertex lat="47.08081954368372" lon="6.78725005189708"/>
-				<Vertex lat="47.08088990911850" lon="6.78758994151964"/>
-				<Vertex lat="47.08092652723402" lon="6.78773386119388"/>
-				<Vertex lat="47.08096960664837" lon="6.78785459151147"/>
-				<Vertex lat="47.08099160513584" lon="6.78790235070124"/>
+				<Vertex lat="47.08106888888586" lon="6.78683500000000"/>
+				<Vertex lat="47.08085111110810" lon="6.78706777777778"/>
+				<Vertex lat="47.08083583333032" lon="6.78709916666667"/>
+				<Vertex lat="47.08082472221920" lon="6.78714222222222"/>
+				<Vertex lat="47.08081666666363" lon="6.78718888888889"/>
+				<Vertex lat="47.08081861110807" lon="6.78723472222222"/>
+				<Vertex lat="47.08084916666363" lon="6.78740361111111"/>
+				<Vertex lat="47.08088361110808" lon="6.78756722222222"/>
+				<Vertex lat="47.08090861110807" lon="6.78767388888889"/>
+				<Vertex lat="47.08094166666363" lon="6.78778000000000"/>
+				<Vertex lat="47.08096416666363" lon="6.78783944444445"/>
+				<Vertex lat="47.08098805555252" lon="6.78788861111111"/>
 				<Vertex lat="47.08105922890704" lon="6.78783325141980"/>
-				<Vertex lat="47.08103708383771" lon="6.78778711942282"/>
-				<Vertex lat="47.08102805272981" lon="6.78776212387118"/>
-				<Vertex lat="47.08102244096312" lon="6.78773485321355"/>
-				<Vertex lat="47.08102046931557" lon="6.78770656911102"/>
-				<Vertex lat="47.08102231477125" lon="6.78767837894938"/>
-				<Vertex lat="47.08102791069912" lon="6.78765126058360"/>
-				<Vertex lat="47.08103717199203" lon="6.78762632511915"/>
-				<Vertex lat="47.08104949880516" lon="6.78760425566143"/>
-				<Vertex lat="47.08106455322766" lon="6.78758630563991"/>
+				<Vertex lat="47.08104749999696" lon="6.78780694444444"/>
+				<Vertex lat="47.08103277777474" lon="6.78777111111111"/>
+				<Vertex lat="47.08102722221920" lon="6.78774138888889"/>
+				<Vertex lat="47.08102472221918" lon="6.78770805555556"/>
+				<Vertex lat="47.08102916666363" lon="6.78766861111111"/>
+				<Vertex lat="47.08103833333029" lon="6.78763083333333"/>
+				<Vertex lat="47.08106027777473" lon="6.78759500000000"/>
 				<Vertex lat="47.08107923255554" lon="6.78757715224873"/>
-				<Vertex lat="47.08109250358775" lon="6.78757685343401"/>
-				<Vertex lat="47.08110406656139" lon="6.78758411942361"/>
-				<Vertex lat="47.08111480067561" lon="6.78759954574447"/>
+				<Vertex lat="47.08108055555251" lon="6.78757611111111"/>
+				<Vertex lat="47.08109388888585" lon="6.78757083331330"/>
+				<Vertex lat="47.08110138888585" lon="6.78757777777778"/>
+			</Apron>
+			<Apron groupIndex="1" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="3" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="100" green="100" blue="100" alpha="255" override="TRUE"/>
+				<Vertex lat="47.08102916666362" lon="6.78775027777778"/>
+				<Vertex lat="47.08098805555252" lon="6.78788777777778"/>
+				<Vertex lat="47.08096972221918" lon="6.78785000000000"/>
+				<Vertex lat="47.08097638888585" lon="6.78785111111111"/>
+				<Vertex lat="47.08102472221920" lon="6.78769027777778"/>
+				<Vertex lat="47.08102666666366" lon="6.78772527777778"/>
+			</Apron>
+			<Apron groupIndex="2" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="3" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="100" green="100" blue="100" alpha="255" override="TRUE"/>
+				<Vertex lat="47.08125222221921" lon="6.78720611111111"/>
+				<Vertex lat="47.08126694444144" lon="6.78723833333333"/>
+				<Vertex lat="47.08105472221920" lon="6.78746638888889"/>
+				<Vertex lat="47.08106583333031" lon="6.78758694444444"/>
+				<Vertex lat="47.08104861110809" lon="6.78761305555556"/>
+				<Vertex lat="47.08103222221921" lon="6.78744500000000"/>
 			</Apron>
 			<Apron parentGroupID="3" groupIndex="2" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1" tiling="25.000000" heading="0.000000" falloff="0.300000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Coloration red="128" green="128" blue="128" alpha="255" override="TRUE"/>
@@ -207,6 +226,22 @@
 				<Vertex lat="47.08182958019714" lon="6.78940329598110"/>
 				<Vertex lat="47.08182384076335" lon="6.78940911451944"/>
 				<Vertex lat="47.08166322977114" lon="6.78908324347905"/>
+			</Apron>
+			<Apron groupIndex="10" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="2" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="120" green="120" blue="120" alpha="255" override="TRUE"/>
+				<Vertex lat="47.08105820102546" lon="6.78783125870540"/>
+				<Vertex lat="47.08166833333030" lon="6.78907083333333"/>
+				<Vertex lat="47.08183055555252" lon="6.78940250000000"/>
+				<Vertex lat="47.08241944444141" lon="6.79060166666667"/>
+				<Vertex lat="47.08257805555254" lon="6.79092333333333"/>
+				<Vertex lat="47.08328555555254" lon="6.79236583333333"/>
+				<Vertex lat="47.08343916666366" lon="6.79268111111111"/>
+				<Vertex lat="47.08394333333032" lon="6.79370361111111"/>
+				<Vertex lat="47.08387222221921" lon="6.79376194444444"/>
+				<Vertex lat="47.08329166666365" lon="6.79258500000000"/>
+				<Vertex lat="47.08242555555253" lon="6.79081722222222"/>
+				<Vertex lat="47.08168111110808" lon="6.78929805555556"/>
+				<Vertex lat="47.08098740468166" lon="6.78788748299835"/>
 			</Apron>
 			<Apron parentGroupID="3" groupIndex="3" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1" tiling="25.000000" heading="0.000000" falloff="0.300000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Coloration red="128" green="128" blue="128" alpha="255" override="TRUE"/>
@@ -251,70 +286,118 @@
 			</Apron>
 			<Apron parentGroupID="3" groupIndex="4" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1" tiling="25.000000" heading="0.000000" falloff="0.300000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Coloration red="128" green="128" blue="128" alpha="255" override="TRUE"/>
-				<Vertex lat="47.08327620840004" lon="6.79234827041109"/>
-				<Vertex lat="47.08328538493673" lon="6.79236348176576"/>
-				<Vertex lat="47.08329638607009" lon="6.79237585762959"/>
-				<Vertex lat="47.08330884219892" lon="6.79238481974589"/>
-				<Vertex lat="47.08332225565861" lon="6.79238999785639"/>
-				<Vertex lat="47.08333613615689" lon="6.79239127652529"/>
-				<Vertex lat="47.08334989737458" lon="6.79238866864647"/>
-				<Vertex lat="47.08336305077184" lon="6.79238207318130"/>
-				<Vertex lat="47.08337500864443" lon="6.79237187155293"/>
-				<Vertex lat="47.08338551461210" lon="6.79235845426467"/>
-				<Vertex lat="47.08339387489760" lon="6.79234241570818"/>
-				<Vertex lat="47.08340004784861" lon="6.79232409557177"/>
-				<Vertex lat="47.08340358241351" lon="6.79230438977126"/>
-				<Vertex lat="47.08340452533929" lon="6.79228419906702"/>
-				<Vertex lat="47.08340270555999" lon="6.79226416339963"/>
-				<Vertex lat="47.08339821495217" lon="6.79224474983138"/>
-				<Vertex lat="47.08339125057395" lon="6.79222719895594"/>
-				<Vertex lat="47.08340011348808" lon="6.79221752579317"/>
-				<Vertex lat="47.08356042412104" lon="6.79254428864870"/>
-				<Vertex lat="47.08355133279855" lon="6.79255399949132"/>
-				<Vertex lat="47.08354214556148" lon="6.79253874628929"/>
-				<Vertex lat="47.08353111653138" lon="6.79252640626424"/>
-				<Vertex lat="47.08351875538857" lon="6.79251741478153"/>
-				<Vertex lat="47.08350531320906" lon="6.79251215506450"/>
-				<Vertex lat="47.08349150182741" lon="6.79251092922687"/>
-				<Vertex lat="47.08347768099848" lon="6.79251364360838"/>
-				<Vertex lat="47.08346454990257" lon="6.79252016290351"/>
-				<Vertex lat="47.08345256269519" lon="6.79253030214761"/>
-				<Vertex lat="47.08344208110749" lon="6.79254376021516"/>
-				<Vertex lat="47.08343366574287" lon="6.79255986899181"/>
-				<Vertex lat="47.08342752567111" lon="6.79257813388211"/>
-				<Vertex lat="47.08342397121358" lon="6.79259781233998"/>
-				<Vertex lat="47.08342308906266" lon="6.79261804125443"/>
-				<Vertex lat="47.08342490448145" lon="6.79263820612129"/>
-				<Vertex lat="47.08342942115230" lon="6.79265745919196"/>
-				<Vertex lat="47.08343636743543" lon="6.79267495999751"/>
-				<Vertex lat="47.08343062800164" lon="6.79268077853585"/>
-				<Vertex lat="47.08327001700943" lon="6.79235490749546"/>
+				<Vertex lat="47.08327804326237" lon="6.79235476926744"/>
+				<Vertex lat="47.08328721979907" lon="6.79236998062211"/>
+				<Vertex lat="47.08329822093243" lon="6.79238235648594"/>
+				<Vertex lat="47.08331067706126" lon="6.79239131860224"/>
+				<Vertex lat="47.08332409052095" lon="6.79239649671274"/>
+				<Vertex lat="47.08333797101923" lon="6.79239777538164"/>
+				<Vertex lat="47.08335173223692" lon="6.79239516750282"/>
+				<Vertex lat="47.08336488563418" lon="6.79238857203765"/>
+				<Vertex lat="47.08337684350677" lon="6.79237837040928"/>
+				<Vertex lat="47.08338734947444" lon="6.79236495312102"/>
+				<Vertex lat="47.08339570975994" lon="6.79234891456453"/>
+				<Vertex lat="47.08340188271095" lon="6.79233059442812"/>
+				<Vertex lat="47.08340541727585" lon="6.79231088862761"/>
+				<Vertex lat="47.08340636020163" lon="6.79229069792337"/>
+				<Vertex lat="47.08340454042233" lon="6.79227066225598"/>
+				<Vertex lat="47.08340004981451" lon="6.79225124868773"/>
+				<Vertex lat="47.08339308543629" lon="6.79223369781229"/>
+				<Vertex lat="47.08340194835042" lon="6.79222402464952"/>
+				<Vertex lat="47.08356225898338" lon="6.79255078750505"/>
+				<Vertex lat="47.08355316766089" lon="6.79256049834767"/>
+				<Vertex lat="47.08354398042382" lon="6.79254524514564"/>
+				<Vertex lat="47.08353295139372" lon="6.79253290512059"/>
+				<Vertex lat="47.08352059025091" lon="6.79252391363788"/>
+				<Vertex lat="47.08350714807140" lon="6.79251865392085"/>
+				<Vertex lat="47.08349333668975" lon="6.79251742808322"/>
+				<Vertex lat="47.08347951586082" lon="6.79252014246473"/>
+				<Vertex lat="47.08346638476491" lon="6.79252666175986"/>
+				<Vertex lat="47.08345439755753" lon="6.79253680100396"/>
+				<Vertex lat="47.08344391596983" lon="6.79255025907151"/>
+				<Vertex lat="47.08343550060520" lon="6.79256636784816"/>
+				<Vertex lat="47.08342936053345" lon="6.79258463273846"/>
+				<Vertex lat="47.08342580607592" lon="6.79260431119633"/>
+				<Vertex lat="47.08342492392500" lon="6.79262454011078"/>
+				<Vertex lat="47.08342673934379" lon="6.79264470497764"/>
+				<Vertex lat="47.08343125601464" lon="6.79266395804831"/>
+				<Vertex lat="47.08343820229777" lon="6.79268145885386"/>
+				<Vertex lat="47.08343246286398" lon="6.79268727739220"/>
+				<Vertex lat="47.08327185187177" lon="6.79236140635181"/>
 			</Apron>
 			<Apron parentGroupID="3" groupIndex="5" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000003" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Coloration red="116" green="166" blue="137" alpha="255" override="TRUE"/>
-				<Vertex lat="47.08420482753018" lon="6.79425708813047"/>
-				<Vertex lat="47.08433081340956" lon="6.79412508519586"/>
-				<Vertex lat="47.08433245736504" lon="6.79417235284340"/>
-				<Vertex lat="47.08432276993395" lon="6.79421780142555"/>
-				<Vertex lat="47.08429920255475" lon="6.79425846668984"/>
-				<Vertex lat="47.08426568009062" lon="6.79427647650983"/>
-				<Vertex lat="47.08423080246180" lon="6.79427398782521"/>
+				<Vertex lat="47.08421537819105" lon="6.79426358397171"/>
+				<Vertex lat="47.08432566816130" lon="6.79413618915875"/>
+				<Vertex lat="47.08432764089013" lon="6.79417188535485"/>
+				<Vertex lat="47.08432082704346" lon="6.79421731557931"/>
+				<Vertex lat="47.08429682449130" lon="6.79425621458731"/>
+				<Vertex lat="47.08426490027922" lon="6.79427364962337"/>
+				<Vertex lat="47.08423533634949" lon="6.79427260712836"/>
+			</Apron>
+			<Apron groupIndex="22" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="128" green="128" blue="128" alpha="255" override="TRUE"/>
+				<Vertex lat="47.08420694444142" lon="6.79424972222222"/>
+				<Vertex lat="47.08431805555254" lon="6.79411666666667"/>
+				<Vertex lat="47.08446138888588" lon="6.79440250000000"/>
+				<Vertex lat="47.08434749999699" lon="6.79452555555555"/>
 			</Apron>
 			<Apron parentGroupID="3" groupIndex="6" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000003" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Coloration red="116" green="166" blue="137" alpha="255" override="TRUE"/>
-				<Vertex lat="47.08433751160531" lon="6.79451084277864"/>
-				<Vertex lat="47.08433818882042" lon="6.79445655602108"/>
-				<Vertex lat="47.08435243919778" lon="6.79441398538718"/>
-				<Vertex lat="47.08437210146316" lon="6.79438832622678"/>
-				<Vertex lat="47.08439967776194" lon="6.79437322096886"/>
-				<Vertex lat="47.08443055600235" lon="6.79437277279506"/>
-				<Vertex lat="47.08445430905658" lon="6.79438940824334"/>
+				<Vertex lat="47.08434445187069" lon="6.79450402310367"/>
+				<Vertex lat="47.08434517871541" lon="6.79446046619552"/>
+				<Vertex lat="47.08435583596397" lon="6.79442005130697"/>
+				<Vertex lat="47.08437465736184" lon="6.79439413288461"/>
+				<Vertex lat="47.08440084712760" lon="6.79438011432226"/>
+				<Vertex lat="47.08443126177782" lon="6.79437959142040"/>
+				<Vertex lat="47.08445205233865" lon="6.79438826953100"/>
 			</Apron>
 			<Apron parentGroupID="3" groupIndex="7" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="4" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="47.08475319549242" lon="6.79571333963757"/>
 				<Vertex lat="47.08482685464495" lon="6.79586537903437"/>
 				<Vertex lat="47.08472099807876" lon="6.79594077470687"/>
 				<Vertex lat="47.08465618316829" lon="6.79581397602192"/>
+			</Apron>
+			<Apron parentGroupID="3" groupIndex="11" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="2" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="120" green="120" blue="120" alpha="255" override="TRUE"/>
+				<Vertex lat="47.08393333333032" lon="6.79368555555555"/>
+				<Vertex lat="47.08386611110808" lon="6.79375305555556"/>
+				<Vertex lat="47.08386555555253" lon="6.79376277777778"/>
+				<Vertex lat="47.08365805555253" lon="6.79399722222222"/>
+				<Vertex lat="47.08365027777476" lon="6.79401444444444"/>
+				<Vertex lat="47.08364361110811" lon="6.79403305555556"/>
+				<Vertex lat="47.08365083333032" lon="6.79408805555556"/>
+				<Vertex lat="47.08366194444142" lon="6.79413027777778"/>
+				<Vertex lat="47.08367722221919" lon="6.79416527777778"/>
+				<Vertex lat="47.08386611110808" lon="6.79454888888889"/>
+				<Vertex lat="47.08464999999850" lon="6.79614000000000"/>
+				<Vertex lat="47.08476999999849" lon="6.79601000000000"/>
+				<Vertex lat="47.08493999999850" lon="6.79636000000000"/>
+				<Vertex lat="47.08471999999850" lon="6.79658000000000"/>
+				<Vertex lat="47.08500999999849" lon="6.79717000000000"/>
+				<Vertex lat="47.08526999999849" lon="6.79694000000000"/>
+				<Vertex lat="47.08530418845015" lon="6.79700978589726"/>
+				<Vertex lat="47.08525999999850" lon="6.79705000000000"/>
+				<Vertex lat="47.08544999999850" lon="6.79747000000000"/>
+				<Vertex lat="47.08548999999850" lon="6.79748000000000"/>
+				<Vertex lat="47.08558138888586" lon="6.79740361111111"/>
+				<Vertex lat="47.08577138888587" lon="6.79779527777778"/>
+				<Vertex lat="47.08581249999698" lon="6.79786888888889"/>
+				<Vertex lat="47.08670412974181" lon="6.79926140491610"/>
+				<Vertex lat="47.08680209887545" lon="6.79915402487527"/>
+				<Vertex lat="47.08656239457901" lon="6.79870621553487"/>
+				<Vertex lat="47.08656111110807" lon="6.79872611111111"/>
+				<Vertex lat="47.08655749999699" lon="6.79873944444445"/>
+				<Vertex lat="47.08652999999695" lon="6.79877194444444"/>
+				<Vertex lat="47.08651722221919" lon="6.79877527777778"/>
+				<Vertex lat="47.08650194444141" lon="6.79877194444444"/>
+				<Vertex lat="47.08585999999847" lon="6.79777000000000"/>
+				<Vertex lat="47.08579398654366" lon="6.79763617228566"/>
+				<Vertex lat="47.08572999999847" lon="6.79733000000000"/>
+				<Vertex lat="47.08584999999849" lon="6.79720000000000"/>
+				<Vertex lat="47.08496315507575" lon="6.79542792041718"/>
+				<Vertex lat="47.08488083333032" lon="6.79552083333333"/>
+				<Vertex lat="47.08477638888586" lon="6.79537444444444"/>
 			</Apron>
 			<Apron parentGroupID="3" groupIndex="8" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000006" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Coloration red="116" green="166" blue="137" alpha="255" override="TRUE"/>
@@ -349,39 +432,7 @@
 				<Vertex lat="47.08530433653382" lon="6.79700930196284"/>
 				<Vertex lat="47.08528038084408" lon="6.79696185717826"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="11" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="2" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
-				<Coloration red="120" green="120" blue="120" alpha="255" override="TRUE"/>
-				<Vertex lat="47.08393568996250" lon="6.79369419836090"/>
-				<Vertex lat="47.08365999999849" lon="6.79399000000000"/>
-				<Vertex lat="47.08366999999850" lon="6.79416000000000"/>
-				<Vertex lat="47.08464999999850" lon="6.79614000000000"/>
-				<Vertex lat="47.08476999999849" lon="6.79601000000000"/>
-				<Vertex lat="47.08493999999850" lon="6.79636000000000"/>
-				<Vertex lat="47.08471999999850" lon="6.79658000000000"/>
-				<Vertex lat="47.08500999999849" lon="6.79717000000000"/>
-				<Vertex lat="47.08526999999849" lon="6.79694000000000"/>
-				<Vertex lat="47.08530418845015" lon="6.79700978589726"/>
-				<Vertex lat="47.08525999999850" lon="6.79705000000000"/>
-				<Vertex lat="47.08544999999850" lon="6.79747000000000"/>
-				<Vertex lat="47.08548999999850" lon="6.79748000000000"/>
-				<Vertex lat="47.08558138888586" lon="6.79740361111111"/>
-				<Vertex lat="47.08577138888587" lon="6.79779527777778"/>
-				<Vertex lat="47.08581249999698" lon="6.79786888888889"/>
-				<Vertex lat="47.08670412974181" lon="6.79926140491610"/>
-				<Vertex lat="47.08680209887545" lon="6.79915402487527"/>
-				<Vertex lat="47.08655999999850" lon="6.79867000000000"/>
-				<Vertex lat="47.08655999999850" lon="6.79874000000000"/>
-				<Vertex lat="47.08652999999848" lon="6.79877000000000"/>
-				<Vertex lat="47.08649999999849" lon="6.79877000000000"/>
-				<Vertex lat="47.08585999999847" lon="6.79777000000000"/>
-				<Vertex lat="47.08579398654366" lon="6.79763617228566"/>
-				<Vertex lat="47.08572999999847" lon="6.79733000000000"/>
-				<Vertex lat="47.08584999999849" lon="6.79720000000000"/>
-				<Vertex lat="47.08496999999850" lon="6.79542000000000"/>
-				<Vertex lat="47.08487999999848" lon="6.79552000000000"/>
-				<Vertex lat="47.08476259936102" lon="6.79537555915980"/>
-			</Apron>
-			<Apron parentGroupID="3" groupIndex="12" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000002" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="3" groupIndex="25" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000002" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Coloration red="106" green="106" blue="106" alpha="255" override="TRUE"/>
 				<Vertex lat="47.08572949974109" lon="6.79697979801918"/>
 				<Vertex lat="47.08584191334951" lon="6.79720849610634"/>
@@ -389,7 +440,7 @@
 				<Vertex lat="47.08561817589450" lon="6.79729025190442"/>
 				<Vertex lat="47.08567156085726" lon="6.79703872234214"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="13" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="2" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="3" groupIndex="26" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="2" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="47.08566992021991" lon="6.79739227112474"/>
 				<Vertex lat="47.08578374454197" lon="6.79764014135885"/>
 				<Vertex lat="47.08579412173619" lon="6.79763630275122"/>
@@ -404,14 +455,14 @@
 				<Vertex lat="47.08597344674580" lon="6.79768650866673"/>
 				<Vertex lat="47.08604020011266" lon="6.79762306360469"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="14" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="3" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="3" groupIndex="27" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="3" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Coloration red="116" green="166" blue="137" alpha="255" override="TRUE"/>
 				<Vertex lat="47.08651188935210" lon="6.79880655012375"/>
 				<Vertex lat="47.08658116018078" lon="6.79872859963148"/>
 				<Vertex lat="47.08678935845398" lon="6.79916323364240"/>
 				<Vertex lat="47.08676100012102" lon="6.79919456146788"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="15" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000006" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="3" groupIndex="28" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000006" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="47.08670361110809" lon="6.79926138888889"/>
 				<Vertex lat="47.08688166666367" lon="6.79954694444444"/>
 				<Vertex lat="47.08700083333031" lon="6.79978861111111"/>
@@ -420,88 +471,74 @@
 				<Vertex lat="47.08587972221920" lon="6.79731111111111"/>
 				<Vertex lat="47.08678805555255" lon="6.79916972222222"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="16" surface="{5009E27B-86E7-45A5-9CAF-CCFB38A708D2}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
-				<Vertex lat="47.08106151654259" lon="6.78789779673844"/>
-				<Vertex lat="47.08103084189374" lon="6.78793006470563"/>
-				<Vertex lat="47.08101509769264" lon="6.78789798935659"/>
-				<Vertex lat="47.08104577233254" lon="6.78786572138050"/>
+			<Apron parentGroupID="3" groupIndex="29" surface="{5009E27B-86E7-45A5-9CAF-CCFB38A708D2}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.08106014994190" lon="6.78788851483044"/>
+				<Vertex lat="47.08102948046665" lon="6.78792077733586"/>
+				<Vertex lat="47.08101373892722" lon="6.78788870739170"/>
+				<Vertex lat="47.08104440839351" lon="6.78785644487737"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="17" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="3" groupIndex="30" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Coloration red="223" green="222" blue="222" alpha="255" override="TRUE"/>
 				<Vertex lat="47.08215418076433" lon="6.78948579389072"/>
 				<Vertex lat="47.08212496676849" lon="6.78951652580260"/>
 				<Vertex lat="47.08191504337430" lon="6.78908884494454"/>
 				<Vertex lat="47.08194425725646" lon="6.78905811291958"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="18" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="3" groupIndex="31" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Coloration red="223" green="222" blue="222" alpha="255" override="TRUE"/>
 				<Vertex lat="47.08225453443737" lon="6.78938023045975"/>
 				<Vertex lat="47.08222532044181" lon="6.78941096242971"/>
 				<Vertex lat="47.08201539704878" lon="6.78898328076501"/>
 				<Vertex lat="47.08204461093066" lon="6.78895254868197"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="19" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="FALSE" priority="2" tiling="25.000000" heading="3.764638" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
-				<Coloration red="120" green="120" blue="120" alpha="255" override="TRUE"/>
-				<Vertex lat="47.08387688902192" lon="6.79377889118238"/>
-				<Vertex lat="47.08099107739380" lon="6.78789905952207"/>
-				<Vertex lat="47.08105679551864" lon="6.78782992781997"/>
-				<Vertex lat="47.08394261066233" lon="6.79370976297804"/>
-			</Apron>
-			<Apron parentGroupID="3" groupIndex="20" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="3" groupIndex="32" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Coloration red="238" green="237" blue="237" alpha="255" override="TRUE"/>
 				<Vertex lat="47.08273903304141" lon="6.79068342136162"/>
 				<Vertex lat="47.08272296535156" lon="6.79070032411886"/>
 				<Vertex lat="47.08256552270652" lon="6.79037955956669"/>
 				<Vertex lat="47.08258159034948" lon="6.79036265676281"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="21" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="3" groupIndex="33" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Coloration red="238" green="237" blue="237" alpha="255" override="TRUE"/>
 				<Vertex lat="47.08282692164839" lon="6.79059096955216"/>
 				<Vertex lat="47.08281085395917" lon="6.79060787233795"/>
 				<Vertex lat="47.08265341130954" lon="6.79028710726590"/>
 				<Vertex lat="47.08266947895187" lon="6.79027020443347"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="22" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="3.764675" falloff="0.000000" opacity="255" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
-				<Coloration red="128" green="128" blue="128" alpha="255" override="TRUE"/>
-				<Vertex lat="47.08433212789351" lon="6.79453125168673"/>
-				<Vertex lat="47.08419567777511" lon="6.79425324722426"/>
-				<Vertex lat="47.08432713952247" lon="6.79411494801000"/>
-				<Vertex lat="47.08446358997339" lon="6.79439295280324"/>
-			</Apron>
-			<Apron parentGroupID="3" groupIndex="23" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="3" groupIndex="34" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Coloration red="238" green="237" blue="237" alpha="255" override="TRUE"/>
 				<Vertex lat="47.08516971134728" lon="6.79563557081131"/>
 				<Vertex lat="47.08515364366671" lon="6.79565247433660"/>
 				<Vertex lat="47.08499620109620" lon="6.79533169524255"/>
 				<Vertex lat="47.08501226872988" lon="6.79531479167061"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="24" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="3" groupIndex="35" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Coloration red="238" green="237" blue="237" alpha="255" override="TRUE"/>
 				<Vertex lat="47.08525705967126" lon="6.79554368145341"/>
 				<Vertex lat="47.08524099198993" lon="6.79556058500594"/>
 				<Vertex lat="47.08508354942542" lon="6.79523980536749"/>
 				<Vertex lat="47.08509961705987" lon="6.79522290176831"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="25" surface="{78CF8AE5-7085-4D0F-8F0C-3B9AC9F1EE4B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000007" tiling="25.000000" heading="3.764673" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="3" groupIndex="36" surface="{78CF8AE5-7085-4D0F-8F0C-3B9AC9F1EE4B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000007" tiling="25.000000" heading="3.764673" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.08528829978685" lon="6.79624489387751"/>
 				<Vertex lat="47.08515547085567" lon="6.79597426155714"/>
 				<Vertex lat="47.08521623190482" lon="6.79591033940221"/>
 				<Vertex lat="47.08534906098562" lon="6.79618097187142"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="26" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="3" groupIndex="37" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Coloration red="223" green="222" blue="222" alpha="255" override="TRUE"/>
 				<Vertex lat="47.08590274333905" lon="6.79712290487730"/>
 				<Vertex lat="47.08587352935030" lon="6.79715363896316"/>
 				<Vertex lat="47.08566360596964" lon="6.79672592792690"/>
 				<Vertex lat="47.08569281984471" lon="6.79669519372794"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="27" surface="{43CE04CF-B62B-4618-B155-97CDBD52DA5E}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000005" tiling="25.000000" heading="2.193879" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
-				<Vertex lat="47.08578516278097" lon="6.79776649718544"/>
-				<Vertex lat="47.08581583742749" lon="6.79773422628364"/>
-				<Vertex lat="47.08583682965961" lon="6.79777699717627"/>
-				<Vertex lat="47.08580615500114" lon="6.79780926806619"/>
+			<Apron parentGroupID="3" groupIndex="38" surface="{43CE04CF-B62B-4618-B155-97CDBD52DA5E}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000005" tiling="25.000000" heading="2.193879" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.08578917089214" lon="6.79777558421390"/>
+				<Vertex lat="47.08581984038399" lon="6.79774331874187"/>
+				<Vertex lat="47.08584082908614" lon="6.79778608245783"/>
+				<Vertex lat="47.08581015958234" lon="6.79781834791800"/>
 			</Apron>
-			<Apron parentGroupID="3" groupIndex="28" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="3" groupIndex="39" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000001" tiling="25.000000" heading="5.335471" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Coloration red="223" green="222" blue="222" alpha="255" override="TRUE"/>
 				<Vertex lat="47.08600394429901" lon="6.79701644380954"/>
 				<Vertex lat="47.08597473030917" lon="6.79704717795293"/>
@@ -510,18 +547,14 @@
 			</Apron>
 		</Aprons>
 		<PaintedElements>
-			<PaintedLine groupIndex="1" type="HOLD_SHORT_FORWARD" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
-				<Vertex lat="47.08580837154687" lon="6.79784297127776"/>
-				<Vertex lat="47.08585444734840" lon="6.79778238446985"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="29" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+			<PaintedLine parentGroupID="4" groupIndex="9" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
 				<Vertex lat="47.08101984290550" lon="6.78786000000000"/>
 				<Vertex lat="47.08098353469006" lon="6.78777868829731"/>
 				<Vertex lat="47.08095403470318" lon="6.78769934268484"/>
 				<Vertex lat="47.08087250967571" lon="6.78732012057222"/>
 				<Vertex lat="47.08086999999697" lon="6.78727000000000"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="31" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+			<PaintedLine parentGroupID="4" groupIndex="11" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
 				<Vertex lat="47.08086999999697" lon="6.78727000000000"/>
 				<Vertex lat="47.08088881560689" lon="6.78717573953813"/>
 				<Vertex lat="47.08091999999698" lon="6.78709000000000"/>
@@ -531,16 +564,16 @@
 				<Vertex lat="47.08108999999698" lon="6.78721000000000"/>
 				<Vertex lat="47.08110999999695" lon="6.78725000000000"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" type="EDGE_LINE_SOLID" trueAngle="ALL_POINTS" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
-				<Vertex lat="47.08112980396023" lon="6.78759841174992"/>
-				<Vertex lat="47.08106904914762" lon="6.78747464811082"/>
-				<Vertex lat="47.08110533258570" lon="6.78744046564789"/>
+			<PaintedLine groupIndex="15" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
+				<Vertex lat="47.08106914919770" lon="6.78748562530239"/>
+				<Vertex lat="47.08110444444142" lon="6.78744777777778"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="24" type="ENHANCED_CENTER" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08105046815744" lon="6.78792199438209"/>
-				<Vertex lat="47.08118122931244" lon="6.78818842472482"/>
+			<PaintedLine parentGroupID="4" groupIndex="7" type="ENHANCED_CENTER" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08104749999696" lon="6.78790861111111"/>
+				<Vertex lat="47.08110347892328" lon="6.78802332347270"/>
+				<Vertex lat="47.08118965475420" lon="6.78819902211227"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="41" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+			<PaintedLine parentGroupID="4" groupIndex="17" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
 				<Vertex lat="47.08086999999697" lon="6.78727000000000"/>
 				<Vertex lat="47.08089832458469" lon="6.78734179311676"/>
 				<Vertex lat="47.08092999999700" lon="6.78736000000000"/>
@@ -549,539 +582,576 @@
 				<Vertex lat="47.08127999999696" lon="6.78762000000000"/>
 				<Vertex lat="47.08143999999697" lon="6.78795000000000"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="2" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08388165925303" lon="6.79376842553831"/>
-				<Vertex lat="47.08102832973577" lon="6.78794544893994"/>
-				<Vertex lat="47.08098415866706" lon="6.78785991267616"/>
-				<Vertex lat="47.08093627514994" lon="6.78773877650939"/>
-				<Vertex lat="47.08090865383090" lon="6.78763426814414"/>
-				<Vertex lat="47.08088196866552" lon="6.78750514247381"/>
-				<Vertex lat="47.08082888544190" lon="6.78725146926199"/>
-				<Vertex lat="47.08082782053655" lon="6.78716180059892"/>
-				<Vertex lat="47.08084724980824" lon="6.78710829589355"/>
-				<Vertex lat="47.08086392964968" lon="6.78708584885156"/>
-				<Vertex lat="47.08107017612951" lon="6.78686934742556"/>
-				<Vertex lat="47.08126610852471" lon="6.78726754294915"/>
+			<PaintedLine parentGroupID="4" groupIndex="1" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
+				<Vertex lat="47.08126640947942" lon="6.78727079778163"/>
+				<Vertex lat="47.08123027777475" lon="6.78730916666667"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="4" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
-				<Vertex lat="47.08126880649265" lon="6.78726815966155"/>
-				<Vertex lat="47.08123031519714" lon="6.78730843094092"/>
+			<PaintedLine parentGroupID="4" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08388944444141" lon="6.79376277777778"/>
+				<Vertex lat="47.08330166666366" lon="6.79256972222222"/>
+				<Vertex lat="47.08243777777476" lon="6.79080916666667"/>
+				<Vertex lat="47.08169638888589" lon="6.78930000000000"/>
+				<Vertex lat="47.08100527777474" lon="6.78788861111111"/>
+				<Vertex lat="47.08097333333031" lon="6.78782305555555"/>
+				<Vertex lat="47.08094777777473" lon="6.78775583333333"/>
+				<Vertex lat="47.08092194444141" lon="6.78767583333333"/>
+				<Vertex lat="47.08090666666362" lon="6.78761194444444"/>
+				<Vertex lat="47.08089388888587" lon="6.78755444444444"/>
+				<Vertex lat="47.08083638888584" lon="6.78726888888889"/>
+				<Vertex lat="47.08083027777473" lon="6.78722583333333"/>
+				<Vertex lat="47.08082722221916" lon="6.78719444444444"/>
+				<Vertex lat="47.08083083333032" lon="6.78716277777778"/>
+				<Vertex lat="47.08083944444142" lon="6.78713861111111"/>
+				<Vertex lat="47.08085277777473" lon="6.78711611111111"/>
+				<Vertex lat="47.08107305555252" lon="6.78688166666667"/>
+				<Vertex lat="47.08126415048533" lon="6.78727048644441"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="17" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08110805555251" lon="6.78756000000000"/>
+				<Vertex lat="47.08109694444142" lon="6.78755083333333"/>
+				<Vertex lat="47.08108055555250" lon="6.78755083333333"/>
+				<Vertex lat="47.08105972221917" lon="6.78756805555556"/>
+				<Vertex lat="47.08103749999697" lon="6.78759861111111"/>
+				<Vertex lat="47.08102361110809" lon="6.78763277777778"/>
+				<Vertex lat="47.08101499999697" lon="6.78767222222222"/>
+				<Vertex lat="47.08100999999698" lon="6.78771166666667"/>
+				<Vertex lat="47.08101305555251" lon="6.78775138888889"/>
+				<Vertex lat="47.08102361110809" lon="6.78779361111111"/>
+				<Vertex lat="47.08103638888586" lon="6.78782305555556"/>
+				<Vertex lat="47.08166194457901" lon="6.78909286457493"/>
+				<Vertex lat="47.08166833333029" lon="6.78910583333333"/>
+				<Vertex lat="47.08168416666364" lon="6.78912222222222"/>
+				<Vertex lat="47.08169777777475" lon="6.78913027777778"/>
+				<Vertex lat="47.08171861110809" lon="6.78913638888889"/>
+				<Vertex lat="47.08174222221920" lon="6.78913388888889"/>
+				<Vertex lat="47.08176194444140" lon="6.78912472222222"/>
+				<Vertex lat="47.08177916666362" lon="6.78910694444444"/>
+				<Vertex lat="47.08179194444139" lon="6.78908444444444"/>
+				<Vertex lat="47.08180277777474" lon="6.78905472222222"/>
+				<Vertex lat="47.08180666666365" lon="6.78900888888889"/>
+				<Vertex lat="47.08179972221917" lon="6.78897305555556"/>
+				<Vertex lat="47.08179363727594" lon="6.78895496744342"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="16" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
+				<Vertex lat="47.08106988571755" lon="6.78748127967877"/>
+				<Vertex lat="47.08179361110808" lon="6.78895583333333"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="12" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08170687720720" lon="6.78925248828748"/>
+				<Vertex lat="47.08171361110808" lon="6.78925777777778"/>
+				<Vertex lat="47.08172277777475" lon="6.78925944444444"/>
+				<Vertex lat="47.08173194444143" lon="6.78925694444445"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="3" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08172743485201" lon="6.78929449894373"/>
+				<Vertex lat="47.08172472221919" lon="6.78927944444444"/>
+				<Vertex lat="47.08172638888585" lon="6.78926750000000"/>
+				<Vertex lat="47.08173138888585" lon="6.78925777777778"/>
+				<Vertex lat="47.08173590527987" lon="6.78925231782393"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="34" type="HOLD_SHORT_BACKWARD" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08168179340186" lon="6.78912539823578"/>
+				<Vertex lat="47.08180129189134" lon="6.78936758516124"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="4" groupIndex="2" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08166134636676" lon="6.78909170090978"/>
+				<Vertex lat="47.08182406902195" lon="6.78942106612099"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="1" groupIndex="1" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08194222221920" lon="6.78903666666667"/>
+				<Vertex lat="47.08194972221920" lon="6.78901777777778"/>
+				<Vertex lat="47.08195083333029" lon="6.78899555555556"/>
+				<Vertex lat="47.08194416666365" lon="6.78897305555556"/>
+				<Vertex lat="47.08193234098826" lon="6.78894895018120"/>
+				<Vertex lat="47.08180666666366" lon="6.78869277777778"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="11" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08174222221920" lon="6.78924527777778"/>
+				<Vertex lat="47.08193021321594" lon="6.78904919277811"/>
+				<Vertex lat="47.08194222221920" lon="6.78903666666667"/>
+				<Vertex lat="47.08195638888584" lon="6.78903305555556"/>
+				<Vertex lat="47.08196999999696" lon="6.78903861111111"/>
+				<Vertex lat="47.08198222221917" lon="6.78905027777778"/>
+				<Vertex lat="47.08199146909718" lon="6.78906913838533"/>
+				<Vertex lat="47.08212222221918" lon="6.78933583333333"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="19" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08194555555253" lon="6.78926583333333"/>
+				<Vertex lat="47.08193305555250" lon="6.78924694444445"/>
+				<Vertex lat="47.08191416666364" lon="6.78923083333333"/>
+				<Vertex lat="47.08189777777475" lon="6.78922277777778"/>
+				<Vertex lat="47.08187749999698" lon="6.78922000000000"/>
+				<Vertex lat="47.08185194444141" lon="6.78923000000000"/>
+				<Vertex lat="47.08182722221920" lon="6.78925416666667"/>
+				<Vertex lat="47.08181583333032" lon="6.78927388888889"/>
+				<Vertex lat="47.08180472221920" lon="6.78930722222222"/>
+				<Vertex lat="47.08180166666363" lon="6.78933583333333"/>
+				<Vertex lat="47.08180361110808" lon="6.78936277777778"/>
+				<Vertex lat="47.08181027777476" lon="6.78938972222222"/>
+				<Vertex lat="47.08181944444142" lon="6.78941222222222"/>
+				<Vertex lat="47.08182731670828" lon="6.78942826747910"/>
+				<Vertex lat="47.08239778717236" lon="6.79059102517533"/>
+				<Vertex lat="47.08240777777476" lon="6.79061138888889"/>
+				<Vertex lat="47.08241999999698" lon="6.79062861111111"/>
+				<Vertex lat="47.08243722221919" lon="6.79064194444444"/>
+				<Vertex lat="47.08246055555251" lon="6.79065111111111"/>
+				<Vertex lat="47.08248361110810" lon="6.79065111111111"/>
+				<Vertex lat="47.08250499999696" lon="6.79064027777778"/>
+				<Vertex lat="47.08252222221920" lon="6.79062500000000"/>
+				<Vertex lat="47.08253499999697" lon="6.79060444444444"/>
+				<Vertex lat="47.08254416666364" lon="6.79057916666667"/>
+				<Vertex lat="47.08255027777476" lon="6.79055055555556"/>
+				<Vertex lat="47.08255027777476" lon="6.79052166666667"/>
+				<Vertex lat="47.08254611110807" lon="6.79049194444445"/>
+				<Vertex lat="47.08253888888587" lon="6.79047305555556"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="18" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
+				<Vertex lat="47.08194500085686" lon="6.78926580003692"/>
+				<Vertex lat="47.08253919873971" lon="6.79047360045661"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="9" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08245393651832" lon="6.79077193938921"/>
+				<Vertex lat="47.08246111110807" lon="6.79077666666667"/>
+				<Vertex lat="47.08246777777476" lon="6.79077666666667"/>
+				<Vertex lat="47.08247346391585" lon="6.79077544410456"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="5" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08247065679381" lon="6.79080558125792"/>
+				<Vertex lat="47.08246972221922" lon="6.79079388888889"/>
+				<Vertex lat="47.08247027777477" lon="6.79078500000000"/>
+				<Vertex lat="47.08247388888587" lon="6.79077500000000"/>
+				<Vertex lat="47.08247753064016" lon="6.79077180347404"/>
 			</PaintedLine>
 			<PaintedLine parentGroupID="4" groupIndex="5" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08100856293856" lon="6.78769430765781"/>
-				<Vertex lat="47.08101050288637" lon="6.78773263989094"/>
-				<Vertex lat="47.08101751256611" lon="6.78776922469665"/>
-				<Vertex lat="47.08102869150194" lon="6.78779765465729"/>
-				<Vertex lat="47.08165103957145" lon="6.78906522579966"/>
-				<Vertex lat="47.08166260888258" lon="6.78908879021126"/>
-				<Vertex lat="47.08167405178676" lon="6.78910648393782"/>
-				<Vertex lat="47.08170089013603" lon="6.78912855267562"/>
+				<Vertex lat="47.08239770409708" lon="6.79059105927085"/>
+				<Vertex lat="47.08256908083221" lon="6.79093906438283"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="8" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
-				<Vertex lat="47.08100858825313" lon="6.78769261521584"/>
-				<Vertex lat="47.08101556922583" lon="6.78764190341129"/>
-				<Vertex lat="47.08103957157586" lon="6.78758902787513"/>
-				<Vertex lat="47.08107229123613" lon="6.78755741364369"/>
-				<Vertex lat="47.08110236760012" lon="6.78756032073711"/>
-				<Vertex lat="47.08111910636181" lon="6.78757867145959"/>
-				<Vertex lat="47.08112962392376" lon="6.78759827714161"/>
-				<Vertex lat="47.08179049265843" lon="6.78894403052594"/>
-				<Vertex lat="47.08180261262657" lon="6.78897226531701"/>
-				<Vertex lat="47.08180952516354" lon="6.78900689211814"/>
-				<Vertex lat="47.08180053939940" lon="6.78907707408908"/>
-				<Vertex lat="47.08176474601112" lon="6.78912589531916"/>
-				<Vertex lat="47.08172289671198" lon="6.78913563194363"/>
-				<Vertex lat="47.08170070845861" lon="6.78912879307014"/>
+			<PaintedLine groupIndex="35" type="HOLD_SHORT_BACKWARD" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08242657248801" lon="6.79064176081157"/>
+				<Vertex lat="47.08254563544680" lon="6.79088435868526"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="103" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08118119532140" lon="6.78818838739949"/>
-				<Vertex lat="47.08169655531132" lon="6.78923473004618"/>
-				<Vertex lat="47.08170176091657" lon="6.78924529925917"/>
+			<PaintedLine groupIndex="8" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08118999999698" lon="6.78819944444444"/>
+				<Vertex lat="47.08170177504724" lon="6.78924169435112"/>
+				<Vertex lat="47.08170694444139" lon="6.78925222222222"/>
+				<Vertex lat="47.08172777777475" lon="6.78929444444444"/>
+				<Vertex lat="47.08173657721408" lon="6.78931234871483"/>
+				<Vertex lat="47.08244772787159" lon="6.79075936925173"/>
+				<Vertex lat="47.08245499999698" lon="6.79077416666667"/>
+				<Vertex lat="47.08247052765046" lon="6.79080555556233"/>
+				<Vertex lat="47.08249098363007" lon="6.79084728483602"/>
+				<Vertex lat="47.08330711401898" lon="6.79251220529732"/>
+				<Vertex lat="47.08331555555254" lon="6.79252944444444"/>
+				<Vertex lat="47.08333481400386" lon="6.79256857933204"/>
+				<Vertex lat="47.08334982725210" lon="6.79259909707736"/>
+				<Vertex lat="47.08390944444142" lon="6.79373666666667"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="16" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08170176091657" lon="6.78924529925917"/>
-				<Vertex lat="47.08171406266482" lon="6.78927017867595"/>
-				<Vertex lat="47.08172636441306" lon="6.78929505809272"/>
+			<PaintedLine groupIndex="4" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08268249999699" lon="6.79055750000000"/>
+				<Vertex lat="47.08269166666364" lon="6.79053250000000"/>
+				<Vertex lat="47.08269222221919" lon="6.79050472222222"/>
+				<Vertex lat="47.08268611110810" lon="6.79048583333333"/>
+				<Vertex lat="47.08267780483294" lon="6.79046887461285"/>
+				<Vertex lat="47.08255277777475" lon="6.79021361111111"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="3" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08170176091657" lon="6.78924529925917"/>
-				<Vertex lat="47.08171058463672" lon="6.78925489669785"/>
-				<Vertex lat="47.08172308711790" lon="6.78925504722401"/>
-				<Vertex lat="47.08173324724450" lon="6.78924954970900"/>
+			<PaintedLine parentGroupID="1" groupIndex="2" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08249583333031" lon="6.79075333333333"/>
+				<Vertex lat="47.08267426711915" lon="6.79056688608071"/>
+				<Vertex lat="47.08268138888589" lon="6.79055944444444"/>
+				<Vertex lat="47.08269666666367" lon="6.79055222222222"/>
+				<Vertex lat="47.08271666666366" lon="6.79055944444444"/>
+				<Vertex lat="47.08273083333031" lon="6.79057638888889"/>
+				<Vertex lat="47.08274102146332" lon="6.79059726649902"/>
+				<Vertex lat="47.08285499999698" lon="6.79083083333333"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="18" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08173324724450" lon="6.78924954970900"/>
-				<Vertex lat="47.08172602722554" lon="6.78926196768031"/>
-				<Vertex lat="47.08172296751890" lon="6.78927927148697"/>
-				<Vertex lat="47.08172636441306" lon="6.78929505809272"/>
+			<PaintedLine groupIndex="21" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08269510159450" lon="6.79079018291139"/>
+				<Vertex lat="47.08268138888585" lon="6.79076777777778"/>
+				<Vertex lat="47.08265916666365" lon="6.79074888888889"/>
+				<Vertex lat="47.08264083333030" lon="6.79074083333333"/>
+				<Vertex lat="47.08262194444141" lon="6.79074083333333"/>
+				<Vertex lat="47.08259944444141" lon="6.79074888888889"/>
+				<Vertex lat="47.08257611110808" lon="6.79077055555556"/>
+				<Vertex lat="47.08256083333033" lon="6.79079472222222"/>
+				<Vertex lat="47.08255166666365" lon="6.79082250000000"/>
+				<Vertex lat="47.08254916666363" lon="6.79084861111111"/>
+				<Vertex lat="47.08254916666365" lon="6.79088361111111"/>
+				<Vertex lat="47.08255527777474" lon="6.79090972222222"/>
+				<Vertex lat="47.08256083333033" lon="6.79092222222222"/>
+				<Vertex lat="47.08256919554165" lon="6.79093925099089"/>
+				<Vertex lat="47.08326942224534" lon="6.79236522645582"/>
+				<Vertex lat="47.08327722221919" lon="6.79238111111111"/>
+				<Vertex lat="47.08329472221923" lon="6.79240277777778"/>
+				<Vertex lat="47.08331916666364" lon="6.79241722222222"/>
+				<Vertex lat="47.08333833333034" lon="6.79241888888889"/>
+				<Vertex lat="47.08336222221920" lon="6.79241361111111"/>
+				<Vertex lat="47.08338166666365" lon="6.79240000000000"/>
+				<Vertex lat="47.08339833333032" lon="6.79237861111111"/>
+				<Vertex lat="47.08340972221919" lon="6.79235166666667"/>
+				<Vertex lat="47.08341722221921" lon="6.79231555555556"/>
+				<Vertex lat="47.08341527777476" lon="6.79227611111111"/>
+				<Vertex lat="47.08341055555254" lon="6.79225083333333"/>
+				<Vertex lat="47.08340666666364" lon="6.79224111111111"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="10" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08165109498603" lon="6.78906547648866"/>
-				<Vertex lat="47.08182060361555" lon="6.78941267053786"/>
+			<PaintedLine groupIndex="20" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
+				<Vertex lat="47.08269510235434" lon="6.79079011986783"/>
+				<Vertex lat="47.08340672565262" lon="6.79224102136127"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="3" type="HOLD_SHORT_BACKWARD" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
-				<Vertex lat="47.08168323611716" lon="6.78912316997970"/>
-				<Vertex lat="47.08180234197929" lon="6.78936758609223"/>
+			<PaintedLine displayName="PaintedLine (copy)" groupIndex="36" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08329667339260" lon="6.79242072454287"/>
+				<Vertex lat="47.08327499813554" lon="6.79237650657764"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="6" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08173324724450" lon="6.78924954970900"/>
-				<Vertex lat="47.08173862054691" lon="6.78924410372731"/>
-				<Vertex lat="47.08183662362075" lon="6.78914477485450"/>
-				<Vertex lat="47.08193673255187" lon="6.78904331165337"/>
-				<Vertex lat="47.08193999999698" lon="6.78904000000000"/>
+			<PaintedLine groupIndex="14" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08331555555255" lon="6.79252944444444"/>
+				<Vertex lat="47.08332416666366" lon="6.79253388888889"/>
+				<Vertex lat="47.08333260401400" lon="6.79253449196188"/>
+				<Vertex lat="47.08334083333033" lon="6.79253111111111"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="7" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08193999999698" lon="6.78904000000000"/>
-				<Vertex lat="47.08195286137581" lon="6.78901892969458"/>
-				<Vertex lat="47.08195595339151" lon="6.78899811793924"/>
-				<Vertex lat="47.08195019696108" lon="6.78898087235521"/>
-				<Vertex lat="47.08180469769172" lon="6.78868376814477"/>
+			<PaintedLine groupIndex="7" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08333453229865" lon="6.79256806508332"/>
+				<Vertex lat="47.08333388888589" lon="6.79255361111111"/>
+				<Vertex lat="47.08333583333033" lon="6.79253916666667"/>
+				<Vertex lat="47.08334083333033" lon="6.79253111111111"/>
+				<Vertex lat="47.08334419069804" lon="6.79252749946935"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="9" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08193999999698" lon="6.78904000000000"/>
-				<Vertex lat="47.08195756990266" lon="6.78902918015356"/>
-				<Vertex lat="47.08197338687721" lon="6.78903163983189"/>
-				<Vertex lat="47.08198326165686" lon="6.78904602849463"/>
-				<Vertex lat="47.08212387982300" lon="6.78933519154191"/>
+			<PaintedLine parentGroupID="4" groupIndex="6" type="HOLD_SHORT_BACKWARD" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08329336281889" lon="6.79240648712082"/>
+				<Vertex lat="47.08341181840754" lon="6.79264856754774"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="11" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08245124582314" lon="6.79077158266357"/>
-				<Vertex lat="47.08244577028542" lon="6.79076042929400"/>
-				<Vertex lat="47.08208880511810" lon="6.79003332037814"/>
-				<Vertex lat="47.08173013485451" lon="6.78930273807717"/>
-				<Vertex lat="47.08172636441306" lon="6.78929505809272"/>
+			<PaintedLine groupIndex="37" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08340267172481" lon="6.79263822575345"/>
+				<Vertex lat="47.08342460176437" lon="6.79268328965304"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="12" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08242663944641" lon="6.79063229077768"/>
-				<Vertex lat="47.08241982395981" lon="6.79062473457659"/>
-				<Vertex lat="47.08241310947669" lon="6.79061484838709"/>
-				<Vertex lat="47.08240431488228" lon="6.79059958678802"/>
-				<Vertex lat="47.08239802561958" lon="6.79058680418607"/>
-				<Vertex lat="47.08183906263194" lon="6.78945076412955"/>
-				<Vertex lat="47.08182034105715" lon="6.78941271508402"/>
-				<Vertex lat="47.08181222318859" lon="6.78939289577966"/>
-				<Vertex lat="47.08180732845315" lon="6.78937064270944"/>
+			<PaintedLine groupIndex="6" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08355443060010" lon="6.79232341742620"/>
+				<Vertex lat="47.08356333333034" lon="6.79230583333333"/>
+				<Vertex lat="47.08356472221922" lon="6.79228416666667"/>
+				<Vertex lat="47.08355722221921" lon="6.79225722222222"/>
+				<Vertex lat="47.08354708503686" lon="6.79223661471645"/>
+				<Vertex lat="47.08342194444145" lon="6.79198222222222"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="14" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
-				<Vertex lat="47.08180720965282" lon="6.78937084992265"/>
-				<Vertex lat="47.08180461520486" lon="6.78933767460324"/>
-				<Vertex lat="47.08180837821021" lon="6.78930046189937"/>
-				<Vertex lat="47.08183686685425" lon="6.78924349026665"/>
-				<Vertex lat="47.08188212894949" lon="6.78921975535528"/>
-				<Vertex lat="47.08192946767294" lon="6.78923956276395"/>
-				<Vertex lat="47.08194270355050" lon="6.78925591422530"/>
-				<Vertex lat="47.08195235746232" lon="6.78927375493513"/>
-				<Vertex lat="47.08253507136542" lon="6.79046119112788"/>
-				<Vertex lat="47.08255069560114" lon="6.79050271616719"/>
-				<Vertex lat="47.08254947660773" lon="6.79057317169075"/>
-				<Vertex lat="47.08251987952561" lon="6.79063068570197"/>
-				<Vertex lat="47.08247325098841" lon="6.79065145894095"/>
-				<Vertex lat="47.08244842114902" lon="6.79064608033528"/>
-				<Vertex lat="47.08242720082935" lon="6.79063251341105"/>
+			<PaintedLine groupIndex="13" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08335472221921" lon="6.79251694444445"/>
+				<Vertex lat="47.08354763888980" lon="6.79232993889611"/>
+				<Vertex lat="47.08355416666365" lon="6.79232361111111"/>
+				<Vertex lat="47.08356694444144" lon="6.79232000000000"/>
+				<Vertex lat="47.08358416666366" lon="6.79232361111111"/>
+				<Vertex lat="47.08359833333031" lon="6.79234000000000"/>
+				<Vertex lat="47.08360613765140" lon="6.79235607495997"/>
+				<Vertex lat="47.08373777777476" lon="6.79262722222222"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="39" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08246900895809" lon="6.79080753190032"/>
-				<Vertex lat="47.08246012739062" lon="6.79078955728195"/>
-				<Vertex lat="47.08245124582314" lon="6.79077158266357"/>
+			<PaintedLine parentGroupID="4" groupIndex="8" type="ENHANCED_CENTER" trueAngle="NONE" surface="{8BF5FA5B-5588-4E0E-A775-21B2ECD69920}">
+				<Vertex lat="47.08388541943777" lon="6.79376235457080"/>
+				<Vertex lat="47.08374861110808" lon="6.79391916666667"/>
+				<Vertex lat="47.08368277776393" lon="6.79399444444445"/>
+				<Vertex lat="47.08367638888587" lon="6.79400611111111"/>
+				<Vertex lat="47.08367333333033" lon="6.79402972222222"/>
+				<Vertex lat="47.08367333333030" lon="6.79409055555556"/>
+				<Vertex lat="47.08367472221921" lon="6.79411222222222"/>
+				<Vertex lat="47.08368194444143" lon="6.79413833333333"/>
+				<Vertex lat="47.08369555555254" lon="6.79417055555556"/>
+				<Vertex lat="47.08384888888589" lon="6.79448222222222"/>
+				<Vertex lat="47.08394694444142" lon="6.79437916666667"/>
+				<Vertex lat="47.08400861110810" lon="6.79450027777778"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="35" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08245124582314" lon="6.79077158266357"/>
-				<Vertex lat="47.08245816549915" lon="6.79077822766618"/>
-				<Vertex lat="47.08246724167950" lon="6.79077786505661"/>
-				<Vertex lat="47.08247472033418" lon="6.79077391989146"/>
+			<PaintedLine groupIndex="23" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08355472221922" lon="6.79254472222222"/>
+				<Vertex lat="47.08354249999698" lon="6.79252750000000"/>
+				<Vertex lat="47.08351861110810" lon="6.79250694444444"/>
+				<Vertex lat="47.08349722221921" lon="6.79249888888889"/>
+				<Vertex lat="47.08347333333032" lon="6.79250333333333"/>
+				<Vertex lat="47.08345138888588" lon="6.79251500000000"/>
+				<Vertex lat="47.08343499999697" lon="6.79253388888889"/>
+				<Vertex lat="47.08342027777476" lon="6.79256083333333"/>
+				<Vertex lat="47.08341277777478" lon="6.79258777777778"/>
+				<Vertex lat="47.08341055555253" lon="6.79261555555555"/>
+				<Vertex lat="47.08341222221919" lon="6.79264250000000"/>
+				<Vertex lat="47.08341833333033" lon="6.79267055555556"/>
+				<Vertex lat="47.08343523605479" lon="6.79270495137832"/>
+				<Vertex lat="47.08393472221920" lon="6.79372138888889"/>
+				<Vertex lat="47.08419222221922" lon="6.79423972222222"/>
+				<Vertex lat="47.08420388888587" lon="6.79425611111111"/>
+				<Vertex lat="47.08421666666366" lon="6.79426666666667"/>
+				<Vertex lat="47.08423611110807" lon="6.79427472222222"/>
+				<Vertex lat="47.08425638888588" lon="6.79427666666667"/>
+				<Vertex lat="47.08427777777476" lon="6.79427111111111"/>
+				<Vertex lat="47.08429555555253" lon="6.79426138888889"/>
+				<Vertex lat="47.08431194444145" lon="6.79423888888889"/>
+				<Vertex lat="47.08432305555254" lon="6.79421388888889"/>
+				<Vertex lat="47.08432749999699" lon="6.79418666666667"/>
+				<Vertex lat="47.08432916666366" lon="6.79415277777778"/>
+				<Vertex lat="47.08432611110809" lon="6.79413027777778"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="33" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08246900895809" lon="6.79080753190032"/>
-				<Vertex lat="47.08246690348449" lon="6.79079481011548"/>
-				<Vertex lat="47.08246987582484" lon="6.79078259793686"/>
-				<Vertex lat="47.08247472033418" lon="6.79077391989146"/>
+			<PaintedLine parentGroupID="3" groupIndex="24" type="DEFAULT" trueAngle="ALL_POINTS" surface="{8BF5FA5B-5588-4E0E-A775-21B2ECD69920}">
+				<Vertex lat="47.08383349095146" lon="6.79380191853951"/>
+				<Vertex lat="47.08409253406790" lon="6.79433209853024"/>
+				<Vertex lat="47.08408692134146" lon="6.79440971632681"/>
+				<Vertex lat="47.08395569987406" lon="6.79455924303603"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="17" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08239814238139" lon="6.79058701700792"/>
-				<Vertex lat="47.08256338675884" lon="6.79092679119172"/>
+			<PaintedLine parentGroupID="4" groupIndex="12" type="EDGE_SERVICE_DASHED" trueAngle="ALL_POINTS" surface="{8BF5FA5B-5588-4E0E-A775-21B2ECD69920}">
+				<Vertex lat="47.08383055555254" lon="6.79380416666667"/>
+				<Vertex lat="47.08408944444141" lon="6.79433416666667"/>
+				<Vertex lat="47.08408388888587" lon="6.79440861111111"/>
+				<Vertex lat="47.08398361110809" lon="6.79452194444444"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="4" type="HOLD_SHORT_BACKWARD" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
-				<Vertex lat="47.08242898346550" lon="6.79064269623605"/>
-				<Vertex lat="47.08254613146453" lon="6.79088355729728"/>
+			<PaintedLine parentGroupID="4" groupIndex="13" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
+				<Vertex lat="47.08126400825928" lon="6.78727051838502"/>
+				<Vertex lat="47.08698333333031" lon="6.79891916666667"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="26" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08247472033418" lon="6.79077391989146"/>
-				<Vertex lat="47.08248220177547" lon="6.79076612357193"/>
-				<Vertex lat="47.08257736016558" lon="6.79066695994573"/>
-				<Vertex lat="47.08267800206622" lon="6.79056208202709"/>
-				<Vertex lat="47.08267999999698" lon="6.79056000000000"/>
+			<PaintedLine parentGroupID="1" groupIndex="3" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
+				<Vertex lat="47.08355527777476" lon="6.79254638888889"/>
+				<Vertex lat="47.08431119026780" lon="6.79408265079754"/>
+				<Vertex lat="47.08431999999700" lon="6.79410055555556"/>
+				<Vertex lat="47.08432361110809" lon="6.79411305555555"/>
+				<Vertex lat="47.08432611110810" lon="6.79412750000000"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="73" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08267999999698" lon="6.79056000000000"/>
-				<Vertex lat="47.08269111252120" lon="6.79054226506576"/>
-				<Vertex lat="47.08269775106247" lon="6.79052238457632"/>
-				<Vertex lat="47.08269346204980" lon="6.79049590933591"/>
-				<Vertex lat="47.08269042117796" lon="6.79048904501938"/>
-				<Vertex lat="47.08255222776495" lon="6.79020752776516"/>
+			<PaintedLine displayName="PaintedLine (copy)" parentGroupID="4" groupIndex="19" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08421497409475" lon="6.79426444479911"/>
+				<Vertex lat="47.08422687694019" lon="6.79428895725628"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="1" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08267999999698" lon="6.79056000000000"/>
-				<Vertex lat="47.08269572728449" lon="6.79055050148041"/>
-				<Vertex lat="47.08271501417596" lon="6.79055104697958"/>
-				<Vertex lat="47.08272992875704" lon="6.79056985934475"/>
-				<Vertex lat="47.08285843982461" lon="6.79083157078295"/>
+			<PaintedLine parentGroupID="4" groupIndex="14" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08425944444143" lon="6.79447166666667"/>
+				<Vertex lat="47.08424666666366" lon="6.79445361111111"/>
+				<Vertex lat="47.08423194444143" lon="6.79445000000000"/>
+				<Vertex lat="47.08421763639937" lon="6.79445254472480"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="97" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08246900895809" lon="6.79080753190032"/>
-				<Vertex lat="47.08247321674543" lon="6.79081610092826"/>
-				<Vertex lat="47.08288978476284" lon="6.79166444159372"/>
-				<Vertex lat="47.08330635284369" lon="6.79251278213103"/>
-				<Vertex lat="47.08331056056760" lon="6.79252135128711"/>
+			<PaintedLine parentGroupID="3" groupIndex="21" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08423434089084" lon="6.79439588527479"/>
+				<Vertex lat="47.08424361110811" lon="6.79441583333333"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="19" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08329124394283" lon="6.79239048913708"/>
-				<Vertex lat="47.08327850199068" lon="6.79237665758355"/>
-				<Vertex lat="47.08326804195578" lon="6.79235900362828"/>
-				<Vertex lat="47.08326099588223" lon="6.79234468332370"/>
-				<Vertex lat="47.08256342600774" lon="6.79092699219018"/>
-				<Vertex lat="47.08255829180022" lon="6.79091550959382"/>
-				<Vertex lat="47.08255348590570" lon="6.79090144543835"/>
-				<Vertex lat="47.08255028173240" lon="6.79088570921534"/>
+			<PaintedLine groupIndex="28" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08421850726562" lon="6.79445231298438"/>
+				<Vertex lat="47.08425119245436" lon="6.79441630396657"/>
+				<Vertex lat="47.08426861110811" lon="6.79439694444445"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="21" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
-				<Vertex lat="47.08255014454170" lon="6.79088540046878"/>
-				<Vertex lat="47.08254662471418" lon="6.79083724615604"/>
-				<Vertex lat="47.08256846182508" lon="6.79077252882296"/>
-				<Vertex lat="47.08260995356671" lon="6.79073753197212"/>
-				<Vertex lat="47.08265832790317" lon="6.79074342398612"/>
-				<Vertex lat="47.08268494495146" lon="6.79077082230994"/>
-				<Vertex lat="47.08269557613245" lon="6.79078855003484"/>
-				<Vertex lat="47.08339825984125" lon="6.79221979964213"/>
-				<Vertex lat="47.08340737801112" lon="6.79224097654428"/>
-				<Vertex lat="47.08341605949018" lon="6.79228446645931"/>
-				<Vertex lat="47.08341186278320" lon="6.79233197288632"/>
-				<Vertex lat="47.08338324358443" lon="6.79239092150005"/>
-				<Vertex lat="47.08333664858137" lon="6.79241000772124"/>
-				<Vertex lat="47.08331256799040" lon="6.79240490095992"/>
-				<Vertex lat="47.08329107016689" lon="6.79239045568895"/>
+			<PaintedLine parentGroupID="4" groupIndex="51" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08423138888589" lon="6.79438805555556"/>
+				<Vertex lat="47.08423999999699" lon="6.79440138888889"/>
+				<Vertex lat="47.08425277777476" lon="6.79440500000000"/>
+				<Vertex lat="47.08426458108664" lon="6.79440102900900"/>
 			</PaintedLine>
-			<PaintedLine displayName="PaintedLine (copy)" groupIndex="5" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08328957285780" lon="6.79240152447710"/>
-				<Vertex lat="47.08326852369769" lon="6.79235887533260"/>
+			<PaintedLine parentGroupID="4" groupIndex="15" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08425165435983" lon="6.79444099805673"/>
+				<Vertex lat="47.08425222221920" lon="6.79442583333333"/>
+				<Vertex lat="47.08425833333048" lon="6.79441416666667"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="22" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08331056056760" lon="6.79252135128711"/>
-				<Vertex lat="47.08332313717551" lon="6.79254670453907"/>
-				<Vertex lat="47.08333671094404" lon="6.79257505175398"/>
+			<PaintedLine parentGroupID="4" groupIndex="16" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08432555555254" lon="6.79413388888889"/>
+				<Vertex lat="47.08421416666362" lon="6.79426305555556"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="95" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08331056056760" lon="6.79252135128711"/>
-				<Vertex lat="47.08331979755442" lon="6.79253371087578"/>
-				<Vertex lat="47.08333283410938" lon="6.79253407565989"/>
-				<Vertex lat="47.08334153402227" lon="6.79252856253760"/>
+			<PaintedLine displayName="PaintedLine (copy)" parentGroupID="4" groupIndex="23" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08428815271166" lon="6.79465146331809"/>
+				<Vertex lat="47.08427236089983" lon="6.79461920479843"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="36" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08333671094404" lon="6.79257505175398"/>
-				<Vertex lat="47.08333198226040" lon="6.79255785619121"/>
-				<Vertex lat="47.08333542889036" lon="6.79253882453631"/>
-				<Vertex lat="47.08334153402227" lon="6.79252856253760"/>
+			<PaintedLine parentGroupID="4" groupIndex="20" type="HOLD_SHORT_BACKWARD" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08422792476484" lon="6.79428305555524"/>
+				<Vertex lat="47.08433881922843" lon="6.79450645856168"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="23" type="HOLD_SHORT_BACKWARD" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
-				<Vertex lat="47.08328637494989" lon="6.79238752809868"/>
-				<Vertex lat="47.08341446030020" lon="6.79264712547726"/>
+			<PaintedLine displayName="PaintedLine (copy)" parentGroupID="4" groupIndex="22" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08427243358327" lon="6.79461913030967"/>
+				<Vertex lat="47.08434656457532" lon="6.79453839296116"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="6" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08340666146635" lon="6.79263866365766"/>
-				<Vertex lat="47.08342859150591" lon="6.79268372755725"/>
+			<PaintedLine groupIndex="29" type="ENHANCED_CENTER" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08390944444141" lon="6.79373777777778"/>
+				<Vertex lat="47.08422540748308" lon="6.79437791770010"/>
+				<Vertex lat="47.08422999999698" lon="6.79438722222222"/>
+				<Vertex lat="47.08423388888586" lon="6.79440138888889"/>
+				<Vertex lat="47.08423388888586" lon="6.79442472222222"/>
+				<Vertex lat="47.08422333333029" lon="6.79444722222222"/>
+				<Vertex lat="47.08421851158202" lon="6.79445259766933"/>
+				<Vertex lat="47.08416527777475" lon="6.79451194444445"/>
+				<Vertex lat="47.08415055555255" lon="6.79454527777778"/>
+				<Vertex lat="47.08414694444143" lon="6.79458916666667"/>
+				<Vertex lat="47.08415805555253" lon="6.79462777777778"/>
+				<Vertex lat="47.08462583333031" lon="6.79558277777778"/>
+				<Vertex lat="47.08463499999698" lon="6.79559361111111"/>
+				<Vertex lat="47.08464666666367" lon="6.79559722222222"/>
+				<Vertex lat="47.08487472221920" lon="6.79562333333333"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="101" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08334153402227" lon="6.79252856253760"/>
-				<Vertex lat="47.08334915159986" lon="6.79252130685710"/>
-				<Vertex lat="47.08344576700963" lon="6.79242928126880"/>
-				<Vertex lat="47.08354683398770" lon="6.79233301560955"/>
-				<Vertex lat="47.08354999999699" lon="6.79233000000000"/>
+			<PaintedLine parentGroupID="4" groupIndex="18" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08433433212265" lon="6.79450481714829"/>
+				<Vertex lat="47.08435441703845" lon="6.79454423143128"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="99" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08390382341118" lon="6.79373505304083"/>
-				<Vertex lat="47.08334014373858" lon="6.79258207552354"/>
-				<Vertex lat="47.08333671094404" lon="6.79257505175398"/>
+			<PaintedLine parentGroupID="4" groupIndex="21" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08436290071695" lon="6.79457183704592"/>
+				<Vertex lat="47.08434646399526" lon="6.79453888117255"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="80" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08354999999699" lon="6.79233000000000"/>
-				<Vertex lat="47.08356312364212" lon="6.79231004346250"/>
-				<Vertex lat="47.08356703921473" lon="6.79228523280045"/>
-				<Vertex lat="47.08356313961813" lon="6.79226799592812"/>
-				<Vertex lat="47.08355963984768" lon="6.79226058570685"/>
-				<Vertex lat="47.08342140871142" lon="6.79197847404348"/>
+			<PaintedLine parentGroupID="4" groupIndex="24" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08436434694097" lon="6.79480870943224"/>
+				<Vertex lat="47.08439073582987" lon="6.79486259832113"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="82" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08354999999699" lon="6.79233000000000"/>
-				<Vertex lat="47.08356778307029" lon="6.79231954487148"/>
-				<Vertex lat="47.08358729561827" lon="6.79232463279829"/>
-				<Vertex lat="47.08359612993603" lon="6.79233446818844"/>
-				<Vertex lat="47.08359934414516" lon="6.79234071112636"/>
-				<Vertex lat="47.08374044719567" lon="6.79262933286328"/>
+			<PaintedLine parentGroupID="3" groupIndex="19" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08445277777476" lon="6.79438972222222"/>
+				<Vertex lat="47.08434388888588" lon="6.79450666666667"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="27" type="SLIM_RED" trueAngle="NONE">
-				<Vertex lat="47.08387518032676" lon="6.79377209125792"/>
-				<Vertex lat="47.08367378471626" lon="6.79398828100525"/>
-				<Vertex lat="47.08366887331621" lon="6.79399891095494"/>
-				<Vertex lat="47.08367723902153" lon="6.79413398105492"/>
-				<Vertex lat="47.08368212677460" lon="6.79415411114063"/>
-				<Vertex lat="47.08384949614530" lon="6.79448755377028"/>
-				<Vertex lat="47.08394999999850" lon="6.79438000000000"/>
-				<Vertex lat="47.08400999999849" lon="6.79450000000000"/>
+			<PaintedLine parentGroupID="1" groupIndex="5" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08446555555253" lon="6.79417777777778"/>
+				<Vertex lat="47.08447111110809" lon="6.79415527777778"/>
+				<Vertex lat="47.08447055555254" lon="6.79413111111111"/>
+				<Vertex lat="47.08446194444144" lon="6.79410333333333"/>
+				<Vertex lat="47.08445389497672" lon="6.79408685633941"/>
+				<Vertex lat="47.08430222221923" lon="6.79377638888889"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="28" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08341318980623" lon="6.79261917278967"/>
-				<Vertex lat="47.08342005926391" lon="6.79266353542630"/>
-				<Vertex lat="47.08342850519866" lon="6.79268350367404"/>
-				<Vertex lat="47.08343851266328" lon="6.79270388868950"/>
-				<Vertex lat="47.08418717195359" lon="6.79422893593097"/>
-				<Vertex lat="47.08419652912590" lon="6.79424702600429"/>
-				<Vertex lat="47.08420936022311" lon="6.79426123212354"/>
-				<Vertex lat="47.08422340951081" lon="6.79427103069814"/>
+			<PaintedLine parentGroupID="4" groupIndex="25" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08444055555250" lon="6.79472861111111"/>
+				<Vertex lat="47.08446388888587" lon="6.79477527777778"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="30" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
-				<Vertex lat="47.08341260372537" lon="6.79261786807218"/>
-				<Vertex lat="47.08341714113516" lon="6.79257131466241"/>
-				<Vertex lat="47.08344576568245" lon="6.79251394923171"/>
-				<Vertex lat="47.08349295470391" lon="6.79249120728557"/>
-				<Vertex lat="47.08353557169504" lon="6.79250971983633"/>
-				<Vertex lat="47.08355915853797" lon="6.79254700321207"/>
-				<Vertex lat="47.08431743198153" lon="6.79409227262575"/>
-				<Vertex lat="47.08432604856179" lon="6.79411170093284"/>
-				<Vertex lat="47.08433360392436" lon="6.79413381420590"/>
-				<Vertex lat="47.08433126930134" lon="6.79420301913200"/>
-				<Vertex lat="47.08430051740000" lon="6.79426097594943"/>
-				<Vertex lat="47.08425439496374" lon="6.79428098066813"/>
-				<Vertex lat="47.08422428800166" lon="6.79427208648831"/>
+			<PaintedLine parentGroupID="4" groupIndex="27" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08446916666365" lon="6.79502138888889"/>
+				<Vertex lat="47.08449464612297" lon="6.79507353520053"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="32" type="SLIM_RED" trueAngle="ALL_POINTS">
-				<Vertex lat="47.08383266344499" lon="6.79380596122083"/>
-				<Vertex lat="47.08408999999850" lon="6.79433000000000"/>
-				<Vertex lat="47.08408239844419" lon="6.79441813407943"/>
-				<Vertex lat="47.08400962780946" lon="6.79449922304759"/>
+			<PaintedLine groupIndex="27" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08428583333031" lon="6.79437805555555"/>
+				<Vertex lat="47.08445895118746" lon="6.79418547827477"/>
+				<Vertex lat="47.08446499999697" lon="6.79417861111111"/>
+				<Vertex lat="47.08447833333030" lon="6.79417694444444"/>
+				<Vertex lat="47.08449611110808" lon="6.79418583333334"/>
+				<Vertex lat="47.08451333333031" lon="6.79420916666667"/>
+				<Vertex lat="47.08452198942070" lon="6.79422673799882"/>
+				<Vertex lat="47.08468027777476" lon="6.79454805555555"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="2" type="ENHANCED_CENTER" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
-				<Vertex lat="47.08421721873734" lon="6.79437501270463"/>
-				<Vertex lat="47.08421376927753" lon="6.79436797790477"/>
-				<Vertex lat="47.08390393490548" lon="6.79373562655837"/>
+			<PaintedLine parentGroupID="4" groupIndex="33" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08445583333030" lon="6.79438888888889"/>
+				<Vertex lat="47.08444416666364" lon="6.79438250000000"/>
+				<Vertex lat="47.08443305555253" lon="6.79438000000000"/>
+				<Vertex lat="47.08441666666365" lon="6.79437722222222"/>
+				<Vertex lat="47.08440027777477" lon="6.79437722222222"/>
+				<Vertex lat="47.08437749999698" lon="6.79438805555556"/>
+				<Vertex lat="47.08435916666363" lon="6.79441055555556"/>
+				<Vertex lat="47.08434638888587" lon="6.79444000000000"/>
+				<Vertex lat="47.08434083333031" lon="6.79448138888889"/>
+				<Vertex lat="47.08434499999699" lon="6.79451833333333"/>
+				<Vertex lat="47.08435173831824" lon="6.79453858151916"/>
+				<Vertex lat="47.08435499999700" lon="6.79454527777778"/>
+				<Vertex lat="47.08476852651465" lon="6.79537922955150"/>
+				<Vertex lat="47.08477194444144" lon="6.79538611111111"/>
+				<Vertex lat="47.08477592697064" lon="6.79539218609188"/>
+				<Vertex lat="47.08488083333031" lon="6.79553972222222"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="34" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
-				<Vertex lat="47.08126678701956" lon="6.78726917501186"/>
-				<Vertex lat="47.08698596500675" lon="6.79892114658941"/>
+			<PaintedLine groupIndex="32" type="DEFAULT" trueAngle="NONE" surface="{8BF5FA5B-5588-4E0E-A775-21B2ECD69920}">
+				<Vertex lat="47.08434671290183" lon="6.79453486623829"/>
+				<Vertex lat="47.08426999999698" lon="6.79461888888889"/>
+				<Vertex lat="47.08468333333033" lon="6.79546250000000"/>
+				<Vertex lat="47.08476277777476" lon="6.79537527777778"/>
 			</PaintedLine>
-			<PaintedLine displayName="PaintedLine (copy)" parentGroupID="4" groupIndex="44" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08420891590865" lon="6.79426018695928"/>
-				<Vertex lat="47.08422081875409" lon="6.79428469941645"/>
+			<PaintedLine parentGroupID="4" groupIndex="31" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08454364837976" lon="6.79493694085305"/>
+				<Vertex lat="47.08456946186241" lon="6.79498887689542"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="20" type="ENHANCED_CENTER" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
-				<Vertex lat="47.08421664404274" lon="6.79437330810410"/>
-				<Vertex lat="47.08422518489850" lon="6.79440220140182"/>
-				<Vertex lat="47.08422155410202" lon="6.79442782159903"/>
-				<Vertex lat="47.08421005560944" lon="6.79445166070196"/>
+			<PaintedLine parentGroupID="4" groupIndex="29" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08424791954328" lon="6.79442558594605"/>
+				<Vertex lat="47.08425138888587" lon="6.79444194444445"/>
+				<Vertex lat="47.08425527777474" lon="6.79446083333472"/>
+				<Vertex lat="47.08426249999698" lon="6.79447972222222"/>
+				<Vertex lat="47.08479222221920" lon="6.79555944444444"/>
+				<Vertex lat="47.08479660543195" lon="6.79556817681083"/>
+				<Vertex lat="47.08480555555253" lon="6.79558361111111"/>
+				<Vertex lat="47.08482333333033" lon="6.79560611111111"/>
+				<Vertex lat="47.08484305555253" lon="6.79561972222222"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="37" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08426108952382" lon="6.79448343079619"/>
-				<Vertex lat="47.08424577246750" lon="6.79446235072247"/>
-				<Vertex lat="47.08422043700631" lon="6.79445075718506"/>
-				<Vertex lat="47.08419679048493" lon="6.79446545607204"/>
+			<PaintedLine parentGroupID="4" groupIndex="32" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08457571800937" lon="6.79523915867492"/>
+				<Vertex lat="47.08460128305074" lon="6.79529115867981"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="87" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08421005560944" lon="6.79445166070196"/>
-				<Vertex lat="47.08424120895282" lon="6.79441894238950"/>
-				<Vertex lat="47.08427236229620" lon="6.79438622407704"/>
+			<PaintedLine parentGroupID="4" groupIndex="10" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
+				<Vertex lat="47.08445638888588" lon="6.79439083333333"/>
+				<Vertex lat="47.08446444444142" lon="6.79439888888889"/>
+				<Vertex lat="47.08446749999699" lon="6.79440416666667"/>
+				<Vertex lat="47.08497494510377" lon="6.79543801604728"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="88" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08421664404274" lon="6.79437330810410"/>
-				<Vertex lat="47.08423311680507" lon="6.79439408120718"/>
-				<Vertex lat="47.08425027094358" lon="6.79439797982511"/>
-				<Vertex lat="47.08427236229620" lon="6.79438622407704"/>
+			<PaintedLine parentGroupID="4" groupIndex="34" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08465261289584" lon="6.79515594132009"/>
+				<Vertex lat="47.08467650178475" lon="6.79520455243120"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine (copy)" parentGroupID="4" groupIndex="36" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08466694444143" lon="6.79542638888889"/>
+				<Vertex lat="47.08468323986541" lon="6.79545896798362"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine (copy)" parentGroupID="4" groupIndex="37" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08476108090046" lon="6.79537433736292"/>
+				<Vertex lat="47.08468312320571" lon="6.79545904393429"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="4" groupIndex="35" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08474340167094" lon="6.79533873897557"/>
+				<Vertex lat="47.08476129303603" lon="6.79537493943140"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="4" groupIndex="3" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08477200976823" lon="6.79538605371136"/>
+				<Vertex lat="47.08479985570666" lon="6.79544319833426"/>
 			</PaintedLine>
 			<PaintedLine parentGroupID="4" groupIndex="38" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08425415181067" lon="6.79447593490157"/>
-				<Vertex lat="47.08425471614824" lon="6.79445050651965"/>
-				<Vertex lat="47.08425727735469" lon="6.79441492142111"/>
-				<Vertex lat="47.08426555329867" lon="6.79439037731951"/>
+				<Vertex lat="47.08479239964277" lon="6.79556020471139"/>
+				<Vertex lat="47.08479416666363" lon="6.79557555555556"/>
+				<Vertex lat="47.08479277777473" lon="6.79559166666667"/>
+				<Vertex lat="47.08478555555254" lon="6.79560250000000"/>
+				<Vertex lat="47.08477217363207" lon="6.79561055921239"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="40" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
-				<Vertex lat="47.08433022824871" lon="6.79412501371260"/>
-				<Vertex lat="47.08420738006662" lon="6.79425429237249"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="45" type="HOLD_SHORT_BACKWARD" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
-				<Vertex lat="47.08421740060856" lon="6.79427049640080"/>
-				<Vertex lat="47.08433598303314" lon="6.79451238638497"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="47" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08435552094164" lon="6.79456841702432"/>
-				<Vertex lat="47.08433776156085" lon="6.79453224060491"/>
-				<Vertex lat="47.08426070512792" lon="6.79461480781637"/>
-				<Vertex lat="47.08427856943195" lon="6.79464772025517"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="43" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08432660692193" lon="6.79450114850006"/>
-				<Vertex lat="47.08435101517037" lon="6.79455111836551"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="49" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08434635582544" lon="6.79478681747562"/>
-				<Vertex lat="47.08437657320988" lon="6.79484835963314"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="91" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08427236229620" lon="6.79438622407704"/>
-				<Vertex lat="47.08428113748828" lon="6.79437657967996"/>
-				<Vertex lat="47.08436618114659" lon="6.79428311203852"/>
-				<Vertex lat="47.08445560892702" lon="6.79418482603435"/>
-				<Vertex lat="47.08445999999699" lon="6.79418000000000"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="51" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
-				<Vertex lat="47.08445436216092" lon="6.79438848544481"/>
-				<Vertex lat="47.08434159302774" lon="6.79450703376402"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="53" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08442275254683" lon="6.79470693287232"/>
-				<Vertex lat="47.08445296993127" lon="6.79476847502983"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="84" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08445999999699" lon="6.79418000000000"/>
-				<Vertex lat="47.08447002383024" lon="6.79416217952951"/>
-				<Vertex lat="47.08447249381427" lon="6.79412980552102"/>
-				<Vertex lat="47.08446492093493" lon="6.79410478758865"/>
-				<Vertex lat="47.08446169773812" lon="6.79409808683107"/>
-				<Vertex lat="47.08430349312515" lon="6.79377640678815"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="55" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08445151331935" lon="6.79499938249974"/>
-				<Vertex lat="47.08448173070379" lon="6.79506092465726"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="56" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
-				<Vertex lat="47.08433666657896" lon="6.79450149686783"/>
-				<Vertex lat="47.08433641987364" lon="6.79446592352358"/>
-				<Vertex lat="47.08434660100064" lon="6.79442165403158"/>
-				<Vertex lat="47.08438127912753" lon="6.79437655925884"/>
-				<Vertex lat="47.08443410192807" lon="6.79436876541801"/>
-				<Vertex lat="47.08446716748074" lon="6.79440162102904"/>
-				<Vertex lat="47.08447765231274" lon="6.79441884312187"/>
-				<Vertex lat="47.08497281913575" lon="6.79542897776142"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="58" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08421702959080" lon="6.79437409431495"/>
-				<Vertex lat="47.08422722695905" lon="6.79439355180046"/>
-				<Vertex lat="47.08423964595561" lon="6.79442821558782"/>
-				<Vertex lat="47.08425375968032" lon="6.79447664055524"/>
-				<Vertex lat="47.08479313594336" lon="6.79557706108395"/>
-				<Vertex lat="47.08483930508008" lon="6.79561787343635"/>
-				<Vertex lat="47.08487209935669" lon="6.79562692857525"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="42" type="ENHANCED_CENTER" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
-				<Vertex lat="47.08421005560944" lon="6.79445166070196"/>
-				<Vertex lat="47.08416520338235" lon="6.79449857370215"/>
-				<Vertex lat="47.08414126642739" lon="6.79453059703231"/>
-				<Vertex lat="47.08413642357529" lon="6.79457974372713"/>
-				<Vertex lat="47.08414999999698" lon="6.79462000000000"/>
-				<Vertex lat="47.08462000004892" lon="6.79557999836387"/>
-				<Vertex lat="47.08464999999700" lon="6.79560000000000"/>
-				<Vertex lat="47.08474304654118" lon="6.79561111268043"/>
-				<Vertex lat="47.08483609308536" lon="6.79562222536087"/>
-				<Vertex lat="47.08489498835384" lon="6.79562939035290"/>
-				<Vertex lat="47.08489999999092" lon="6.79563000005164"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="93" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08445999999699" lon="6.79418000000000"/>
-				<Vertex lat="47.08447547181188" lon="6.79417241546387"/>
-				<Vertex lat="47.08449734535120" lon="6.79417785343090"/>
-				<Vertex lat="47.08450723836170" lon="6.79419161352911"/>
-				<Vertex lat="47.08451122609797" lon="6.79419887703458"/>
-				<Vertex lat="47.08468219421773" lon="6.79454859232503"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="60" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08452920232246" lon="6.79492439783659"/>
-				<Vertex lat="47.08455941970691" lon="6.79498593999411"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="62" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08455020269725" lon="6.79520063983933"/>
-				<Vertex lat="47.08458042008169" lon="6.79526218199685"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="65" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08433733359908" lon="6.79450177719552"/>
-				<Vertex lat="47.08434195127155" lon="6.79453024557765"/>
-				<Vertex lat="47.08435104594483" lon="6.79455109598883"/>
-				<Vertex lat="47.08435507551851" lon="6.79455929757425"/>
-				<Vertex lat="47.08475400051189" lon="6.79537126058984"/>
-				<Vertex lat="47.08475979074638" lon="6.79538172752123"/>
-				<Vertex lat="47.08476643941435" lon="6.79539142862968"/>
-				<Vertex lat="47.08488137005698" lon="6.79553026272121"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="67" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08462681140927" lon="6.79512212791500"/>
-				<Vertex lat="47.08465702879371" lon="6.79518367007252"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="68" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08473072487446" lon="6.79533372818220"/>
-				<Vertex lat="47.08474702324584" lon="6.79536784996585"/>
-				<Vertex lat="47.08467167867430" lon="6.79544725418169"/>
-				<Vertex lat="47.08465571895072" lon="6.79541498702669"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="13" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08475426806366" lon="6.79537139909141"/>
-				<Vertex lat="47.08478314336805" lon="6.79543059407741"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="70" type="ENHANCED_CENTER" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08476292547930" lon="6.79551348426330"/>
-				<Vertex lat="47.08477954308765" lon="6.79554681548691"/>
-				<Vertex lat="47.08478625617887" lon="6.79558592493004"/>
-				<Vertex lat="47.08477111443065" lon="6.79560565100758"/>
-				<Vertex lat="47.08475132606470" lon="6.79561251900732"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="72" type="EDGE_SERVICE_SOLID" trueAngle="NONE">
+			<PaintedLine parentGroupID="4" groupIndex="40" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
 				<Vertex lat="47.08478269655925" lon="6.79577296468104"/>
 				<Vertex lat="47.08483554617987" lon="6.79588230514479"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="75" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08496958507749" lon="6.79542978499762"/>
-				<Vertex lat="47.08488027104101" lon="6.79552869982209"/>
+			<PaintedLine groupIndex="31" type="DEFAULT" trueAngle="ALL_POINTS" surface="{8BF5FA5B-5588-4E0E-A775-21B2ECD69920}">
+				<Vertex lat="47.08448388888588" lon="6.79553416666667"/>
+				<Vertex lat="47.08467611110810" lon="6.79591777777778"/>
+				<Vertex lat="47.08473222221918" lon="6.79585666666667"/>
+				<Vertex lat="47.08501916666364" lon="6.79644250000000"/>
+				<Vertex lat="47.08504861110807" lon="6.79644972222222"/>
+				<Vertex lat="47.08528638888586" lon="6.79693388888889"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="46" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08495999999698" lon="6.79559000000000"/>
-				<Vertex lat="47.08492586472094" lon="6.79562839621155"/>
-				<Vertex lat="47.08489999999092" lon="6.79563000005164"/>
+			<PaintedLine parentGroupID="4" groupIndex="42" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08497194444142" lon="6.79543722222222"/>
+				<Vertex lat="47.08488078096401" lon="6.79553918497380"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="48" type="ENHANCED_CENTER" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
-				<Vertex lat="47.08489999999092" lon="6.79563000005164"/>
-				<Vertex lat="47.08494231313212" lon="6.79563494620507"/>
-				<Vertex lat="47.08495999999698" lon="6.79566000000001"/>
+			<PaintedLine parentGroupID="3" groupIndex="18" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08491099407893" lon="6.79562774901277"/>
+				<Vertex lat="47.08492288943646" lon="6.79562399160820"/>
+				<Vertex lat="47.08493540115185" lon="6.79561825151811"/>
+				<Vertex lat="47.08496506947169" lon="6.79558360079253"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="71" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+			<PaintedLine parentGroupID="4" groupIndex="46" type="DEFAULT" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08462343387072" lon="6.79557642576342"/>
+				<Vertex lat="47.08464416666364" lon="6.79561861111111"/>
+				<Vertex lat="47.08465222221920" lon="6.79563138888889"/>
+				<Vertex lat="47.08466694444143" lon="6.79564305555556"/>
+				<Vertex lat="47.08476888888587" lon="6.79570777777778"/>
+				<Vertex lat="47.08478111110809" lon="6.79571666666667"/>
+				<Vertex lat="47.08479638888586" lon="6.79573722222222"/>
+				<Vertex lat="47.08531583333032" lon="6.79679722222222"/>
+				<Vertex lat="47.08532305555255" lon="6.79680527777778"/>
+				<Vertex lat="47.08533305555254" lon="6.79681000000000"/>
+				<Vertex lat="47.08548416666365" lon="6.79686833333334"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="4" groupIndex="39" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
 				<Vertex lat="47.08495999999698" lon="6.79566000000001"/>
 				<Vertex lat="47.08495044029375" lon="6.79563474894356"/>
 				<Vertex lat="47.08495141524490" lon="6.79561162422289"/>
 				<Vertex lat="47.08495999999698" lon="6.79559000000000"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="76" type="DEFAULT" trueAngle="ALL_POINTS" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08506774830865" lon="6.79614234737792"/>
-				<Vertex lat="47.08504501463659" lon="6.79609526526733"/>
-				<Vertex lat="47.08495025042906" lon="6.79619719640749"/>
-				<Vertex lat="47.08497320984461" lon="6.79624176934915"/>
+			<PaintedLine parentGroupID="4" groupIndex="43" type="DEFAULT" trueAngle="ALL_POINTS" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08506249999699" lon="6.79613527777778"/>
+				<Vertex lat="47.08504305555253" lon="6.79609583333333"/>
+				<Vertex lat="47.08495020693808" lon="6.79619483247163"/>
+				<Vertex lat="47.08497033695936" lon="6.79623321229766"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="74" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+			<PaintedLine parentGroupID="4" groupIndex="41" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
 				<Vertex lat="47.08495999999698" lon="6.79559000000000"/>
 				<Vertex lat="47.08496933030759" lon="6.79557911464950"/>
 				<Vertex lat="47.08501999999697" lon="6.79552000000000"/>
 				<Vertex lat="47.08507687048088" lon="6.79545365110550"/>
 				<Vertex lat="47.08507999999697" lon="6.79545000000000"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="79" type="DEFAULT" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08460602136371" lon="6.79554893592428"/>
-				<Vertex lat="47.08465068426910" lon="6.79563938082207"/>
-				<Vertex lat="47.08466421055854" lon="6.79565284855259"/>
-				<Vertex lat="47.08477942428804" lon="6.79571483542067"/>
-				<Vertex lat="47.08479843211036" lon="6.79573745065986"/>
-				<Vertex lat="47.08530662984646" lon="6.79677430810184"/>
-				<Vertex lat="47.08534752737115" lon="6.79681017400064"/>
-				<Vertex lat="47.08556467353792" lon="6.79690090085165"/>
-				<Vertex lat="47.08557488750983" lon="6.79691553285903"/>
+			<PaintedLine groupIndex="30" type="DEFAULT" trueAngle="ALL_POINTS" surface="{8BF5FA5B-5588-4E0E-A775-21B2ECD69920}">
+				<Vertex lat="47.08458194513738" lon="6.79572978987768"/>
+				<Vertex lat="47.08490722221919" lon="6.79576527777778"/>
+				<Vertex lat="47.08537833333031" lon="6.79672722222222"/>
+				<Vertex lat="47.08524671797916" lon="6.79685311660185"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="81" type="DEFAULT" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08508410832033" lon="6.79638023314104"/>
-				<Vertex lat="47.08505513867581" lon="6.79641058775104"/>
-				<Vertex lat="47.08503249516185" lon="6.79636524054030"/>
+			<PaintedLine parentGroupID="4" groupIndex="47" type="DEFAULT" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08508760513696" lon="6.79637121081812"/>
+				<Vertex lat="47.08505396305841" lon="6.79640506056112"/>
+				<Vertex lat="47.08503376271642" lon="6.79636375203033"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="78" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+			<PaintedLine parentGroupID="4" groupIndex="45" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
 				<Vertex lat="47.08507999999697" lon="6.79545000000000"/>
 				<Vertex lat="47.08509012599649" lon="6.79543133952490"/>
 				<Vertex lat="47.08509526732161" lon="6.79540329604693"/>
@@ -1089,17 +1159,17 @@
 				<Vertex lat="47.08508582300127" lon="6.79536914644198"/>
 				<Vertex lat="47.08496511301223" lon="6.79512398914225"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="83" type="DEFAULT" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08512728039630" lon="6.79646668888855"/>
-				<Vertex lat="47.08509912680123" lon="6.79649621144315"/>
-				<Vertex lat="47.08512052464645" lon="6.79654027698865"/>
+			<PaintedLine parentGroupID="4" groupIndex="48" type="DEFAULT" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08512499999698" lon="6.79646861111111"/>
+				<Vertex lat="47.08509837138813" lon="6.79649642460410"/>
+				<Vertex lat="47.08511969765451" lon="6.79653997147310"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="85" type="DEFAULT" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08512828554442" lon="6.79626441919522"/>
-				<Vertex lat="47.08515065025731" lon="6.79630970483012"/>
-				<Vertex lat="47.08512091816671" lon="6.79634117259333"/>
+			<PaintedLine parentGroupID="4" groupIndex="49" type="DEFAULT" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08512749999697" lon="6.79626833333333"/>
+				<Vertex lat="47.08514749999699" lon="6.79630944444444"/>
+				<Vertex lat="47.08511804719303" lon="6.79633981528263"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="77" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+			<PaintedLine parentGroupID="4" groupIndex="44" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
 				<Vertex lat="47.08507999999697" lon="6.79545000000000"/>
 				<Vertex lat="47.08509518477769" lon="6.79544015850548"/>
 				<Vertex lat="47.08511437528858" lon="6.79544264490740"/>
@@ -1107,7 +1177,7 @@
 				<Vertex lat="47.08513292611443" lon="6.79546616814746"/>
 				<Vertex lat="47.08525469013175" lon="6.79571438518720"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="86" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
+			<PaintedLine parentGroupID="4" groupIndex="50" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
 				<Vertex lat="47.08573216321179" lon="6.79697632130980"/>
 				<Vertex lat="47.08508112815037" lon="6.79565046147955"/>
 				<Vertex lat="47.08507639091792" lon="6.79564209923871"/>
@@ -1120,119 +1190,152 @@
 				<Vertex lat="47.08502040134328" lon="6.79571446318815"/>
 				<Vertex lat="47.08567110449053" lon="6.79704029723538"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="89" type="DEFAULT" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08521593613395" lon="6.79644368038856"/>
-				<Vertex lat="47.08519317004551" lon="6.79639698007761"/>
-				<Vertex lat="47.08516451604886" lon="6.79642736752117"/>
+			<PaintedLine parentGroupID="4" groupIndex="52" type="DEFAULT" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08521249999698" lon="6.79644250000000"/>
+				<Vertex lat="47.08519180531270" lon="6.79639995192657"/>
+				<Vertex lat="47.08516416666365" lon="6.79642888888889"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="90" type="HOLD_SHORT_BACKWARD" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
-				<Vertex lat="47.08478416909887" lon="6.79542511480437"/>
-				<Vertex lat="47.08572066769192" lon="6.79732020677858"/>
+			<PaintedLine parentGroupID="4" groupIndex="53" type="HOLD_SHORT_BACKWARD" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08480008263862" lon="6.79543571222723"/>
+				<Vertex lat="47.08572388888587" lon="6.79732277777778"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="92" type="DEFAULT" trueAngle="ALL_POINTS" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08533729105378" lon="6.79668883553523"/>
-				<Vertex lat="47.08536072756278" lon="6.79673760563599"/>
-				<Vertex lat="47.08526679993979" lon="6.79683765996171"/>
-				<Vertex lat="47.08524354974386" lon="6.79678806444898"/>
+			<PaintedLine parentGroupID="4" groupIndex="54" type="DEFAULT" trueAngle="ALL_POINTS" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08533996322429" lon="6.79670081882916"/>
+				<Vertex lat="47.08535981869602" lon="6.79674217917766"/>
+				<Vertex lat="47.08526246832611" lon="6.79683521174792"/>
+				<Vertex lat="47.08524361110810" lon="6.79679361111111"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="50" type="ENHANCED_CENTER" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
-				<Vertex lat="47.08569000003422" lon="6.79715000007183"/>
-				<Vertex lat="47.08568544176204" lon="6.79714070908366"/>
-				<Vertex lat="47.08557840158875" lon="6.79692253316337"/>
-				<Vertex lat="47.08496618407424" lon="6.79567262517400"/>
-				<Vertex lat="47.08495999999698" lon="6.79566000000001"/>
+			<PaintedLine displayName="PaintedLine (copy) (copy) (copy)" parentGroupID="3" groupIndex="15" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08551777777477" lon="6.79724277777778"/>
+				<Vertex lat="47.08551694444139" lon="6.79726250000000"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="94" type="EDGE_SERVICE_DASHED" trueAngle="ALL_POINTS" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08557525096529" lon="6.79738685891990"/>
-				<Vertex lat="47.08548871101997" lon="6.79746581912224"/>
-				<Vertex lat="47.08545206043600" lon="6.79745493637555"/>
-				<Vertex lat="47.08527194603961" lon="6.79705481322873"/>
-				<Vertex lat="47.08531584711597" lon="6.79701577817229"/>
-				<Vertex lat="47.08527108115739" lon="6.79692716514314"/>
+			<PaintedLine displayName="PaintedLine (copy) (copy) (copy) (copy)" parentGroupID="3" groupIndex="14" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08552305554347" lon="6.79730660648873"/>
+				<Vertex lat="47.08552249998792" lon="6.79732827315540"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="96" type="EDGE_LINE_DASHED" trueAngle="ALL_POINTS" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
-				<Vertex lat="47.08557487300565" lon="6.79738617915588"/>
-				<Vertex lat="47.08536457786429" lon="6.79696677448737"/>
-				<Vertex lat="47.08531624619661" lon="6.79701529945572"/>
+			<PaintedLine displayName="PaintedLine (copy) (copy)" parentGroupID="3" groupIndex="16" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08538249999698" lon="6.79704250000000"/>
+				<Vertex lat="47.08539722221920" lon="6.79704805555556"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="52" type="ENHANCED_CENTER" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
-				<Vertex lat="47.08568804622878" lon="6.79719169230510"/>
-				<Vertex lat="47.08568377313160" lon="6.79719618079073"/>
-				<Vertex lat="47.08566025468730" lon="6.79722088469271"/>
-				<Vertex lat="47.08565129979738" lon="6.79723439593070"/>
-				<Vertex lat="47.08564999999395" lon="6.79724999999348"/>
-				<Vertex lat="47.08570658510133" lon="6.79750722255265"/>
+			<PaintedLine displayName="PaintedLine (copy)" parentGroupID="3" groupIndex="17" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08533833333031" lon="6.79703972222222"/>
+				<Vertex lat="47.08535138888587" lon="6.79704527777778"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="25" type="ENHANCED_CENTER" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
-				<Vertex lat="47.08569000003422" lon="6.79715000007183"/>
-				<Vertex lat="47.08569415961560" lon="6.79716426065715"/>
-				<Vertex lat="47.08569405524217" lon="6.79717949450053"/>
-				<Vertex lat="47.08568804622878" lon="6.79719169230510"/>
+			<PaintedLine parentGroupID="4" groupIndex="56" type="EDGE_LINE_DASHED" trueAngle="ALL_POINTS" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08536833333030" lon="6.79696972222222"/>
+				<Vertex lat="47.08532545666034" lon="6.79700959076474"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="98" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
+			<PaintedLine groupIndex="26" type="ENHANCED_CENTER" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08490611110809" lon="6.79562777777778"/>
+				<Vertex lat="47.08492444444142" lon="6.79563027777778"/>
+				<Vertex lat="47.08494277777476" lon="6.79563666666667"/>
+				<Vertex lat="47.08495499999697" lon="6.79564916666667"/>
+				<Vertex lat="47.08496614298045" lon="6.79567186364278"/>
+				<Vertex lat="47.08568024245326" lon="6.79712644090302"/>
+				<Vertex lat="47.08569194444141" lon="6.79715027777778"/>
+				<Vertex lat="47.08569388888588" lon="6.79716111111111"/>
+				<Vertex lat="47.08569388888588" lon="6.79717194444444"/>
+				<Vertex lat="47.08568833333030" lon="6.79718805555556"/>
+				<Vertex lat="47.08567805555254" lon="6.79719888888889"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="4" groupIndex="55" type="EDGE_SERVICE_DASHED" trueAngle="ALL_POINTS" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08557388888587" lon="6.79738833333333"/>
+				<Vertex lat="47.08549444444142" lon="6.79746472222222"/>
+				<Vertex lat="47.08545416666367" lon="6.79745500000000"/>
+				<Vertex lat="47.08527823714873" lon="6.79704903012749"/>
+				<Vertex lat="47.08532622774349" lon="6.79700601560749"/>
+				<Vertex lat="47.08529805555252" lon="6.79695444444444"/>
+				<Vertex lat="47.08528833333033" lon="6.79693833333333"/>
+				<Vertex lat="47.08527916666363" lon="6.79693305555556"/>
+				<Vertex lat="47.08526861110808" lon="6.79693472222222"/>
+				<Vertex lat="47.08525527777476" lon="6.79694638888889"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="3" groupIndex="13" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08538972221920" lon="6.79704527777778"/>
+				<Vertex lat="47.08536916666366" lon="6.79715388888889"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="3" groupIndex="22" type="DEFAULT" trueAngle="NONE" surface="{8BF5FA5B-5588-4E0E-A775-21B2ECD69920}">
+				<Vertex lat="47.08532655960660" lon="6.79700502699328"/>
+				<Vertex lat="47.08536844272468" lon="6.79696654562330"/>
+				<Vertex lat="47.08558362056606" lon="6.79740421368312"/>
+			</PaintedLine>
+			<PaintedLine displayName="PaintedLine (copy)" parentGroupID="4" groupIndex="57" type="EDGE_LINE_DASHED" trueAngle="ALL_POINTS" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08557465481077" lon="6.79739052373153"/>
+				<Vertex lat="47.08536831611409" lon="6.79696980032668"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="3" groupIndex="12" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08544555555254" lon="6.79731111111111"/>
+				<Vertex lat="47.08552249999700" lon="6.79731750000000"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="3" groupIndex="23" type="DEFAULT" trueAngle="NONE" surface="{F86E3EF4-120F-48BA-B9E6-A1F36AF17E98}">
+				<Vertex lat="47.08552555555077" lon="6.79688473022181"/>
+				<Vertex lat="47.08554527777475" lon="6.79689250000000"/>
+				<Vertex lat="47.08555999999699" lon="6.79690055555556"/>
+				<Vertex lat="47.08558009786304" lon="6.79692313197672"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="25" type="ENHANCED_CENTER" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08565888888590" lon="6.79721944444445"/>
+				<Vertex lat="47.08565472221920" lon="6.79722666666667"/>
+				<Vertex lat="47.08565166666366" lon="6.79723833333333"/>
+				<Vertex lat="47.08565472221918" lon="6.79725083333333"/>
+				<Vertex lat="47.08570225787831" lon="6.79748621306112"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="4" groupIndex="58" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
 				<Vertex lat="47.08573305009977" lon="6.79697449204210"/>
 				<Vertex lat="47.08566986870678" lon="6.79704178754433"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="61" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08568804622878" lon="6.79719169230510"/>
-				<Vertex lat="47.08570428080854" lon="6.79717445624283"/>
-				<Vertex lat="47.08572051538829" lon="6.79715722018056"/>
+			<PaintedLine parentGroupID="3" groupIndex="20" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08568751471536" lon="6.79718829039768"/>
+				<Vertex lat="47.08572327624277" lon="6.79714803323360"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="63" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08569000003422" lon="6.79715000007183"/>
-				<Vertex lat="47.08569857246965" lon="6.79715993778955"/>
-				<Vertex lat="47.08570912840758" lon="6.79716342803403"/>
-				<Vertex lat="47.08572051538829" lon="6.79715722018056"/>
+			<PaintedLine parentGroupID="4" groupIndex="4" type="ENHANCED_CENTER" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08580138888587" lon="6.79775305555556"/>
+				<Vertex lat="47.08573111110808" lon="6.79760944444444"/>
+				<Vertex lat="47.08572083333032" lon="6.79758250000000"/>
+				<Vertex lat="47.08570249999698" lon="6.79748638888889"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="15" type="ENHANCED_CENTER" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08579834626220" lon="6.79774380770844"/>
-				<Vertex lat="47.08572958948044" lon="6.79760275646399"/>
-				<Vertex lat="47.08572248889472" lon="6.79758291129688"/>
-				<Vertex lat="47.08570658106593" lon="6.79750730337354"/>
+			<PaintedLine groupIndex="24" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08569083333030" lon="6.79715027777778"/>
+				<Vertex lat="47.08569944444141" lon="6.79715666666667"/>
+				<Vertex lat="47.08570916666364" lon="6.79715833333333"/>
+				<Vertex lat="47.08572138888588" lon="6.79715027777778"/>
+				<Vertex lat="47.08573354255084" lon="6.79713618482503"/>
+				<Vertex lat="47.08585184658977" lon="6.79700412104898"/>
+				<Vertex lat="47.08585777777476" lon="6.79699750000000"/>
+				<Vertex lat="47.08586694444143" lon="6.79699222222222"/>
+				<Vertex lat="47.08587611110809" lon="6.79699222222222"/>
+				<Vertex lat="47.08588527777476" lon="6.79700305555556"/>
+				<Vertex lat="47.08588931174662" lon="6.79701124771245"/>
+				<Vertex lat="47.08602055555255" lon="6.79727777777778"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="64" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08572051538829" lon="6.79715722018056"/>
-				<Vertex lat="47.08572852619935" lon="6.79714877752239"/>
-				<Vertex lat="47.08579070954865" lon="6.79708324189595"/>
-				<Vertex lat="47.08585737537308" lon="6.79701298216197"/>
-				<Vertex lat="47.08586090370901" lon="6.79700926361133"/>
+			<PaintedLine groupIndex="33" type="HOLD_SHORT_FORWARD" trueAngle="NONE" surface="{32BD56E1-E6E5-4AF6-BE8C-A132008726F6}">
+				<Vertex lat="47.08580837154687" lon="6.79784297127776"/>
+				<Vertex lat="47.08585444734840" lon="6.79778238446985"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="69" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08586090370901" lon="6.79700926361133"/>
-				<Vertex lat="47.08586929131128" lon="6.79699784163745"/>
-				<Vertex lat="47.08587305045265" lon="6.79698229442331"/>
-				<Vertex lat="47.08586912103127" lon="6.79696666080000"/>
-				<Vertex lat="47.08586651743326" lon="6.79696091940532"/>
-				<Vertex lat="47.08572866710279" lon="6.79667981104716"/>
+			<PaintedLine parentGroupID="1" groupIndex="4" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08585888888587" lon="6.79699583333333"/>
+				<Vertex lat="47.08586333333032" lon="6.79697888888889"/>
+				<Vertex lat="47.08586333333034" lon="6.79696250000000"/>
+				<Vertex lat="47.08585777777476" lon="6.79694638888889"/>
+				<Vertex lat="47.08585159021600" lon="6.79693376304781"/>
+				<Vertex lat="47.08572749999699" lon="6.79668055555556"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="66" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08586090370901" lon="6.79700926361133"/>
-				<Vertex lat="47.08587177886877" lon="6.79700306264655"/>
-				<Vertex lat="47.08588233000975" lon="6.79700189733472"/>
-				<Vertex lat="47.08589075568104" lon="6.79701112739550"/>
-				<Vertex lat="47.08589341999195" lon="6.79701578003317"/>
-				<Vertex lat="47.08602196661199" lon="6.79727757861091"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="100" type="EDGE_LINE_DASHED" trueAngle="ALL_POINTS" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+			<PaintedLine parentGroupID="4" groupIndex="59" type="EDGE_LINE_DASHED" trueAngle="ALL_POINTS" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
 				<Vertex lat="47.08583749999698" lon="6.79719888888889"/>
 				<Vertex lat="47.08572194444142" lon="6.79732555555556"/>
 				<Vertex lat="47.08578499999695" lon="6.79764888888889"/>
 				<Vertex lat="47.08585111110809" lon="6.79778194444444"/>
-				<Vertex lat="47.08676055555254" lon="6.79920388888889"/>
-				<Vertex lat="47.08680277777474" lon="6.79916000000000"/>
-				<Vertex lat="47.08678749999698" lon="6.79912750000000"/>
+				<Vertex lat="47.08676231439961" lon="6.79920664752085"/>
+				<Vertex lat="47.08680536828953" lon="6.79915685278541"/>
+				<Vertex lat="47.08678887253257" lon="6.79912819564697"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="102" type="EDGE_LINE_SOLID" trueAngle="ALL_POINTS" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
+			<PaintedLine parentGroupID="4" groupIndex="60" type="EDGE_LINE_SOLID" trueAngle="ALL_POINTS" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
 				<Vertex lat="47.08583895608654" lon="6.79719325542180"/>
 				<Vertex lat="47.08678911586350" lon="6.79912841780940"/>
 				<Vertex lat="47.08682333839590" lon="6.79908978014714"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="104" type="EDGE_LINE_SOLID" trueAngle="NONE" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
-				<Vertex lat="47.08658295623794" lon="6.79872597474829"/>
-				<Vertex lat="47.08651212974464" lon="6.79880477605500"/>
-			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="105" type="EDGE_LINE_DASHED" trueAngle="ALL_POINTS" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
-				<Vertex lat="47.08702055555254" lon="6.79899361111111"/>
+			<PaintedLine parentGroupID="4" groupIndex="62" type="EDGE_LINE_DASHED" trueAngle="ALL_POINTS" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08698391703962" lon="6.79892075420462"/>
 				<Vertex lat="47.08726277777475" lon="6.79948777777778"/>
 				<Vertex lat="47.08700472221921" lon="6.79976083333333"/>
 				<Vertex lat="47.08690499999697" lon="6.79955972222222"/>
@@ -1241,7 +1344,11 @@
 				<Vertex lat="47.08579416666365" lon="6.79780888888889"/>
 				<Vertex lat="47.08558499999697" lon="6.79738388888889"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="54" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+			<PaintedLine parentGroupID="4" groupIndex="61" type="EDGE_LINE_DASHED" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+				<Vertex lat="47.08658333333032" lon="6.79871611111111"/>
+				<Vertex lat="47.08650805555253" lon="6.79880500000000"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="4" groupIndex="26" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
 				<Vertex lat="47.08582999999698" lon="6.79781000000000"/>
 				<Vertex lat="47.08689999999699" lon="6.79948000000000"/>
 				<Vertex lat="47.08691456724456" lon="6.79949975296345"/>
@@ -1250,7 +1357,7 @@
 				<Vertex lat="47.08700499982695" lon="6.79954520222232"/>
 				<Vertex lat="47.08702999999699" lon="6.79952000000000"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="59" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+			<PaintedLine parentGroupID="4" groupIndex="30" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
 				<Vertex lat="47.08702999999699" lon="6.79952000000000"/>
 				<Vertex lat="47.08699620043066" lon="6.79953254911226"/>
 				<Vertex lat="47.08696999999700" lon="6.79950000000000"/>
@@ -1260,11 +1367,11 @@
 				<Vertex lat="47.08677526937088" lon="6.79882236414204"/>
 				<Vertex lat="47.08674999999698" lon="6.79877000000000"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="106" type="EDGE_LINE_SOLID" trueAngle="ALL_POINTS" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
-				<Vertex lat="47.08698595287957" lon="6.79891787516262"/>
-				<Vertex lat="47.08694994792562" lon="6.79895659248383"/>
+			<PaintedLine parentGroupID="4" groupIndex="63" type="EDGE_LINE_SOLID" trueAngle="ALL_POINTS" surface="{B1049C2A-A3F3-41A8-AC42-91FB47CFD4D8}">
+				<Vertex lat="47.08698336737589" lon="6.79891616846569"/>
+				<Vertex lat="47.08694527777476" lon="6.79895694444444"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="4" groupIndex="57" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
+			<PaintedLine parentGroupID="4" groupIndex="28" type="DEFAULT" trueAngle="NONE" surface="{0B883A8A-28BE-4297-A672-BA8A0C1B0FFF}">
 				<Vertex lat="47.08702999999699" lon="6.79952000000000"/>
 				<Vertex lat="47.08703566382550" lon="6.79951362820275"/>
 				<Vertex lat="47.08710999999696" lon="6.79943000000000"/>
