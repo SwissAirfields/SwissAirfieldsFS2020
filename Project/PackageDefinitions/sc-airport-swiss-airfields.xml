@@ -226,6 +226,14 @@
 			<AssetDir>PackageSources\LSZV\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="airport-lszn-hausen_am_albis">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZN\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
 
