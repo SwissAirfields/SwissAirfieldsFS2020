@@ -1,8 +1,320 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<!--SceneryObject name: Bugalaga_HouseLong02-->
-	<SceneryObject lat="47.52389840902734" lon="8.99958808500773" alt="0.00000000000000" pitch="0.000895" bank="-0.000895" heading="154.141305" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{8821F073-8267-4319-812B-6AD04AAA0C1F}" scale="1.000000"/>
+	<!--SceneryObject name: Gen_Buildings_06-->
+	<SceneryObject lat="47.50461618423724" lon="9.01905385509636" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="147.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{11F6C32D-5F29-4CDE-B155-7EF0AE394078}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type01_Tall-->
+	<SceneryObject lat="47.50652218616753" lon="9.02131508906346" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{952CEBEA-BBBA-48FD-8EE3-40E3F7C34FBA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type02_Mid-->
+	<SceneryObject lat="47.50353881615606" lon="9.02055468838106" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A38DFDCD-E4E5-4F7F-8794-18624E5F647F}" scale="1.250000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type02_Mid-->
+	<SceneryObject lat="47.50361238112075" lon="9.02004377753506" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A38DFDCD-E4E5-4F7F-8794-18624E5F647F}" scale="1.400000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type02_Mid-->
+	<SceneryObject lat="47.50375424530557" lon="9.02060405217446" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A38DFDCD-E4E5-4F7F-8794-18624E5F647F}" scale="1.250000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type02_Mid-->
+	<SceneryObject lat="47.50384117275705" lon="9.02009326007972" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A38DFDCD-E4E5-4F7F-8794-18624E5F647F}" scale="1.400000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type02_Mid-->
+	<SceneryObject lat="47.50396892280699" lon="9.02065243868179" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A38DFDCD-E4E5-4F7F-8794-18624E5F647F}" scale="1.250000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type02_Mid-->
+	<SceneryObject lat="47.50406597381518" lon="9.02014366046312" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A38DFDCD-E4E5-4F7F-8794-18624E5F647F}" scale="1.400000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type02_Mid-->
+	<SceneryObject lat="47.50417728101144" lon="9.02070649882933" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A38DFDCD-E4E5-4F7F-8794-18624E5F647F}" scale="1.250000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type02_Mid-->
+	<SceneryObject lat="47.50429126267502" lon="9.02020382893526" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A38DFDCD-E4E5-4F7F-8794-18624E5F647F}" scale="1.400000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type02_Mid-->
+	<SceneryObject lat="47.50439329374638" lon="9.02075155676921" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A38DFDCD-E4E5-4F7F-8794-18624E5F647F}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type02_Mid-->
+	<SceneryObject lat="47.50460375090481" lon="9.02079780524466" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A38DFDCD-E4E5-4F7F-8794-18624E5F647F}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type03_Mid-->
+	<SceneryObject lat="47.50505492374879" lon="9.02100441970184" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{DD794778-4164-40E6-BA7D-865660F211C3}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type03_Mid-->
+	<SceneryObject lat="47.50536835977185" lon="9.02111804253730" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{DD794778-4164-40E6-BA7D-865660F211C3}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type03_Mid-->
+	<SceneryObject lat="47.50567092058940" lon="9.02123717553533" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{DD794778-4164-40E6-BA7D-865660F211C3}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type03_Tall-->
+	<SceneryObject lat="47.50473125358950" lon="9.02028904158444" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AC5C503D-8E30-4272-AA7E-443C9BF48CCD}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type03_Tall-->
+	<SceneryObject lat="47.50495835764954" lon="9.02035136227388" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AC5C503D-8E30-4272-AA7E-443C9BF48CCD}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type03_Tall-->
+	<SceneryObject lat="47.50518709969936" lon="9.01983555952511" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AC5C503D-8E30-4272-AA7E-443C9BF48CCD}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type03_Tall-->
+	<SceneryObject lat="47.50518793524792" lon="9.02041471210251" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AC5C503D-8E30-4272-AA7E-443C9BF48CCD}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type03_Tall-->
+	<SceneryObject lat="47.50541729010185" lon="9.02045770607115" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AC5C503D-8E30-4272-AA7E-443C9BF48CCD}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type04_Mid-->
+	<SceneryObject lat="47.50329573997006" lon="9.01929501295409" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3533AEAD-E407-47FB-81EB-4CB880D62D6C}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type04_Mid-->
+	<SceneryObject lat="47.50358337543928" lon="9.01936674009683" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3533AEAD-E407-47FB-81EB-4CB880D62D6C}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type04_Mid-->
+	<SceneryObject lat="47.50387085896732" lon="9.01943458269990" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3533AEAD-E407-47FB-81EB-4CB880D62D6C}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type04_Mid-->
+	<SceneryObject lat="47.50415969314310" lon="9.01950599495316" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3533AEAD-E407-47FB-81EB-4CB880D62D6C}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type04_Mid-->
+	<SceneryObject lat="47.50467495761796" lon="9.01961968626700" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3533AEAD-E407-47FB-81EB-4CB880D62D6C}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type04_Mid-->
+	<SceneryObject lat="47.50495870075785" lon="9.01969194273435" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3533AEAD-E407-47FB-81EB-4CB880D62D6C}" scale="1.800000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type05_Mid-->
+	<SceneryObject lat="47.50275877539038" lon="9.02041234833951" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1956D8BA-F6B5-4CEB-BDB5-A13FBE2F98DE}" scale="1.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type05_Mid-->
+	<SceneryObject lat="47.50300477871551" lon="9.02042520319443" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1956D8BA-F6B5-4CEB-BDB5-A13FBE2F98DE}" scale="1.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type05_Mid-->
+	<SceneryObject lat="47.50302274065743" lon="9.01988699323229" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1956D8BA-F6B5-4CEB-BDB5-A13FBE2F98DE}" scale="1.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type05_Mid-->
+	<SceneryObject lat="47.50322004262231" lon="9.02048484954324" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1956D8BA-F6B5-4CEB-BDB5-A13FBE2F98DE}" scale="1.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type05_Mid-->
+	<SceneryObject lat="47.50325413187925" lon="9.01994704712537" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1956D8BA-F6B5-4CEB-BDB5-A13FBE2F98DE}" scale="1.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type06_Tall-->
+	<SceneryObject lat="47.50396751308384" lon="9.01902659161639" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{476CD990-44BC-40FE-807C-1FD3846FCE7F}" scale="1.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Water_Tank_Type06_Tall-->
+	<SceneryObject lat="47.50414195240953" lon="9.01907612970609" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="170.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{476CD990-44BC-40FE-807C-1FD3846FCE7F}" scale="1.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Alcatraz_Lighthouse-->
+	<SceneryObject lat="47.52379367155328" lon="8.99930176103567" alt="0.00000000000000" pitch="0.000417" bank="-0.000417" heading="152.591508" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{81EDD81D-9276-4CF7-81F7-3BD16E7C1F3B}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Automatic_Fence-->
+	<SceneryObject lat="47.52408908528339" lon="8.99960555643066" alt="0.00000000000000" pitch="0.001318" bank="-0.001318" heading="152.882255" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8BEE7FF0-6CE8-4BD5-B053-20263F075E20}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_Metal01-->
+	<SceneryObject lat="47.52385270749930" lon="8.99964606936999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D975E2A3-7AF4-41A5-8A74-9995EC607EE5}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_Metal01-->
+	<SceneryObject lat="47.52386518384473" lon="8.99968145107170" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D975E2A3-7AF4-41A5-8A74-9995EC607EE5}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_Metal01-->
+	<SceneryObject lat="47.52387734093693" lon="8.99971573818504" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D975E2A3-7AF4-41A5-8A74-9995EC607EE5}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_Metal01-->
+	<SceneryObject lat="47.52388955647578" lon="8.99975022041035" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D975E2A3-7AF4-41A5-8A74-9995EC607EE5}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_Metal01-->
+	<SceneryObject lat="47.52390984527825" lon="8.99975890690487" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="66.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D975E2A3-7AF4-41A5-8A74-9995EC607EE5}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_Metal01-->
+	<SceneryObject lat="47.52392991369151" lon="8.99974475566940" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="66.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D975E2A3-7AF4-41A5-8A74-9995EC607EE5}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_Metal01-->
+	<SceneryObject lat="47.52395030843797" lon="8.99973116893016" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="66.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D975E2A3-7AF4-41A5-8A74-9995EC607EE5}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_Metal01-->
+	<SceneryObject lat="47.52397027500698" lon="8.99971792732267" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="65.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D975E2A3-7AF4-41A5-8A74-9995EC607EE5}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_Metal01-->
+	<SceneryObject lat="47.52399019066748" lon="8.99970443382291" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="65.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D975E2A3-7AF4-41A5-8A74-9995EC607EE5}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_Metal01-->
+	<SceneryObject lat="47.52401004989606" lon="8.99969063834763" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="65.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D975E2A3-7AF4-41A5-8A74-9995EC607EE5}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_Metal01-->
+	<SceneryObject lat="47.52402980786058" lon="8.99967695648989" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="65.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D975E2A3-7AF4-41A5-8A74-9995EC607EE5}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_Metal01-->
+	<SceneryObject lat="47.52403503629953" lon="8.99965523550732" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="153.000008" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D975E2A3-7AF4-41A5-8A74-9995EC607EE5}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bench_wood-->
+	<SceneryObject lat="47.52389711315455" lon="8.99966220914315" alt="0.00000000000000" pitch="0.000690" bank="-0.000697" heading="115.873258" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{93A24DBD-B0ED-4C0B-AB05-BB910A641855}" scale="1.040300"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bugalaga_TinyHouse03-->
+	<SceneryObject lat="47.52378114096111" lon="8.99925370413255" alt="0.00000000000000" pitch="0.001011" bank="-0.001004" heading="-69.774330" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{61C0761A-F8E3-46BD-8484-00A4EB483786}" scale="0.400000"/>
+	</SceneryObject>
+	<!--SceneryObject name: BushVarious03-->
+	<SceneryObject lat="47.52384142617571" lon="8.99963240866881" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{86636E02-F929-4CE4-AAE0-19078BA2B699}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bush_02-->
+	<SceneryObject lat="47.52384938453368" lon="8.99966241539667" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{617EFA8A-45E7-4945-BE66-64C73F1968D7}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bush_02-->
+	<SceneryObject lat="47.52386274346995" lon="8.99968848319744" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{617EFA8A-45E7-4945-BE66-64C73F1968D7}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bush_Juniper-->
+	<SceneryObject lat="47.52366423147885" lon="8.99907115136759" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="157.000012" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2ADE52E8-C6D5-4F36-92CD-575FA23BC249}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bush_Juniper_Potted-->
+	<SceneryObject lat="47.52383961800694" lon="8.99953164710690" alt="0.00000000000000" pitch="0.000888" bank="-0.000888" heading="154.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{58A0F854-335A-4B2F-BAE4-F7D7C57677EC}" scale="0.700000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Businessman_Idle3-->
+	<SceneryObject lat="47.52378561492979" lon="8.99952227323967" alt="0.00000000000000" pitch="0.000669" bank="-0.000669" heading="146.793087" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7BA35055-088C-4373-9474-1DE37DDDD345}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car01_Yellow-->
+	<SceneryObject lat="47.52399147999812" lon="8.99975993610000" alt="0.00000000000000" pitch="0.000553" bank="-0.000553" heading="-116.967304" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0BDAA1CC-0EA6-4D46-BD1A-E99ABFC009B8}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car02_Black-->
+	<SceneryObject lat="47.52445650478657" lon="8.99982008613309" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{18A62F92-2507-4965-A8ED-B3083C2447B0}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car02_Blue-->
+	<SceneryObject lat="47.52446797114587" lon="8.99986191272502" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1E3E0562-E890-48DD-B785-0C3FE6C09177}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car_Line_7C_02-->
+	<SceneryObject lat="47.52410611102614" lon="8.99947283515596" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="62.999998" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8CF18816-B926-4B9A-80F4-59ADAED13AD6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car_Pack_8C_01-->
+	<SceneryObject lat="47.52400009287116" lon="8.99933794736843" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="62.999998" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{304DCAC6-90B1-42A1-A004-F454E5A69D8B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: ConstructionPipe02-->
+	<SceneryObject lat="47.52383045397764" lon="8.99932607859613" alt="0.00000000000000" pitch="0.001216" bank="-0.001216" heading="-114.235385" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AB45BDA6-75B6-47D0-878C-E67B6EDD8EC3}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject lat="47.52312040497709" lon="9.00000177509039" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="157.000012" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject lat="47.52383667546637" lon="8.99927390857813" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="157.000012" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_1m-->
+	<SceneryObject lat="47.52385062170835" lon="8.99932362593987" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="157.000012" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FenceMetallic_3m-->
+	<SceneryObject lat="47.52374193213326" lon="8.99919541633981" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="112.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8C70DAC4-BD05-47C4-A98E-0B93DB74B042}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Nature01_Little-->
+	<SceneryObject lat="47.52370809109409" lon="8.99922627578990" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="76.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7C293E2E-30C8-46DA-BDCC-90EC6664BDF0}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Nature01_Little-->
+	<SceneryObject lat="47.52371576372029" lon="8.99927154289169" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="76.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7C293E2E-30C8-46DA-BDCC-90EC6664BDF0}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Nature01_Little-->
+	<SceneryObject lat="47.52372335822085" lon="8.99931663388615" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="76.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7C293E2E-30C8-46DA-BDCC-90EC6664BDF0}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Nature01_Little-->
+	<SceneryObject lat="47.52373099941156" lon="8.99936183764729" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="76.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7C293E2E-30C8-46DA-BDCC-90EC6664BDF0}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Nature01_Little-->
+	<SceneryObject lat="47.52373862943617" lon="8.99940679596309" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="76.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7C293E2E-30C8-46DA-BDCC-90EC6664BDF0}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Nature01_Little-->
+	<SceneryObject lat="47.52374941939911" lon="8.99944915786276" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="62.999998" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7C293E2E-30C8-46DA-BDCC-90EC6664BDF0}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Nature01_Little-->
+	<SceneryObject lat="47.52376382912959" lon="8.99949072888843" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="62.999998" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7C293E2E-30C8-46DA-BDCC-90EC6664BDF0}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Nature01_Little-->
+	<SceneryObject lat="47.52377846380147" lon="8.99953228884081" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="62.999998" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7C293E2E-30C8-46DA-BDCC-90EC6664BDF0}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Nature01_Little-->
+	<SceneryObject lat="47.52379272044973" lon="8.99957378900540" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="62.999998" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7C293E2E-30C8-46DA-BDCC-90EC6664BDF0}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Nature01_Little-->
+	<SceneryObject lat="47.52380721343649" lon="8.99961519177516" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="62.999998" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7C293E2E-30C8-46DA-BDCC-90EC6664BDF0}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Nature01_Little-->
+	<SceneryObject lat="47.52382946240385" lon="8.99962169111778" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="154.999996" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7C293E2E-30C8-46DA-BDCC-90EC6664BDF0}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FuelTruck01_Black-->
+	<SceneryObject lat="47.52405517701255" lon="9.00020228143415" alt="0.00000000000000" pitch="0.000881" bank="-0.000813" heading="-118.000233" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{867E8579-7FA5-4FAD-AF41-E3C89CB6DE44}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Garbage_Container02_Little-->
+	<SceneryObject lat="47.52399565151072" lon="8.99967797609973" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="62.000004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6B095CF6-4FB1-456B-95F4-827322C06031}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Garden_Bush02-->
+	<SceneryObject lat="47.52371037107163" lon="8.99919735985764" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="157.000012" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{01A6311F-B9E5-4997-B7B8-693B31D5CA29}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Gen_Hangar02-->
 	<SceneryObject lat="47.52434606906471" lon="9.00005021691262" alt="0.00000000000000" pitch="0.000096" bank="-0.000096" heading="152.999980" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
@@ -25,11 +337,114 @@
 		<LibraryObject name="{9218816C-5828-4392-8C1A-E52B26681CE4}" scale="0.830000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Gen_Hangar121-->
-	<SceneryObject lat="47.52416505953610" lon="8.99967959418419" alt="0.00000000000000" pitch="0.001018" bank="-0.001018" heading="152.389006" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="47.52419564294419" lon="8.99970423377247" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-27.611299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{42555E22-3916-44A5-800A-7C908FDC51C2}" scale="1.100000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gibraltar_Building07-->
+	<SceneryObject lat="47.52392466478901" lon="8.99956291533286" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="-27.000018" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{1CE2E4DC-8579-47CF-942F-296B1050BD7E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mariscal_Sucre_Building_19-->
+	<SceneryObject lat="47.52408965830471" lon="9.00019745442917" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="152.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2149B923-0400-4A35-90AF-641A14728EAF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Panel_Sign_Big_02-->
+	<SceneryObject lat="47.52387032196478" lon="8.99936401930429" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="154.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C55C4060-919E-4167-BF9C-FEF5597AD07B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Panel_Sign_small_Pub_01-->
+	<SceneryObject lat="47.52377086672071" lon="8.99949850839656" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="154.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8E9899E3-7842-42BA-B742-D85B25849D91}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Panel_Sign_small_Pub_01-->
+	<SceneryObject lat="47.52384916503971" lon="8.99941706967294" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="154.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8E9899E3-7842-42BA-B742-D85B25849D91}" scale="1.400000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Panel_Sign_small_Pub_02-->
+	<SceneryObject lat="47.52383265516265" lon="8.99951921092062" alt="0.00000000000000" pitch="0.000758" bank="-0.000806" heading="-16.630247" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C308D72F-AA49-474F-913C-924B4DAA3111}" scale="1.300000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Parasol01-->
+	<SceneryObject lat="47.52378407103704" lon="8.99945866279685" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F0ABE293-9437-4B91-B320-8579D692EB08}" scale="1.400000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Parasol01-->
+	<SceneryObject lat="47.52380168458422" lon="8.99950901736843" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F0ABE293-9437-4B91-B320-8579D692EB08}" scale="1.400000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Parasol01-->
+	<SceneryObject lat="47.52381906519215" lon="8.99956168342946" alt="0.00000000000000" pitch="0.000041" bank="-0.000041" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F0ABE293-9437-4B91-B320-8579D692EB08}" scale="1.400000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Parasol01_closed-->
+	<SceneryObject lat="47.52377948835713" lon="8.99940167473999" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="161.000003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AFF7DA65-116F-4811-90B4-A80DDFC47965}" scale="1.400000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Parasol01_closed-->
+	<SceneryObject lat="47.52382590040547" lon="8.99942316239246" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="161.000003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AFF7DA65-116F-4811-90B4-A80DDFC47965}" scale="1.400000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Pickup01_Black-->
+	<SceneryObject lat="47.52443967039103" lon="8.99977561352877" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2788AB17-2BE4-4D18-A984-59F03598557E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Picnic_Table01-->
+	<SceneryObject lat="47.52377026700556" lon="8.99943628702752" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="154.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C7E4CFE6-007D-460D-B084-5E2667C7CEF0}" scale="1.300000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Picnic_Table01-->
+	<SceneryObject lat="47.52378684757952" lon="8.99948645119444" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="154.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C7E4CFE6-007D-460D-B084-5E2667C7CEF0}" scale="1.300000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Picnic_Table01-->
+	<SceneryObject lat="47.52379590750230" lon="8.99941869057396" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="154.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C7E4CFE6-007D-460D-B084-5E2667C7CEF0}" scale="1.300000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Picnic_Table01-->
+	<SceneryObject lat="47.52380414779503" lon="8.99953958352746" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="154.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C7E4CFE6-007D-460D-B084-5E2667C7CEF0}" scale="1.300000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Picnic_Table01-->
+	<SceneryObject lat="47.52381169143121" lon="8.99946649214738" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="154.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C7E4CFE6-007D-460D-B084-5E2667C7CEF0}" scale="1.300000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Picnic_Table01-->
+	<SceneryObject lat="47.52382058764198" lon="8.99959019947340" alt="0.00000000000000" pitch="0.000041" bank="-0.000041" heading="154.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C7E4CFE6-007D-460D-B084-5E2667C7CEF0}" scale="1.300000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Pilot_Male_Casual_IDLE-->
+	<SceneryObject lat="47.52381541522690" lon="8.99961365764497" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="135.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{19775524-A6DB-4C31-BE0A-A46767107B87}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Pilot_Male_Casual_IDLE-->
+	<SceneryObject lat="47.52400822630367" lon="8.99981592789219" alt="0.00000000000000" pitch="0.001209" bank="-0.001209" heading="35.292148" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{19775524-A6DB-4C31-BE0A-A46767107B87}" scale="1.100000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Road_Sign_Stop-->
+	<SceneryObject lat="47.52279083737357" lon="8.99866556203341" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="19.999996" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3D25C04A-E350-43C2-B950-305269C2ACA2}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Road_Sign_Stop-->
+	<SceneryObject lat="47.52283415845272" lon="8.99895950596013" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="19.999996" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3D25C04A-E350-43C2-B950-305269C2ACA2}" scale="1.200000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Road_Sign_Stop-->
+	<SceneryObject lat="47.52366909418156" lon="8.99915648721080" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="19.999996" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3D25C04A-E350-43C2-B950-305269C2ACA2}" scale="1.200000"/>
 	</SceneryObject>
 	<SceneryObject lat="47.52392090169063" lon="8.99993879093178" alt="0.00000000000000" pitch="0.000041" bank="-0.000041" heading="63.600017" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="LSZT-tee" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject lat="47.52402227664928" lon="8.99982174819714" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="147.000001" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Tarmac_Female_Summer_Asian" scale="1.100000"/>
+	</SceneryObject>
+	<!--SceneryObject name: SportCar01_Green-->
+	<SceneryObject lat="47.52442964206107" lon="8.99973523709214" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{19E42488-18E0-4CC0-B895-A5503156FC24}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Toolbox_Small-->
+	<SceneryObject lat="47.52428836399360" lon="9.00019027028770" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-111.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{83379B65-2D74-4356-A133-28964F10D191}" scale="1.200000"/>
 	</SceneryObject>
 	<SceneryObject lat="47.52389481375048" lon="8.99976480027222" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-0.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE"/>
@@ -86,7 +501,7 @@
 		<LibraryObject name="{06DEA177-373B-4167-BD91-B20C59310071}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: marker2_blue-->
-	<SceneryObject lat="47.52373322239384" lon="8.99960518883584" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="63.600017" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="47.52374729202597" lon="8.99959945503954" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="63.600017" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{06DEA177-373B-4167-BD91-B20C59310071}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: marker2_blue-->
@@ -377,198 +792,205 @@
 	<SceneryObject lat="47.52588772626439" lon="9.00677920766029" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="63.600017" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{5870238E-081D-449F-993C-A338EC22B624}" scale="1.000000"/>
 	</SceneryObject>
-	<Airport region="Europe" country="Switzerland" state="Thurgau" city="Lommis" name="Lommis" ident="LSZT" lat="47.52468259284279" lon="9.00281831657460" alt="464.17226514965296" magvar="3.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
-		<TaxiwayPoint index="0" type="NORMAL" orientation="FORWARD" lat="47.52396036319241" lon="9.00051926716336"/>
-		<TaxiwayPoint index="1" type="NORMAL" orientation="FORWARD" lat="47.52422357364991" lon="9.00032577317512"/>
-		<TaxiwayPoint index="2" type="NORMAL" orientation="FORWARD" lat="47.52425715476444" lon="9.00032344865561"/>
-		<TaxiwayPoint index="3" type="NORMAL" orientation="FORWARD" lat="47.52430324057196" lon="9.00036660050732"/>
-		<TaxiwayPoint index="4" type="NORMAL" orientation="FORWARD" lat="47.52416879675445" lon="9.00109820839283"/>
-		<TaxiwayPoint index="5" type="NORMAL" orientation="FORWARD" lat="47.52443088943821" lon="9.00090624449511"/>
-		<TaxiwayPoint index="6" type="NORMAL" orientation="FORWARD" lat="47.52444825390687" lon="9.00087302208323"/>
-		<TaxiwayPoint index="7" type="NORMAL" orientation="FORWARD" lat="47.52445710604137" lon="9.00080505901379"/>
-		<TaxiwayPoint index="8" type="NORMAL" orientation="FORWARD" lat="47.52462859901807" lon="9.00129947764588"/>
-		<TaxiwayPoint index="9" type="NORMAL" orientation="FORWARD" lat="47.52417577533098" lon="8.99999471984785"/>
-		<TaxiwayPoint index="10" type="NORMAL" orientation="FORWARD" lat="47.52424367730328" lon="9.00028100446166"/>
-		<TaxiwayPoint index="11" type="NORMAL" orientation="FORWARD" lat="47.52424841822074" lon="9.00020837346150"/>
-		<TaxiwayPoint index="12" type="NORMAL" orientation="FORWARD" lat="47.52446038353801" lon="9.00090414671058"/>
-		<TaxiwayPoint index="13" type="NORMAL" orientation="FORWARD" lat="47.52450155091454" lon="9.00093295875893"/>
-		<TaxiwayPoint index="14" type="NORMAL" orientation="FORWARD" lat="47.52388330324684" lon="9.00051881368450"/>
-		<TaxiwayPoint index="15" type="NORMAL" orientation="FORWARD" lat="47.52382184719504" lon="9.00044453715430"/>
-		<TaxiwayPoint index="16" type="NORMAL" orientation="FORWARD" lat="47.52380369618348" lon="9.00029295478785"/>
-		<TaxiwayPoint index="17" type="NORMAL" orientation="FORWARD" lat="47.52377254190144" lon="8.99990767470411"/>
-		<TaxiwayPoint index="18" type="NORMAL" orientation="FORWARD" lat="47.52356176177583" lon="8.99928883150193"/>
-		<TaxiwayPoint index="19" type="NORMAL" orientation="FORWARD" lat="47.52347274888344" lon="8.99918958846945"/>
-		<TaxiwayPoint index="20" type="NORMAL" orientation="FORWARD" lat="47.52334519837579" lon="8.99914070810299"/>
-		<TaxiwayPoint index="21" type="NORMAL" orientation="FORWARD" lat="47.52322241233704" lon="8.99930790184747"/>
-		<TaxiwayPoint index="22" type="NORMAL" orientation="FORWARD" lat="47.52401658068526" lon="9.00102827608243"/>
-		<TaxiwayPoint index="23" type="NORMAL" orientation="FORWARD" lat="47.52411779893016" lon="9.00130790935051"/>
-		<TaxiwayPoint index="24" type="NORMAL" orientation="FORWARD" lat="47.52435990859344" lon="9.00173111467993"/>
-		<TaxiwayPoint index="25" type="NORMAL" orientation="FORWARD" lat="47.52628113227252" lon="9.00745327414229"/>
-		<TaxiwayPoint index="26" type="NORMAL" orientation="FORWARD" lat="47.52628107240128" lon="9.00761472837915"/>
-		<TaxiwayPoint index="27" type="NORMAL" orientation="FORWARD" lat="47.52620910307796" lon="9.00772591639170"/>
-		<TaxiwayPoint index="28" type="NORMAL" orientation="FORWARD" lat="47.52603188505056" lon="9.00765738753796"/>
-		<TaxiwayPoint index="29" type="NORMAL" orientation="FORWARD" lat="47.52391412826211" lon="9.00060738748371"/>
-		<TaxiwayPoint index="30" type="NORMAL" orientation="FORWARD" lat="47.52391377780189" lon="9.00072474831122"/>
-		<TaxiwayPoint index="31" type="NORMAL" orientation="FORWARD" lat="47.52411901599231" lon="9.00117825054746"/>
-		<TaxiwayPoint index="32" type="NORMAL" orientation="FORWARD" lat="47.52417984326597" lon="9.00109025228866"/>
-		<TaxiwayPoint index="33" type="NORMAL" orientation="FORWARD" lat="47.52397275265690" lon="9.00051031354648"/>
-		<TaxiwayPoint index="34" type="NORMAL" orientation="FORWARD" lat="47.52409463521111" lon="9.00110765137273"/>
-		<TaxiwayPoint index="35" type="NORMAL" orientation="FORWARD" lat="47.52611565581526" lon="9.00774865716745"/>
-		<TaxiwayPoint index="36" type="NORMAL" orientation="FORWARD" lat="47.52324914555355" lon="8.99920751748076"/>
-		<TaxiwayPoint index="37" type="NORMAL" orientation="FORWARD" lat="47.52414000838533" lon="8.99997206503043"/>
-		<TaxiwayPoint index="38" type="NORMAL" orientation="FORWARD" lat="47.52409394047289" lon="8.99998764152529"/>
-		<TaxiwayPoint index="39" type="NORMAL" orientation="FORWARD" lat="47.52403917611641" lon="9.00003108153366"/>
-		<TaxiwayPoint index="40" type="NORMAL" orientation="FORWARD" lat="47.52393466609446" lon="9.00010856236243"/>
-		<TaxiwayPoint index="41" type="NORMAL" orientation="FORWARD" lat="47.52410407445318" lon="9.00017324475714"/>
-		<TaxiwayPoint index="42" type="NORMAL" orientation="FORWARD" lat="47.52415407664296" lon="9.00013641989772"/>
-		<TaxiwayPoint index="43" type="NORMAL" orientation="FORWARD" lat="47.52420450036868" lon="9.00014313488453"/>
-		<TaxiwayPoint index="44" type="NORMAL" orientation="FORWARD" lat="47.52423931315704" lon="9.00018236641118"/>
-		<TaxiwayPoint index="45" type="NORMAL" orientation="FORWARD" lat="47.52418335798831" lon="9.00007590478864"/>
-		<TaxiwayPoint index="46" type="NORMAL" orientation="FORWARD" lat="47.52418808825488" lon="9.00003302205187"/>
-		<TaxiwayPoint index="47" type="NORMAL" orientation="FORWARD" lat="47.52383783374631" lon="9.00018406106491"/>
-		<TaxiwayPoint index="49" type="NORMAL" orientation="FORWARD" lat="47.52387888441396" lon="9.00007998224672"/>
-		<TaxiwayPoint index="62" type="NORMAL" orientation="FORWARD" lat="47.52396147359815" lon="9.00086503169988"/>
-		<TaxiwayPoint index="63" type="NORMAL" orientation="FORWARD" lat="47.52405872101804" lon="9.00079447874500"/>
-		<TaxiwayPoint index="64" type="NORMAL" orientation="FORWARD" lat="47.52416926633587" lon="9.00071684200922"/>
-		<TaxiwayPoint index="65" type="NORMAL" orientation="FORWARD" lat="47.52427425492812" lon="9.00063759622001"/>
-		<TaxiwayPoint index="66" type="NORMAL" orientation="FORWARD" lat="47.52427447582875" lon="9.00102397893859"/>
-		<TaxiwayPoint index="67" type="NORMAL" orientation="FORWARD" lat="47.52438396908840" lon="9.00094314132771"/>
-		<TaxiwayPoint index="68" type="NORMAL" orientation="FORWARD" lat="47.52407340247715" lon="9.00043544069880"/>
-		<TaxiwayPoint index="69" type="NORMAL" orientation="FORWARD" lat="47.52417534041984" lon="9.00035974984622"/>
-		<TaxiwayPoint index="70" type="NORMAL" orientation="FORWARD" lat="47.52421157105704" lon="9.00146641537983"/>
-		<TaxiwayPoint index="71" type="NORMAL" orientation="FORWARD" lat="47.52428016959529" lon="9.00141124261187"/>
-		<TaxiwayPoint index="72" type="NORMAL" orientation="FORWARD" lat="47.52438478864882" lon="9.00132428261471"/>
-		<TaxiwayPoint index="73" type="NORMAL" orientation="FORWARD" lat="47.52448734639542" lon="9.00124315925221"/>
-		<TaxiwayPoint index="74" type="NORMAL" orientation="FORWARD" lat="47.52451648352290" lon="9.00157556664676"/>
-		<TaxiwayPoint index="75" type="NORMAL" orientation="FORWARD" lat="47.52460822405396" lon="9.00150982113803"/>
-		<TaxiwayPoint index="76" type="NORMAL" orientation="FORWARD" lat="47.52394311251698" lon="9.00010220568823"/>
-		<TaxiwayParking index="48" type="RAMP_GA_SMALL" lat="47.52391024195614" lon="9.00034978754262" heading="243.600006" radius="6.000000" name="NONE" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="50" type="RAMP_GA_SMALL" lat="47.52401457151414" lon="9.00026924197827" heading="243.600006" radius="6.000000" name="NONE" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="51" type="RAMP_GA_SMALL" lat="47.52401599237042" lon="9.00065122391382" heading="243.600006" radius="6.000000" name="NONE" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="52" type="RAMP_GA_SMALL" lat="47.52411779315785" lon="9.00057480791423" heading="243.600006" radius="6.000000" name="NONE" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="53" type="RAMP_GA_SMALL" lat="47.52422266582550" lon="9.00049435910581" heading="243.600006" radius="6.000000" name="NONE" number="5" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="54" type="RAMP_GA_SMALL" lat="47.52411192531486" lon="9.00093029715889" heading="243.600006" radius="6.000000" name="NONE" number="6" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="55" type="RAMP_GA_SMALL" lat="47.52421717142600" lon="9.00085096585457" heading="243.600006" radius="6.000000" name="NONE" number="7" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="56" type="RAMP_GA_SMALL" lat="47.52431828383988" lon="9.00077109153244" heading="243.600006" radius="6.000000" name="NONE" number="8" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="57" type="RAMP_GA_SMALL" lat="47.52421931796515" lon="9.00122618534528" heading="243.600006" radius="6.000000" name="NONE" number="9" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="58" type="RAMP_GA_SMALL" lat="47.52432076986469" lon="9.00115559856691" heading="243.600006" radius="6.000000" name="NONE" number="10" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="59" type="RAMP_GA_SMALL" lat="47.52442558460935" lon="9.00107343289018" heading="243.600006" radius="6.000000" name="NONE" number="11" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="60" type="RAMP_GA_SMALL" lat="47.52447705454124" lon="9.00146930367886" heading="243.600006" radius="6.000000" name="NONE" number="12" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="61" type="RAMP_GA_SMALL" lat="47.52458131099536" lon="9.00140181289065" heading="243.600006" radius="6.000000" name="NONE" number="13" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="77" type="FUEL" lat="47.52411185866830" lon="9.00016649155487" heading="154.243774" radius="5.000000" name="NONE" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+	<Airport region="Europe" country="Switzerland" state="Thurgau" city="Lommis" name="Lommis" ident="LSZT" lat="47.52468259284279" lon="9.00281831657460" alt="464.17226514965296" magvar="3.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+		<AirportGroup displayName="Apron" groupID="1" groupIndex="10"/>
+		<AirportGroup displayName="Runway" groupID="2"/>
+		<AirportGroup displayName="TaxiwayParking" groupID="3" groupIndex="8"/>
+		<AirportGroup displayName="TaxiwayPath" groupID="4" groupIndex="9"/>
+		<AirportGroup displayName="TaxiwayPoint" groupID="5" groupIndex="4"/>
+		<TaxiwayPoint parentGroupID="5" index="0" type="NORMAL" orientation="FORWARD" lat="47.52396036319241" lon="9.00051926716336"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="1" index="1" type="NORMAL" orientation="FORWARD" lat="47.52422357364991" lon="9.00032577317512"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="2" index="2" type="NORMAL" orientation="FORWARD" lat="47.52425715476444" lon="9.00032344865561"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="3" index="3" type="NORMAL" orientation="FORWARD" lat="47.52430324057196" lon="9.00036660050732"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="4" index="4" type="NORMAL" orientation="FORWARD" lat="47.52416879675445" lon="9.00109820839283"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="5" index="5" type="NORMAL" orientation="FORWARD" lat="47.52443088943821" lon="9.00090624449511"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="6" index="6" type="NORMAL" orientation="FORWARD" lat="47.52444825390687" lon="9.00087302208323"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="7" index="7" type="NORMAL" orientation="FORWARD" lat="47.52445710604137" lon="9.00080505901379"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="8" index="8" type="NORMAL" orientation="FORWARD" lat="47.52462859901807" lon="9.00129947764588"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="9" index="9" type="NORMAL" orientation="FORWARD" lat="47.52417577533098" lon="8.99999471984785"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="10" index="10" type="NORMAL" orientation="FORWARD" lat="47.52424367729724" lon="9.00028100444675"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="11" index="11" type="NORMAL" orientation="FORWARD" lat="47.52424841822074" lon="9.00020837346150"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="12" index="12" type="NORMAL" orientation="FORWARD" lat="47.52446038353801" lon="9.00090414671058"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="13" index="13" type="NORMAL" orientation="FORWARD" lat="47.52450155091454" lon="9.00093295875893"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="14" index="14" type="NORMAL" orientation="FORWARD" lat="47.52388330324684" lon="9.00051881368450"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="15" index="15" type="NORMAL" orientation="FORWARD" lat="47.52382184719504" lon="9.00044453715430"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="16" index="16" type="NORMAL" orientation="FORWARD" lat="47.52380369618348" lon="9.00029295478785"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="17" index="17" type="NORMAL" orientation="FORWARD" lat="47.52377254190144" lon="8.99990767470411"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="18" index="18" type="NORMAL" orientation="FORWARD" lat="47.52356176177583" lon="8.99928883150193"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="19" index="19" type="NORMAL" orientation="FORWARD" lat="47.52347274888344" lon="8.99918958846945"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="20" index="20" type="NORMAL" orientation="FORWARD" lat="47.52334519837579" lon="8.99914070810299"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="21" index="21" type="NORMAL" orientation="FORWARD" lat="47.52322241233704" lon="8.99930790184747"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="22" index="22" type="NORMAL" orientation="FORWARD" lat="47.52401658068526" lon="9.00102827608243"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="23" index="23" type="NORMAL" orientation="FORWARD" lat="47.52411779893016" lon="9.00130790935051"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="24" index="24" type="NORMAL" orientation="FORWARD" lat="47.52435990859344" lon="9.00173111467993"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="25" index="25" type="NORMAL" orientation="FORWARD" lat="47.52628113227252" lon="9.00745327414229"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="26" index="26" type="NORMAL" orientation="FORWARD" lat="47.52628107240128" lon="9.00761472837915"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="27" index="27" type="NORMAL" orientation="FORWARD" lat="47.52620910307796" lon="9.00772591639170"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="28" index="28" type="NORMAL" orientation="FORWARD" lat="47.52603188505056" lon="9.00765738753796"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="29" index="29" type="NORMAL" orientation="FORWARD" lat="47.52391412826211" lon="9.00060738748371"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="30" index="30" type="NORMAL" orientation="FORWARD" lat="47.52391377780189" lon="9.00072474831122"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="31" index="31" type="NORMAL" orientation="FORWARD" lat="47.52411901599231" lon="9.00117825054746"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="32" index="32" type="NORMAL" orientation="FORWARD" lat="47.52417984326597" lon="9.00109025228866"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="33" index="33" type="NORMAL" orientation="FORWARD" lat="47.52397275265690" lon="9.00051031354648"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="34" index="34" type="NORMAL" orientation="FORWARD" lat="47.52409463521111" lon="9.00110765137273"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="35" index="35" type="NORMAL" orientation="FORWARD" lat="47.52611565581526" lon="9.00774865716745"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="36" index="36" type="NORMAL" orientation="FORWARD" lat="47.52324914555355" lon="8.99920751748076"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="37" index="37" type="NORMAL" orientation="FORWARD" lat="47.52414000838533" lon="8.99997206503043"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="38" index="38" type="NORMAL" orientation="FORWARD" lat="47.52409394047289" lon="8.99998764152529"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="39" index="39" type="NORMAL" orientation="FORWARD" lat="47.52403917611641" lon="9.00003108153366"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="40" index="40" type="NORMAL" orientation="FORWARD" lat="47.52393466609446" lon="9.00010856236243"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="41" index="41" type="NORMAL" orientation="FORWARD" lat="47.52410407445318" lon="9.00017324475714"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="42" index="42" type="NORMAL" orientation="FORWARD" lat="47.52415407664296" lon="9.00013641989772"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="43" index="43" type="NORMAL" orientation="FORWARD" lat="47.52420450036868" lon="9.00014313488453"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="44" index="44" type="NORMAL" orientation="FORWARD" lat="47.52423931315704" lon="9.00018236641118"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="45" index="45" type="NORMAL" orientation="FORWARD" lat="47.52418335798831" lon="9.00007590478864"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="46" index="46" type="NORMAL" orientation="FORWARD" lat="47.52418808825488" lon="9.00003302205187"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="47" index="47" type="NORMAL" orientation="FORWARD" lat="47.52383783374631" lon="9.00018406106491"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="48" index="49" type="NORMAL" orientation="FORWARD" lat="47.52387888441396" lon="9.00007998224672"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="49" index="62" type="NORMAL" orientation="FORWARD" lat="47.52396147359815" lon="9.00086503169988"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="50" index="63" type="NORMAL" orientation="FORWARD" lat="47.52405872101804" lon="9.00079447874500"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="51" index="64" type="NORMAL" orientation="FORWARD" lat="47.52416926633587" lon="9.00071684200922"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="52" index="65" type="NORMAL" orientation="FORWARD" lat="47.52427425492812" lon="9.00063759622001"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="53" index="66" type="NORMAL" orientation="FORWARD" lat="47.52427447582875" lon="9.00102397893859"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="54" index="67" type="NORMAL" orientation="FORWARD" lat="47.52438396908840" lon="9.00094314132771"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="55" index="68" type="NORMAL" orientation="FORWARD" lat="47.52407340247715" lon="9.00043544069880"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="56" index="69" type="NORMAL" orientation="FORWARD" lat="47.52417534041984" lon="9.00035974984622"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="57" index="70" type="NORMAL" orientation="FORWARD" lat="47.52421157105704" lon="9.00146641537983"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="58" index="71" type="NORMAL" orientation="FORWARD" lat="47.52428016959529" lon="9.00141124261187"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="59" index="72" type="NORMAL" orientation="FORWARD" lat="47.52438478864882" lon="9.00132428261471"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="60" index="73" type="NORMAL" orientation="FORWARD" lat="47.52448734639542" lon="9.00124315925221"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="61" index="74" type="NORMAL" orientation="FORWARD" lat="47.52451648352290" lon="9.00157556664676"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="62" index="75" type="NORMAL" orientation="FORWARD" lat="47.52460822405396" lon="9.00150982113803"/>
+		<TaxiwayPoint parentGroupID="5" groupIndex="63" index="76" type="NORMAL" orientation="FORWARD" lat="47.52394311251698" lon="9.00010220568823"/>
+		<TaxiwayParking parentGroupID="3" index="48" type="RAMP_GA_SMALL" lat="47.52391024195614" lon="9.00034978754262" heading="243.600006" radius="6.000000" name="NONE" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" groupIndex="1" index="50" type="RAMP_GA_SMALL" lat="47.52401457151414" lon="9.00026924197827" heading="243.600006" radius="6.000000" name="NONE" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" groupIndex="2" index="51" type="RAMP_GA_SMALL" lat="47.52401599237042" lon="9.00065122391382" heading="243.600006" radius="6.000000" name="NONE" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" groupIndex="3" index="52" type="RAMP_GA_SMALL" lat="47.52411779315785" lon="9.00057480791423" heading="243.600006" radius="6.000000" name="NONE" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" groupIndex="4" index="53" type="RAMP_GA_SMALL" lat="47.52422266582550" lon="9.00049435910581" heading="243.600006" radius="6.000000" name="NONE" number="5" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" groupIndex="5" index="54" type="RAMP_GA_SMALL" lat="47.52411192531486" lon="9.00093029715889" heading="243.600006" radius="6.000000" name="NONE" number="6" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" groupIndex="6" index="55" type="RAMP_GA_SMALL" lat="47.52421717142600" lon="9.00085096585457" heading="243.600006" radius="6.000000" name="NONE" number="7" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" groupIndex="7" index="56" type="RAMP_GA_SMALL" lat="47.52431828383988" lon="9.00077109153244" heading="243.600006" radius="6.000000" name="NONE" number="8" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" groupIndex="8" index="57" type="RAMP_GA_SMALL" lat="47.52421931796515" lon="9.00122618534528" heading="243.600006" radius="6.000000" name="NONE" number="9" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" groupIndex="9" index="58" type="RAMP_GA_SMALL" lat="47.52432076986469" lon="9.00115559856691" heading="243.600006" radius="6.000000" name="NONE" number="10" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" groupIndex="10" index="59" type="RAMP_GA_SMALL" lat="47.52442558460935" lon="9.00107343289018" heading="243.600006" radius="6.000000" name="NONE" number="11" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" groupIndex="11" index="60" type="RAMP_GA_SMALL" lat="47.52447705454124" lon="9.00146930367886" heading="243.600006" radius="6.000000" name="NONE" number="12" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" groupIndex="12" index="61" type="RAMP_GA_SMALL" lat="47.52458131099536" lon="9.00140181289065" heading="243.600006" radius="6.000000" name="NONE" number="13" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" groupIndex="13" index="77" type="FUEL" lat="47.52411185866830" lon="9.00016649155487" heading="154.243774" radius="5.000000" name="NONE" number="0" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="14" end="48" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="47" end="48" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="40" end="50" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="68" end="50" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="33" end="51" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="63" end="51" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="64" end="52" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="68" end="52" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="65" end="53" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="69" end="53" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="4" end="54" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="63" end="54" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="64" end="55" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="66" end="55" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="65" end="56" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="67" end="56" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="4" end="57" width="0.100000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="71" end="57" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="66" end="58" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="72" end="58" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="67" end="59" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="73" end="59" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="72" end="60" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="74" end="60" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="73" end="61" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="75" end="61" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="42" end="77" width="10.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="69" end="1" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="1" end="2" width="6.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="2" end="3" width="8.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="31" end="4" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="34" end="4" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="67" end="5" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="5" end="6" width="6.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="3" end="7" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="6" end="7" width="8.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="13" end="8" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="46" end="9" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="1" end="10" width="6.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="3" end="11" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="10" end="11" width="8.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="5" end="12" width="6.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="7" end="13" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="12" end="13" width="8.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="0" end="14" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="14" end="15" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="15" end="16" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="47" end="16" width="5.600000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="16" end="17" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="49" end="17" width="5.600000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="17" end="18" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="18" end="19" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="19" end="20" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="36" end="21" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="62" end="22" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="22" end="23" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="70" end="24" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="24" end="25" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="25" end="26" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="26" end="27" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="35" end="28" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="0" end="29" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="15" end="30" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="29" end="30" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="23" end="31" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="4" end="32" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="0" end="33" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="22" end="34" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="27" end="35" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="20" end="36" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="9" end="37" width="8.200000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="37" end="38" width="5.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="38" end="39" width="5.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="76" end="40" width="5.600000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="41" end="42" width="10.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="42" end="43" width="10.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="11" end="44" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="43" end="44" width="10.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="42" end="45" width="10.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="44" end="46" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="45" end="46" width="10.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="40" end="47" width="5.600000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="40" end="49" width="5.600000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="30" end="62" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="62" end="63" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="63" end="64" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="64" end="65" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="32" end="66" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="66" end="67" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="33" end="68" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="68" end="69" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="23" end="70" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="70" end="71" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="71" end="72" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="72" end="73" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="24" end="74" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="74" end="75" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="39" end="76" width="5.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="RUNWAY" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="21" end="28" width="4.800000" weightLimit="0" number="06" designator="NONE" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<Runway lat="47.52453530597779" lon="9.00321527173802" alt="465.42401472479105" heading="63.59999847412109" length="615.00000000000000" width="30.00000000000000" patternAltitude="792.00000000000000" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" transparent="TRUE" number="06" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="RIGHT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+		<TaxiwayPath parentGroupID="4" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="14" end="48" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="1" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="47" end="48" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="2" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="40" end="50" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="3" type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="68" end="50" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="4" type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="33" end="51" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="5" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="63" end="51" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="6" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="64" end="52" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="7" type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="68" end="52" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="8" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="65" end="53" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="9" type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="69" end="53" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="10" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="4" end="54" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="11" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="63" end="54" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="12" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="64" end="55" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="13" type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="66" end="55" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="14" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="65" end="56" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="15" type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="67" end="56" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="16" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="4" end="57" width="0.100000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="17" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="71" end="57" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="18" type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="66" end="58" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="19" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="72" end="58" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="20" type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="67" end="59" width="0.100000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="21" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="73" end="59" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="22" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="72" end="60" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="23" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="74" end="60" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="24" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="73" end="61" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="25" type="PARKING" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="75" end="61" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="26" type="PARKING" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="42" end="77" width="10.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="27" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="69" end="1" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="28" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="1" end="2" width="6.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="29" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="2" end="3" width="8.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="30" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="31" end="4" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="31" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="34" end="4" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="32" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="67" end="5" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="33" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="5" end="6" width="6.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="34" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="3" end="7" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="35" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="6" end="7" width="8.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="36" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="13" end="8" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="37" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="46" end="9" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="38" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="1" end="10" width="6.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="39" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="3" end="11" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="40" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="10" end="11" width="8.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="41" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="5" end="12" width="6.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="42" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="7" end="13" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="43" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="12" end="13" width="8.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="44" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="0" end="14" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="45" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="14" end="15" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="46" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="15" end="16" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="47" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="47" end="16" width="5.600000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="48" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="16" end="17" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="49" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="49" end="17" width="5.600000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="50" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="17" end="18" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="51" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="18" end="19" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="52" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="19" end="20" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="53" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="36" end="21" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="54" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="62" end="22" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="55" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="22" end="23" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="56" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="70" end="24" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="57" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="24" end="25" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="58" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="25" end="26" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="59" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="26" end="27" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="60" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="35" end="28" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="61" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="0" end="29" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="62" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="15" end="30" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="63" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="29" end="30" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="64" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="23" end="31" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="65" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="4" end="32" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="66" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="0" end="33" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="67" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="22" end="34" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="68" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="27" end="35" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="69" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="20" end="36" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="70" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="9" end="37" width="8.200000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="71" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="37" end="38" width="5.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="72" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="38" end="39" width="5.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="73" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="76" end="40" width="5.600000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="74" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="41" end="42" width="10.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="75" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="42" end="43" width="10.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="76" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="11" end="44" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="77" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="43" end="44" width="10.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="78" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="42" end="45" width="10.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="79" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="44" end="46" width="10.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="80" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="45" end="46" width="10.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="81" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="40" end="47" width="5.600000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="82" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="40" end="49" width="5.600000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="83" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="30" end="62" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="84" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="62" end="63" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="85" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="63" end="64" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="86" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="64" end="65" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="87" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="32" end="66" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="88" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="66" end="67" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="89" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="33" end="68" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="90" type="TAXI" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" centerLine="FALSE" start="68" end="69" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="91" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="23" end="70" width="4.800000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="92" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="70" end="71" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="93" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="71" end="72" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="94" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="72" end="73" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="95" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="24" end="74" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="96" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="74" end="75" width="4.800000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="97" type="TAXI" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="39" end="76" width="5.600000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="4" groupIndex="98" type="RUNWAY" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" centerLine="FALSE" start="21" end="28" width="4.800000" weightLimit="0" number="06" designator="NONE" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<Runway parentGroupID="2" lat="47.52453530597779" lon="9.00321527173802" alt="465.42401472479105" heading="63.59999847412109" length="615.00000000000000" width="30.00000000000000" patternAltitude="792.00000000000000" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" transparent="TRUE" number="06" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="RIGHT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<RunwayDeformation alt="465.425812" ratio="0.000000"/>
+			<RunwayDeformation alt="465.437164" ratio="1.000000"/>
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="NONE" edge="NONE"/>
 			<RunwayStart end="PRIMARY" lat="47.52597688915434" lon="9.00746313284521" alt="490.41391073446721" heading="243.60000610351563"/>
 			<RunwayStart end="SECONDARY" lat="47.52326370959079" lon="8.99943645094717" alt="465.41783544979990" heading="63.59999847412109"/>
 		</Runway>
 		<Aprons>
-			<Apron surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="1" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="47.52395705995783" lon="9.00058516973329"/>
 				<Vertex lat="47.52392296336037" lon="9.00048595243075"/>
 				<Vertex lat="47.52403674808426" lon="9.00046493124667"/>
 			</Apron>
-			<Apron surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="1" groupIndex="1" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="1000000001" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="47.52404061340533" lon="9.00014172189538"/>
 				<Vertex lat="47.52404955674860" lon="9.00006138497812"/>
 				<Vertex lat="47.52401727229677" lon="8.99996700721508"/>
@@ -587,178 +1009,218 @@
 				<Vertex lat="47.52466616277988" lon="9.00134831694569"/>
 				<Vertex lat="47.52423402889838" lon="9.00011856257957"/>
 			</Apron>
-			<Apron surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="1" groupIndex="2" surface="{65F03205-81DF-476D-A579-6E3751DAF09A}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="47.52415870766455" lon="9.00116705973259"/>
 				<Vertex lat="47.52412461106709" lon="9.00106784243005"/>
 				<Vertex lat="47.52423839579098" lon="9.00104682124597"/>
 			</Apron>
-			<Apron surface="{94AD3AE4-CF79-4B18-8725-CE4903C0CA2A}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.602359" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="3" surface="{94AD3AE4-CF79-4B18-8725-CE4903C0CA2A}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.602359" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52320175944882" lon="8.99969473226682"/>
 				<Vertex lat="47.52318576395477" lon="8.99964716164834"/>
 				<Vertex lat="47.52321798297938" lon="8.99962355013423"/>
 				<Vertex lat="47.52323397848313" lon="8.99967112077465"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.602359" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="4" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.602359" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52329718915610" lon="8.99958050808826"/>
 				<Vertex lat="47.52329318990709" lon="8.99956861429453"/>
 				<Vertex lat="47.52331735698571" lon="8.99955090357517"/>
 				<Vertex lat="47.52332135623655" lon="8.99956279737301"/>
 			</Apron>
-			<Apron surface="{94AD3AE4-CF79-4B18-8725-CE4903C0CA2A}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="2.031563" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="5" surface="{94AD3AE4-CF79-4B18-8725-CE4903C0CA2A}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="2.031563" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52339404876622" lon="8.99949466206675"/>
 				<Vertex lat="47.52342627152122" lon="8.99947104772070"/>
 				<Vertex lat="47.52344226517440" lon="8.99951861303985"/>
 				<Vertex lat="47.52341004240969" lon="8.99954222736394"/>
 			</Apron>
-			<Apron surface="{D348E47C-BE45-478F-A507-251BB57811B6}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="6" surface="{D348E47C-BE45-478F-A507-251BB57811B6}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52350257763925" lon="9.00030812436105"/>
 				<Vertex lat="47.52347035489505" lon="9.00033173868043"/>
 				<Vertex lat="47.52343036893723" lon="9.00021281987934"/>
 				<Vertex lat="47.52346259165718" lon="9.00018920550508"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="7" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52354429363564" lon="9.00068570173145"/>
 				<Vertex lat="47.52353623718837" lon="9.00069160587626"/>
 				<Vertex lat="47.52352424056780" lon="9.00065592767164"/>
 				<Vertex lat="47.52353229701325" lon="9.00065002352271"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="FALSE" priority="1000000005" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="8" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="FALSE" priority="1000000005" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52368530327210" lon="9.00023894299403"/>
 				<Vertex lat="47.52344363263831" lon="9.00041605093175"/>
 				<Vertex lat="47.52343404131652" lon="9.00038752613819"/>
 				<Vertex lat="47.52367571190666" lon="9.00021041810174"/>
 			</Apron>
-			<Apron surface="{D348E47C-BE45-478F-A507-251BB57811B6}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="9" surface="{D348E47C-BE45-478F-A507-251BB57811B6}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52362345477945" lon="9.00021891654083"/>
 				<Vertex lat="47.52359123203608" lon="9.00024253091426"/>
 				<Vertex lat="47.52355124607944" lon="9.00012361184056"/>
 				<Vertex lat="47.52358346879856" lon="9.00009999741225"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="10" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52377743263537" lon="9.00051471866166"/>
 				<Vertex lat="47.52376937618850" lon="9.00052062283245"/>
 				<Vertex lat="47.52375737956880" lon="9.00048494447003"/>
 				<Vertex lat="47.52376543601385" lon="9.00047904029512"/>
 			</Apron>
-			<Apron surface="{742A676F-FB07-43D9-BF43-C1C0BC4B20DB}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000001" tiling="25.000000" heading="3.602359" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="11" surface="{742A676F-FB07-43D9-BF43-C1C0BC4B20DB}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="1000000001" tiling="25.000000" heading="3.602359" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52387585912267" lon="8.99992046784053"/>
 				<Vertex lat="47.52386386348001" lon="8.99988479230619"/>
 				<Vertex lat="47.52388803859228" lon="8.99986707550784"/>
 				<Vertex lat="47.52390003424040" lon="8.99990275105453"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="12" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52389568437697" lon="9.00173033820315"/>
 				<Vertex lat="47.52388762792985" lon="9.00173624238774"/>
 				<Vertex lat="47.52387563130931" lon="9.00170056394337"/>
 				<Vertex lat="47.52388368775461" lon="9.00169465975466"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
-				<Vertex lat="47.52397901903531" lon="8.99997194478365"/>
-				<Vertex lat="47.52390314550162" lon="9.00002754884100"/>
-				<Vertex lat="47.52385344426423" lon="8.99987973526280"/>
-				<Vertex lat="47.52392931772692" lon="8.99982413104483"/>
-			</Apron>
-			<Apron surface="{43E7E61A-16BF-49B5-AA3F-BE7AD969B1FC}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="14" surface="{43E7E61A-16BF-49B5-AA3F-BE7AD969B1FC}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52396893422532" lon="8.99996744583594"/>
 				<Vertex lat="47.52390641398717" lon="9.00001326394545"/>
 				<Vertex lat="47.52386310033088" lon="8.99988444738637"/>
 				<Vertex lat="47.52392562051804" lon="8.99983862916152"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="13" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="47.52397901903531" lon="8.99997194478365"/>
+				<Vertex lat="47.52390314550162" lon="9.00002754884100"/>
+				<Vertex lat="47.52385344426423" lon="8.99987973526280"/>
+				<Vertex lat="47.52392931772692" lon="8.99982413104483"/>
+			</Apron>
+			<Apron parentGroupID="1" groupIndex="15" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52412889660302" lon="9.00155915613247"/>
 				<Vertex lat="47.52412084015667" lon="9.00156506034327"/>
 				<Vertex lat="47.52410884353655" lon="9.00152938174273"/>
 				<Vertex lat="47.52411689998107" lon="9.00152347752782"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="16" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52424684385211" lon="9.00277522725005"/>
 				<Vertex lat="47.52423878740493" lon="9.00278113147400"/>
 				<Vertex lat="47.52422679078521" lon="9.00274545278901"/>
 				<Vertex lat="47.52423484723059" lon="9.00273954856094"/>
 			</Apron>
-			<Apron surface="{6CF192BF-3687-4616-9972-E4CE0D391131}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="17" surface="{6CF192BF-3687-4616-9972-E4CE0D391131}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Coloration red="72" green="89" blue="56" alpha="255" override="TRUE"/>
 				<Vertex lat="47.52448640398735" lon="9.00110571450711"/>
 				<Vertex lat="47.52430130915187" lon="9.00124136290807"/>
 				<Vertex lat="47.52426013236239" lon="9.00111890036652"/>
 				<Vertex lat="47.52444522705434" lon="9.00098325164092"/>
 			</Apron>
-			<Apron surface="{6CF192BF-3687-4616-9972-E4CE0D391131}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="5.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="18" surface="{6CF192BF-3687-4616-9972-E4CE0D391131}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="5.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Coloration red="72" green="89" blue="56" alpha="255" override="TRUE"/>
 				<Vertex lat="47.52448881099314" lon="9.00111289941968"/>
 				<Vertex lat="47.52430371615979" lon="9.00124854781997"/>
 				<Vertex lat="47.52426012394908" lon="9.00111890166019"/>
 				<Vertex lat="47.52444521863052" lon="9.00098325291623"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="19" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52448027541804" lon="9.00260408481302"/>
 				<Vertex lat="47.52447221897182" lon="9.00260998906310"/>
 				<Vertex lat="47.52446022235272" lon="9.00257431022264"/>
 				<Vertex lat="47.52446827879712" lon="9.00256840596844"/>
 			</Apron>
-			<Apron surface="{6CF192BF-3687-4616-9972-E4CE0D391131}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="5.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="20" surface="{6CF192BF-3687-4616-9972-E4CE0D391131}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="5.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Coloration red="72" green="89" blue="56" alpha="255" override="TRUE"/>
 				<Vertex lat="47.52464015653050" lon="9.00144338470036"/>
 				<Vertex lat="47.52445506170778" lon="9.00157903351018"/>
 				<Vertex lat="47.52441388491560" lon="9.00145657061592"/>
 				<Vertex lat="47.52459897959481" lon="9.00132092148147"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="21" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52461070471183" lon="9.00385597733417"/>
 				<Vertex lat="47.52460264826586" lon="9.00386188159832"/>
 				<Vertex lat="47.52459065164820" lon="9.00382620266968"/>
 				<Vertex lat="47.52459870809236" lon="9.00382029840142"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="22" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52484362009392" lon="9.00368540398494"/>
 				<Vertex lat="47.52483556364887" lon="9.00369130827517"/>
 				<Vertex lat="47.52482356703178" lon="9.00365562919129"/>
 				<Vertex lat="47.52483162347501" lon="9.00364972489693"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="23" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52496182448997" lon="9.00490102720472"/>
 				<Vertex lat="47.52495376804537" lon="9.00490693150876"/>
 				<Vertex lat="47.52494177142744" lon="9.00487125234593"/>
 				<Vertex lat="47.52494982787023" lon="9.00486534803777"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="24" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52519485517664" lon="9.00473037028662"/>
 				<Vertex lat="47.52518679873211" lon="9.00473627461634"/>
 				<Vertex lat="47.52517480211564" lon="9.00470059529438"/>
 				<Vertex lat="47.52518285855835" lon="9.00469469096055"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="25" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52531312534784" lon="9.00594610084923"/>
 				<Vertex lat="47.52530506890302" lon="9.00595200519225"/>
 				<Vertex lat="47.52529307228673" lon="9.00591632578799"/>
 				<Vertex lat="47.52530112872974" lon="9.00591042144085"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="26" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52554617132446" lon="9.00577529463922"/>
 				<Vertex lat="47.52553811487994" lon="9.00578119900826"/>
 				<Vertex lat="47.52552611826443" lon="9.00574551944591"/>
 				<Vertex lat="47.52553417470712" lon="9.00573961507276"/>
 			</Apron>
-			<Apron surface="{94AD3AE4-CF79-4B18-8725-CE4903C0CA2A}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="27" surface="{94AD3AE4-CF79-4B18-8725-CE4903C0CA2A}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="5.173155" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52567819414644" lon="9.00693462584267"/>
 				<Vertex lat="47.52564597139887" lon="9.00695824117256"/>
 				<Vertex lat="47.52562997776012" lon="9.00691067386075"/>
 				<Vertex lat="47.52566220049797" lon="9.00688705850891"/>
 			</Apron>
-			<Apron surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.602359" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="28" surface="{BD42A968-3EAD-47AC-B3AE-E50718E8040B}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="3.602359" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52575467486731" lon="9.00687889981749"/>
 				<Vertex lat="47.52575067562045" lon="9.00686700546945"/>
 				<Vertex lat="47.52577484268623" lon="9.00684929392479"/>
 				<Vertex lat="47.52577884193492" lon="9.00686118827694"/>
 			</Apron>
-			<Apron surface="{94AD3AE4-CF79-4B18-8725-CE4903C0CA2A}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="0.460767" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="1" groupIndex="29" surface="{94AD3AE4-CF79-4B18-8725-CE4903C0CA2A}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" priority="0" tiling="25.000000" heading="0.460767" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="47.52586877210567" lon="9.00673370500439"/>
 				<Vertex lat="47.52588476761485" lon="9.00678127802923"/>
 				<Vertex lat="47.52585254860376" lon="9.00680489072991"/>
 				<Vertex lat="47.52583655310428" lon="9.00675731772703"/>
 			</Apron>
 		</Aprons>
-		<PaintedElements/>
+		<PaintedElements>
+			<PaintedLine groupIndex="1" type="HOLD_SHORT_TAXIWAY" trueAngle="NONE">
+				<Vertex lat="47.52422773317081" lon="9.00018244813822"/>
+				<Vertex lat="47.52420362909153" lon="9.00014909863779"/>
+				<Vertex lat="47.52416869755007" lon="9.00013448107814"/>
+				<Vertex lat="47.52414276133306" lon="9.00014011044186"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="7" type="WIDE_YELLOW" trueAngle="NONE">
+				<Vertex lat="47.52405825974076" lon="8.99995750641678"/>
+				<Vertex lat="47.52408903756730" lon="9.00004670834334"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="2" groupIndex="2" type="HOLD_SHORT_TAXIWAY" trueAngle="NONE">
+				<Vertex lat="47.52418580134614" lon="9.00035175322026"/>
+				<Vertex lat="47.52401697764386" lon="9.00047763888860"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="2" type="HOLD_SHORT_TAXIWAY" trueAngle="NONE">
+				<Vertex lat="47.52416957012693" lon="9.00002628289967"/>
+				<Vertex lat="47.52417298972938" lon="9.00008985935000"/>
+				<Vertex lat="47.52414532076978" lon="9.00013822179793"/>
+				<Vertex lat="47.52411135594834" lon="9.00016197673380"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="6" type="WIDE_YELLOW" trueAngle="NONE">
+				<Vertex lat="47.52418833082179" lon="9.00031995479486"/>
+				<Vertex lat="47.52420453257066" lon="9.00037048353024"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="3" type="HOLD_SHORT_TAXIWAY" trueAngle="NONE">
+				<Vertex lat="47.52462032437550" lon="9.00130653464205"/>
+				<Vertex lat="47.52416977137275" lon="9.00001212612712"/>
+				<Vertex lat="47.52413201608751" lon="8.99998534241032"/>
+				<Vertex lat="47.52409005569331" lon="8.99999045465026"/>
+				<Vertex lat="47.52408058737669" lon="8.99999635476434"/>
+			</PaintedLine>
+			<PaintedLine parentGroupID="2" groupIndex="1" type="HOLD_SHORT_TAXIWAY" trueAngle="NONE">
+				<Vertex lat="47.52439469210496" lon="9.00093535457776"/>
+				<Vertex lat="47.52422149266631" lon="9.00106056774633"/>
+			</PaintedLine>
+			<PaintedLine groupIndex="5" type="WIDE_YELLOW" trueAngle="NONE">
+				<Vertex lat="47.52439390966345" lon="9.00090305008154"/>
+				<Vertex lat="47.52441271451862" lon="9.00095397047322"/>
+			</PaintedLine>
+		</PaintedElements>
 		<ApronEdgeLights/>
 		<Com frequency="119.305" type="UNICOM" name="Lommis"/>
 		<DeleteAirport deleteAllApproaches="TRUE" deleteAllApronLights="TRUE" deleteAllAprons="TRUE" deleteAllFrequencies="TRUE" deleteAllHelipads="TRUE" deleteAllRunways="TRUE" deleteAllStarts="TRUE" deleteAllTaxiways="TRUE" deleteAllBlastFences="TRUE" deleteAllBoundaryFences="TRUE" deleteAllJetways="TRUE" deleteAllControlTowers="TRUE" deleteAllDepartures="TRUE" deleteAllArrivals="TRUE" deleteAllPaintedElements="TRUE" deleteAllLightSupports="TRUE" deleteAllTaxiwaySigns="TRUE" deleteAllILSs="TRUE" deleteAllTerminalWaypoints="TRUE" deleteAllTerminalNDBs="TRUE"/>
