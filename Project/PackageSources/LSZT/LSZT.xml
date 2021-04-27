@@ -245,10 +245,6 @@
 		<LibraryObject name="{AB45BDA6-75B6-47D0-878C-E67B6EDD8EC3}" scale="0.500000"/>
 	</SceneryObject>
 	<!--SceneryObject name: FenceMetallic_1m-->
-	<SceneryObject lat="47.52312040497709" lon="9.00000177509039" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="157.000012" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
-	</SceneryObject>
-	<!--SceneryObject name: FenceMetallic_1m-->
 	<SceneryObject lat="47.52383667546637" lon="8.99927390857813" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="157.000012" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C747BE4B-DA8E-4F99-A17A-50E6DFCF8F89}" scale="1.000000"/>
 	</SceneryObject>
@@ -1181,7 +1177,7 @@
 			</Apron>
 		</Aprons>
 		<PaintedElements>
-			<PaintedLine groupIndex="1" type="HOLD_SHORT_TAXIWAY" trueAngle="NONE">
+			<PaintedLine groupIndex="1" type="DEFAULT" trueAngle="NONE" surface="{30ACCB5D-9206-4F83-BA4D-D80A9CD310D1}">
 				<Vertex lat="47.52422773317081" lon="9.00018244813822"/>
 				<Vertex lat="47.52420362909153" lon="9.00014909863779"/>
 				<Vertex lat="47.52416869755007" lon="9.00013448107814"/>
@@ -1191,13 +1187,13 @@
 				<Vertex lat="47.52405825974076" lon="8.99995750641678"/>
 				<Vertex lat="47.52408903756730" lon="9.00004670834334"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="2" groupIndex="2" type="HOLD_SHORT_TAXIWAY" trueAngle="NONE">
+			<PaintedLine parentGroupID="2" groupIndex="1" type="DEFAULT" trueAngle="NONE" surface="{30ACCB5D-9206-4F83-BA4D-D80A9CD310D1}">
 				<Vertex lat="47.52418580134614" lon="9.00035175322026"/>
 				<Vertex lat="47.52401697764386" lon="9.00047763888860"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="2" type="HOLD_SHORT_TAXIWAY" trueAngle="NONE">
+			<PaintedLine groupIndex="2" type="DEFAULT" trueAngle="NONE" surface="{30ACCB5D-9206-4F83-BA4D-D80A9CD310D1}">
 				<Vertex lat="47.52416957012693" lon="9.00002628289967"/>
-				<Vertex lat="47.52417298972938" lon="9.00008985935000"/>
+				<Vertex lat="47.52417589707349" lon="9.00008447445312"/>
 				<Vertex lat="47.52414532076978" lon="9.00013822179793"/>
 				<Vertex lat="47.52411135594834" lon="9.00016197673380"/>
 			</PaintedLine>
@@ -1205,14 +1201,14 @@
 				<Vertex lat="47.52418833082179" lon="9.00031995479486"/>
 				<Vertex lat="47.52420453257066" lon="9.00037048353024"/>
 			</PaintedLine>
-			<PaintedLine groupIndex="3" type="HOLD_SHORT_TAXIWAY" trueAngle="NONE">
+			<PaintedLine groupIndex="3" type="DEFAULT" trueAngle="NONE" surface="{30ACCB5D-9206-4F83-BA4D-D80A9CD310D1}">
 				<Vertex lat="47.52462032437550" lon="9.00130653464205"/>
 				<Vertex lat="47.52416977137275" lon="9.00001212612712"/>
 				<Vertex lat="47.52413201608751" lon="8.99998534241032"/>
 				<Vertex lat="47.52409005569331" lon="8.99999045465026"/>
 				<Vertex lat="47.52408058737669" lon="8.99999635476434"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="2" groupIndex="1" type="HOLD_SHORT_TAXIWAY" trueAngle="NONE">
+			<PaintedLine parentGroupID="2" groupIndex="2" type="DEFAULT" trueAngle="NONE" surface="{30ACCB5D-9206-4F83-BA4D-D80A9CD310D1}">
 				<Vertex lat="47.52439469210496" lon="9.00093535457776"/>
 				<Vertex lat="47.52422149266631" lon="9.00106056774633"/>
 			</PaintedLine>
