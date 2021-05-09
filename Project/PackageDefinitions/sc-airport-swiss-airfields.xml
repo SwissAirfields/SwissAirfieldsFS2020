@@ -82,6 +82,14 @@
 			<AssetDir>PackageSources\SimObjects\misc\LSZI-tee\</AssetDir>
 			<OutputDir>SimObjects\misc\LSZI-tee\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="SimObjects-LSZN-signals">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\misc\LSZN-signals\</AssetDir>
+			<OutputDir>SimObjects\misc\LSZN-signals\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="SimObjects-LSZQ-tee">
 			<Type>SimObject</Type>
 			<Flags>
@@ -224,6 +232,14 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\LSZV\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="airport-lszn-hausen_am_albis">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZN\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
