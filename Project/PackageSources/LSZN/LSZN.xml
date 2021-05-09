@@ -52,6 +52,9 @@
 	<SceneryObject lat="47.23780112575466" lon="8.51491928071893" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-179.044721" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{458BB4D2-7ED9-40D1-914C-EF55832EC4FA}" scale="1.180000"/>
 	</SceneryObject>
+	<SceneryObject lat="47.23809583332878" lon="8.51425138888889" alt="0.00000000000000" pitch="0.001188" bank="-0.001188" heading="91.149954" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="LSZN-signals" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: Traffic_Car01_Blue-->
 	<SceneryObject lat="47.23782075189717" lon="8.51406507125196" alt="0.00000000000000" pitch="0.000376" bank="-0.000376" heading="92.073586" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{0C89EA09-D8B5-4D73-9887-1D245151B5CF}" scale="1.000000"/>
@@ -60,7 +63,7 @@
 	<SceneryObject lat="47.23784640518964" lon="8.51406903880524" alt="0.00000000000000" pitch="0.000444" bank="-0.000444" heading="90.918137" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{663C283E-5CB5-4E57-AFC1-0900245DE681}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject lat="47.23928083332876" lon="8.51561055555555" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject lat="47.23928083332601" lon="8.51561055555555" alt="0.00000000000000" pitch="0.000041" bank="-0.000041" heading="-0.000007" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
 	</SceneryObject>
 	<ExclusionRectangle latitudeMinimum="47.23837012213804" latitudeMaximum="47.23851854131887" longitudeMinimum="8.51085053232361" longitudeMaximum="8.51118407068733" excludeAllObjects="TRUE"/>
@@ -137,10 +140,10 @@
 		<TaxiwayPoint parentGroupID="2" groupIndex="42" index="66" type="NORMAL" orientation="FORWARD" lat="47.23818844698300" lon="8.51332360863411"/>
 		<TaxiwayPoint parentGroupID="2" groupIndex="43" index="67" type="NORMAL" orientation="FORWARD" lat="47.23818627790509" lon="8.51352523787722"/>
 		<TaxiwayParking parentGroupID="3" groupIndex="7" index="0" type="FUEL" lat="47.23799869022270" lon="8.51543071415008" heading="8.000003" radius="6.000000" name="NONE" number="10" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking parentGroupID="3" index="1" type="RAMP_GA_SMALL" lat="47.23803701097792" lon="8.51525116027170" heading="179.550323" radius="5.000000" name="NONE" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking displayName="Parking RAMP_GA_SMALL (NONE-4-NONE) (copy)" parentGroupID="3" groupIndex="6" index="2" type="RAMP_GA_SMALL" lat="47.23803918407526" lon="8.51502861190379" heading="179.554626" radius="5.000000" name="NONE" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking displayName="Parking RAMP_GA_SMALL (NONE-4-NONE) (copy 1)" parentGroupID="3" groupIndex="5" index="3" type="RAMP_GA_SMALL" lat="47.23803915843218" lon="8.51478081563990" heading="179.967056" radius="5.000000" name="NONE" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking displayName="Parking RAMP_GA_SMALL (NONE-4-NONE) (copy 2)" parentGroupID="3" groupIndex="1" index="4" type="RAMP_GA_SMALL" lat="47.23804375486059" lon="8.51450992619117" heading="178.769806" radius="5.000000" name="NONE" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="3" index="1" type="RAMP_GA_SMALL" lat="47.23803150750790" lon="8.51525116027168" heading="179.550323" radius="5.000000" name="NONE" number="4" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="Parking RAMP_GA_SMALL (NONE-4-NONE) (copy)" parentGroupID="3" groupIndex="6" index="2" type="RAMP_GA_SMALL" lat="47.23803360626311" lon="8.51502861190392" heading="179.554626" radius="5.000000" name="NONE" number="3" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="Parking RAMP_GA_SMALL (NONE-4-NONE) (copy 1)" parentGroupID="3" groupIndex="5" index="3" type="RAMP_GA_SMALL" lat="47.23803403917291" lon="8.51478081563997" heading="179.967056" radius="5.000000" name="NONE" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking displayName="Parking RAMP_GA_SMALL (NONE-4-NONE) (copy 2)" parentGroupID="3" groupIndex="1" index="4" type="RAMP_GA_SMALL" lat="47.23803860306079" lon="8.51450992619104" heading="178.769806" radius="5.000000" name="NONE" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking displayName="Parking RAMP_GA_SMALL (NONE-4-NONE) (copy 3)" parentGroupID="3" groupIndex="4" index="68" type="RAMP_GA_SMALL" lat="47.23808205839615" lon="8.51372086684651" heading="2.293284" radius="5.000000" name="NONE" number="5" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking displayName="Parking RAMP_GA_SMALL (NONE-4-NONE) (copy 4)" parentGroupID="3" groupIndex="2" index="69" type="RAMP_GA_SMALL" lat="47.23807911870976" lon="8.51351987880079" heading="1.950647" radius="5.000000" name="NONE" number="6" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking displayName="Parking RAMP_GA_SMALL (NONE-4-NONE) (copy 5)" parentGroupID="3" groupIndex="3" index="70" type="RAMP_GA_SMALL" lat="47.23807620174272" lon="8.51332044544913" heading="1.128388" radius="5.000000" name="NONE" number="7" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
@@ -238,7 +241,7 @@
 			<RunwayStart end="PRIMARY" lat="47.23865748051744" lon="8.51116286983188" alt="583.71019466128200" heading="91.14995574951172"/>
 			<RunwayStart end="SECONDARY" lat="47.23853636452353" lon="8.52002189562494" alt="583.71158554032445" heading="271.14996337890625"/>
 		</Runway>
-		<Runway displayName="Runway 09 (copy)" parentGroupID="1" lat="47.23899788477954" lon="8.51556544577806" alt="583.71124561317265" heading="91.14995574951172" length="700.00000000000000" width="30.00000000000000" patternAltitude="780.00000000000000" surface="{63F42C85-7DE8-44C6-B98C-E9BFB72C7B24}" transparent="TRUE" number="09" designator="L" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="RIGHT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="FALSE" excludeVegetationAround="TRUE">
+		<Runway displayName="Runway 09 (copy)" parentGroupID="1" lat="47.23899788477954" lon="8.51556544577806" alt="583.71124561317265" heading="91.14995574951172" length="700.00000000000000" width="30.00000000000000" patternAltitude="780.00000000000000" surface="{8862C0D8-5ADB-4BA8-952F-7D2E199CE9AC}" transparent="TRUE" number="09" designator="L" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="RIGHT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="FALSE" excludeVegetationAround="TRUE">
 			<RunwayDeformation alt="586.900024" ratio="0.000000"/>
 			<RunwayDeformation alt="587.299988" ratio="0.257143"/>
 			<RunwayDeformation alt="587.814880" ratio="0.517638"/>
@@ -454,7 +457,7 @@
 				<Vertex lat="47.23811027777416" lon="8.51605138888889"/>
 			</Apron>
 			<Apron parentGroupID="5" groupIndex="12" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="4" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="FALSE" excludeVegetationInside="FALSE" isRectangle="FALSE">
-				<Coloration red="89" green="87" blue="84" alpha="255" override="TRUE"/>
+				<Coloration red="84" green="81" blue="75" alpha="255" override="TRUE"/>
 				<Vertex lat="47.23801583332971" lon="8.51415694444444"/>
 				<Vertex lat="47.23811527777413" lon="8.51415527777778"/>
 				<Vertex lat="47.23811166666302" lon="8.51437250000000"/>
