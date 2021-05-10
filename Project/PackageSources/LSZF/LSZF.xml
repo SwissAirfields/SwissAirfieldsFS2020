@@ -30,10 +30,6 @@
 		<LibraryObject name="{A44FB98A-F3B4-49D5-9887-29E2B547F267}" scale="0.900000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Gen_Hangar09-->
-	<SceneryObject lat="47.44474972373029" lon="8.23149465905720" alt="0.00000000000000" pitch="0.007814" bank="-0.007527" heading="168.929703" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{A44FB98A-F3B4-49D5-9887-29E2B547F267}" scale="0.950000"/>
-	</SceneryObject>
-	<!--SceneryObject name: Gen_Hangar09-->
 	<SceneryObject lat="47.44488791397731" lon="8.23271507139772" alt="0.00000000000000" pitch="0.001557" bank="-0.001557" heading="142.746022" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{A44FB98A-F3B4-49D5-9887-29E2B547F267}" scale="0.800000"/>
 	</SceneryObject>
@@ -84,6 +80,10 @@
 	<SceneryObject lat="47.44407514733441" lon="8.22979765559611" alt="0.63266610892185" pitch="0.000772" bank="-0.000772" heading="-9.709093" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{2E2F3C33-6129-48C8-A332-D5A987BD57D2}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: lszf-werkstatt-->
+	<SceneryObject lat="47.44457751117785" lon="8.23109120316445" alt="0.03748226910830" pitch="0.001168" bank="-0.001544" heading="168.500002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{F7D7B838-A681-41E9-C2E8-16B831F5D6B4}" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: lszf-zaun-restaurant-->
 	<SceneryObject lat="47.44363143867565" lon="8.22871067405824" alt="-0.91557083694238" pitch="0.001489" bank="-0.001489" heading="170.813769" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{FA4B9869-E3A4-4314-7295-AC4B9ABDD0FC}" scale="1.000000"/>
@@ -100,7 +100,7 @@
 	<SceneryObject lat="47.44360782270002" lon="8.22872645515422" alt="0.00000000000000" pitch="0.001059" bank="-0.001059" heading="174.165152" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{8D0AEE1D-7EDF-4B24-23F8-DA5824495540}" scale="1.000000"/>
 	</SceneryObject>
-	<Group name="Group 0" displayName="Fence">
+	<Group displayName="Fence">
 		<!--SceneryObject name: lszf-fence-high-corner-->
 		<SceneryObject lat="47.44472162182080" lon="8.22973251946755" alt="0.00000000000000" pitch="0.001544" bank="-0.002828" heading="77.642141" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 			<LibraryObject name="{DD8372F4-D521-4892-E333-9F419FCCE50A}" scale="1.000000"/>
@@ -158,7 +158,7 @@
 			<LibraryObject name="{EBA55613-A5D0-4736-FFB4-691A4D95E4AC}" scale="1.000000"/>
 		</SceneryObject>
 	</Group>
-	<Airport region="Europe" country="Switzerland" state="Aargau" city="Lupfig" name="Birrfeld" ident="LSZF" lat="47.44368072681748" lon="8.23401510317510" alt="400.65006948914379" magvar="3.000000" trafficScalar="1.000000" airportTestRadius="1000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
+	<Airport region="Europe" country="Switzerland" state="Aargau" city="Lupfig" name="Birrfeld" ident="LSZF" lat="47.44368072681748" lon="8.23401510317510" alt="400.65006948914379" magvar="3.000000" airportTestRadius="1000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
 		<AirportGroup displayName="Runway" groupID="1"/>
 		<AirportGroup displayName="Helipad" groupID="2" groupIndex="1"/>
 		<AirportGroup displayName="TaxiwayPoint" groupID="3" groupIndex="2"/>
