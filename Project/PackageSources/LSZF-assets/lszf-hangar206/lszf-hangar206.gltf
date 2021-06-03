@@ -9,15 +9,15 @@
         "version" : "2.0"
     },
     "extensionsUsed" : [
-        "ASOBO_normal_map_convention"
+        "ASOBO_normal_map_convention",
+        "ASOBO_tags"
     ],
     "scene" : 0,
     "scenes" : [
         {
             "name" : "Scene",
             "nodes" : [
-                0,
-                1
+                0
             ]
         }
     ],
@@ -25,16 +25,6 @@
         {
             "mesh" : 0,
             "name" : "Plane.016"
-        },
-        {
-            "mesh" : 1,
-            "name" : "Plane.017",
-            "rotation" : [
-                0,
-                -0.0011632114183157682,
-                0,
-                1
-            ]
         }
     ],
     "materials" : [
@@ -79,14 +69,42 @@
                 0,
                 0
             ],
-            "name" : "CC0_wood_planks",
+            "name" : "generic_roof_ethernit",
             "normalTexture" : {
                 "index" : 1,
+                "scale" : 6.490000247955322,
                 "texCoord" : 0
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 2,
+                    "texCoord" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extensions" : {
+                "ASOBO_tags" : {
+                    "tags" : [
+                        "Road"
+                    ]
+                }
+            },
+            "name" : "CC0_Hangarboden",
+            "normalTexture" : {
+                "index" : 3,
+                "texCoord" : 0
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 4,
                     "texCoord" : 0
                 },
                 "metallicFactor" : 0,
@@ -115,21 +133,24 @@
                     },
                     "indices" : 7,
                     "material" : 1
-                }
-            ]
-        },
-        {
-            "name" : "Plane.025",
-            "primitives" : [
+                },
                 {
                     "attributes" : {
                         "POSITION" : 8,
                         "NORMAL" : 9,
-                        "TANGENT" : 10,
-                        "TEXCOORD_0" : 11
+                        "TEXCOORD_0" : 10
                     },
-                    "indices" : 12,
+                    "indices" : 11,
                     "material" : 2
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 12,
+                        "NORMAL" : 13,
+                        "TEXCOORD_0" : 14
+                    },
+                    "indices" : 15,
+                    "material" : 3
                 }
             ]
         }
@@ -143,6 +164,12 @@
         },
         {
             "source" : 2
+        },
+        {
+            "source" : 3
+        },
+        {
+            "source" : 4
         }
     ],
     "images" : [
@@ -152,28 +179,38 @@
             "uri" : "lszf_hangar206_2K_albedo.png"
         },
         {
-            "mimeType" : "image/jpeg",
-            "name" : "generic_wood_plaks_1K_normal",
-            "uri" : "generic_wood_plaks_1K_normal.jpg"
+            "mimeType" : "image/png",
+            "name" : "generic_roof_metal_1K_albedo_normal",
+            "uri" : "generic_roof_metal_1K_albedo_normal.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "generic_roof_metal_1K_albedo",
+            "uri" : "generic_roof_metal_1K_albedo.png"
         },
         {
             "mimeType" : "image/jpeg",
-            "name" : "generic_wood_plaks_1K_albedo",
-            "uri" : "generic_wood_plaks_1K_albedo.jpg"
+            "name" : "generic-concrete_3_1K_normal",
+            "uri" : "generic-concrete_3_1K_normal.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "generic-concrete_3_1K_diffuse",
+            "uri" : "generic-concrete_3_1K_diffuse.jpg"
         }
     ],
     "accessors" : [
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 85,
+            "count" : 126,
             "max" : [
                 0.20212848484516144,
                 4.817797660827637,
-                0.39846593141555786
+                0.4040403962135315
             ],
             "min" : [
-                -86.92816162109375,
+                -87.12601470947266,
                 -6.681375452899374e-10,
                 -11.353092193603516
             ],
@@ -182,28 +219,96 @@
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 85,
+            "count" : 126,
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 85,
+            "count" : 126,
             "type" : "VEC2"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 129,
+            "count" : 192,
             "type" : "SCALAR"
         },
         {
             "bufferView" : 4,
             "componentType" : 5126,
-            "count" : 327,
+            "count" : 134,
+            "max" : [
+                0.20212848484516144,
+                4.817797660827637,
+                0.4040403962135315
+            ],
+            "min" : [
+                -87.1281509399414,
+                0,
+                -11.74839973449707
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 134,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 134,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 246,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 61,
+            "max" : [
+                0.20212848484516144,
+                4.817797660827637,
+                0.4040403962135315
+            ],
+            "min" : [
+                -87.1281509399414,
+                2.9517407417297363,
+                -11.74839973449707
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 61,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 61,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5123,
+            "count" : 93,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 12,
+            "componentType" : 5126,
+            "count" : 112,
             "max" : [
                 0.5499952435493469,
-                4.817797660827637,
+                4.454063415527344,
                 0.5055062770843506
             ],
             "min" : [
@@ -214,134 +319,109 @@
             "type" : "VEC3"
         },
         {
-            "bufferView" : 5,
+            "bufferView" : 13,
             "componentType" : 5126,
-            "count" : 327,
+            "count" : 112,
             "type" : "VEC3"
         },
         {
-            "bufferView" : 6,
+            "bufferView" : 14,
             "componentType" : 5126,
-            "count" : 327,
+            "count" : 112,
             "type" : "VEC2"
         },
         {
-            "bufferView" : 7,
+            "bufferView" : 15,
             "componentType" : 5123,
-            "count" : 537,
-            "type" : "SCALAR"
-        },
-        {
-            "bufferView" : 8,
-            "componentType" : 5126,
-            "count" : 896,
-            "max" : [
-                -0.11640451848506927,
-                4.500617504119873,
-                0.2361394762992859
-            ],
-            "min" : [
-                -86.7743148803711,
-                2.373502731323242,
-                -11.335220336914062
-            ],
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 9,
-            "componentType" : 5126,
-            "count" : 896,
-            "type" : "VEC3"
-        },
-        {
-            "bufferView" : 10,
-            "componentType" : 5126,
-            "count" : 896,
-            "type" : "VEC4"
-        },
-        {
-            "bufferView" : 11,
-            "componentType" : 5126,
-            "count" : 896,
-            "type" : "VEC2"
-        },
-        {
-            "bufferView" : 12,
-            "componentType" : 5123,
-            "count" : 1344,
+            "count" : 168,
             "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 1020,
+            "byteLength" : 1512,
             "byteOffset" : 0
         },
         {
             "buffer" : 0,
-            "byteLength" : 1020,
-            "byteOffset" : 1020
+            "byteLength" : 1512,
+            "byteOffset" : 1512
         },
         {
             "buffer" : 0,
-            "byteLength" : 680,
-            "byteOffset" : 2040
+            "byteLength" : 1008,
+            "byteOffset" : 3024
         },
         {
             "buffer" : 0,
-            "byteLength" : 258,
-            "byteOffset" : 2720
+            "byteLength" : 384,
+            "byteOffset" : 4032
         },
         {
             "buffer" : 0,
-            "byteLength" : 3924,
-            "byteOffset" : 2980
+            "byteLength" : 1608,
+            "byteOffset" : 4416
         },
         {
             "buffer" : 0,
-            "byteLength" : 3924,
-            "byteOffset" : 6904
+            "byteLength" : 1608,
+            "byteOffset" : 6024
         },
         {
             "buffer" : 0,
-            "byteLength" : 2616,
-            "byteOffset" : 10828
+            "byteLength" : 1072,
+            "byteOffset" : 7632
         },
         {
             "buffer" : 0,
-            "byteLength" : 1074,
-            "byteOffset" : 13444
+            "byteLength" : 492,
+            "byteOffset" : 8704
         },
         {
             "buffer" : 0,
-            "byteLength" : 10752,
-            "byteOffset" : 14520
+            "byteLength" : 732,
+            "byteOffset" : 9196
         },
         {
             "buffer" : 0,
-            "byteLength" : 10752,
-            "byteOffset" : 25272
+            "byteLength" : 732,
+            "byteOffset" : 9928
         },
         {
             "buffer" : 0,
-            "byteLength" : 14336,
-            "byteOffset" : 36024
+            "byteLength" : 488,
+            "byteOffset" : 10660
         },
         {
             "buffer" : 0,
-            "byteLength" : 7168,
-            "byteOffset" : 50360
+            "byteLength" : 186,
+            "byteOffset" : 11148
         },
         {
             "buffer" : 0,
-            "byteLength" : 2688,
-            "byteOffset" : 57528
+            "byteLength" : 1344,
+            "byteOffset" : 11336
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1344,
+            "byteOffset" : 12680
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 896,
+            "byteOffset" : 14024
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 336,
+            "byteOffset" : 14920
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 60216,
+            "byteLength" : 15256,
             "uri" : "lszf-hangar206.bin"
         }
     ]
