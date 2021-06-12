@@ -10,7 +10,8 @@
     },
     "extensionsUsed" : [
         "ASOBO_normal_map_convention",
-        "ASOBO_material_day_night_switch"
+        "ASOBO_material_day_night_switch",
+        "ASOBO_macro_light"
     ],
     "scene" : 0,
     "scenes" : [
@@ -31,7 +32,8 @@
             },
             "name" : "Scene",
             "nodes" : [
-                0
+                0,
+                1
             ]
         }
     ],
@@ -62,6 +64,37 @@
                 24.763797760009766,
                 0,
                 -1.1365172863006592
+            ]
+        },
+        {
+            "extensions" : {
+                "ASOBO_macro_light" : {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 9.890000343322754,
+                    "cone_angle" : 360,
+                    "has_simmetry" : false,
+                    "flash_frequency" : 0,
+                    "flash_duration" : 0,
+                    "flash_phase" : 0,
+                    "rotation_speed" : 0,
+                    "day_night_cycle" : false
+                }
+            },
+            "name" : "Sun",
+            "rotation" : [
+                0.5590378642082214,
+                0.36429011821746826,
+                0.4959484934806824,
+                0.5557018518447876
+            ],
+            "translation" : [
+                -147.76678466796875,
+                233.50396728515625,
+                -48.02954864501953
             ]
         }
     ],
@@ -935,6 +968,63 @@
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
             }
+        },
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "extras" : {
+                "msfs_material_mode" : 1,
+                "msfs_albedo_texture" : {
+                    "name" : "BIRRFELD TAFEL.jpg.001",
+                    "type" : "Image"
+                },
+                "msfs_show_tint" : 1,
+                "msfs_show_sss_color" : 0,
+                "msfs_show_glass_parameters" : 0,
+                "msfs_show_decal_parameters" : 0,
+                "msfs_show_fresnel_parameters" : 0,
+                "msfs_show_parallax_parameters" : 0,
+                "msfs_show_geo_decal_parameters" : 0,
+                "msfs_show_albedo" : 1,
+                "msfs_show_metallic" : 1,
+                "msfs_show_normal" : 1,
+                "msfs_show_emissive" : 1,
+                "msfs_show_detail_albedo" : 1,
+                "msfs_show_detail_metallic" : 1,
+                "msfs_show_detail_normal" : 1,
+                "msfs_show_blend_mask" : 1,
+                "msfs_show_anisotropic_direction" : 0,
+                "msfs_show_clearcoat" : 0,
+                "msfs_show_behind_glass" : 0,
+                "msfs_show_blend_mode" : 1,
+                "msfs_show_draworder" : 1,
+                "msfs_show_no_cast_shadow" : 1,
+                "msfs_show_double_sided" : 1,
+                "msfs_show_responsive_aa" : 0,
+                "msfs_show_day_night_cycle" : 1,
+                "msfs_show_collision_material" : 1,
+                "msfs_show_road_material" : 1,
+                "msfs_show_ao_use_uv2" : 1,
+                "msfs_show_uv_clamp" : 1,
+                "msfs_show_alpha_cutoff" : 1,
+                "msfs_show_blend_threshold" : 1,
+                "msfs_roughness_scale" : 0.40000003576278687,
+                "msfs_metallic_scale" : 0,
+                "msfs_normal_scale" : 0,
+                "msfs_alpha_cutoff" : 0.550000011920929
+            },
+            "name" : "TAFEL",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 26,
+                    "texCoord" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
         }
     ],
     "meshes" : [
@@ -1148,6 +1238,22 @@
                     },
                     "indices" : 142,
                     "material" : 12
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 143,
+                        "NORMAL" : 144,
+                        "TEXCOORD_0" : 145,
+                        "TEXCOORD_1" : 146,
+                        "TEXCOORD_2" : 147,
+                        "TEXCOORD_3" : 148,
+                        "TEXCOORD_4" : 149,
+                        "TEXCOORD_5" : 150,
+                        "TEXCOORD_6" : 151,
+                        "TEXCOORD_7" : 152
+                    },
+                    "indices" : 153,
+                    "material" : 13
                 }
             ]
         }
@@ -1230,6 +1336,9 @@
         },
         {
             "source" : 23
+        },
+        {
+            "source" : 24
         }
     ],
     "images" : [
@@ -1352,6 +1461,11 @@
             "mimeType" : "image/jpeg",
             "name" : "Metal011_2K_Color",
             "uri" : "Metal011_2K_Color.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "BIRRFELD TAFEL",
+            "uri" : "BIRRFELD TAFEL.jpg"
         }
     ],
     "accessors" : [
@@ -2342,6 +2456,82 @@
             "componentType" : 5123,
             "count" : 792,
             "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 143,
+            "componentType" : 5126,
+            "count" : 8,
+            "max" : [
+                -7.999854564666748,
+                4.025532245635986,
+                11.113241195678711
+            ],
+            "min" : [
+                -10.111616134643555,
+                3.1569159030914307,
+                -13.848295211791992
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 144,
+            "componentType" : 5126,
+            "count" : 8,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 145,
+            "componentType" : 5126,
+            "count" : 8,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 146,
+            "componentType" : 5126,
+            "count" : 8,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 147,
+            "componentType" : 5126,
+            "count" : 8,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 148,
+            "componentType" : 5126,
+            "count" : 8,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 149,
+            "componentType" : 5126,
+            "count" : 8,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 150,
+            "componentType" : 5126,
+            "count" : 8,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 151,
+            "componentType" : 5126,
+            "count" : 8,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 152,
+            "componentType" : 5126,
+            "count" : 8,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 153,
+            "componentType" : 5123,
+            "count" : 12,
+            "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
@@ -3059,11 +3249,66 @@
             "buffer" : 0,
             "byteLength" : 1584,
             "byteOffset" : 764144
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 96,
+            "byteOffset" : 765728
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 96,
+            "byteOffset" : 765824
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 64,
+            "byteOffset" : 765920
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 64,
+            "byteOffset" : 765984
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 64,
+            "byteOffset" : 766048
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 64,
+            "byteOffset" : 766112
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 64,
+            "byteOffset" : 766176
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 64,
+            "byteOffset" : 766240
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 64,
+            "byteOffset" : 766304
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 64,
+            "byteOffset" : 766368
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24,
+            "byteOffset" : 766432
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 765728,
+            "byteLength" : 766456,
             "uri" : "lszf-restaurant.bin"
         }
     ]
