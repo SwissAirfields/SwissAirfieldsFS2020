@@ -1,13 +1,0 @@
-<?xml version="1.0" ?>
-	<ModelInfo guid="{7f9021f7-257a-4f93-9141-7117b158272c}" version="1.1">				<LODS>			<LOD ModelFile="LSZV-tee.gltf"/>		</LODS>		
-		<Animation guid="c8fda5f7-4278-40c1-9067-ef1cb92f3694" length="1" name="flip" type="Sim" typeParam="AutoPlay" typeParam2="flip"/>		
-		<PartInfo>
-			<Name>flip</Name>
-			<AnimLength>1</AnimLength>
-			<Animation>
-				<Parameter>
-					<Code>					77.25 (A:AMBIENT WIND DIRECTION, Degrees) - 450 + 360 % 180 &lt;					if{ 1 }					els{ 0 }					</Code>
-				</Parameter>
-			</Animation>
-		</PartInfo>
-	</ModelInfo>
