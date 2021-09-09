@@ -42,6 +42,14 @@
 			<AssetDir>PackageSources\LSZF-assets</AssetDir>
 			<OutputDir>scenery\LSZF-Assets\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="LSPH-Assets">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSPH-assets</AssetDir>
+			<OutputDir>scenery\LSPH-Assets\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="SimObject-LSGE-tee">
 			<Type>SimObject</Type>
 			<Flags>
