@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+	<ModelInfo guid="{7bc3e325-f3c3-4557-b953-61c76b741be5}" version="1.1">				<LODS>			<LOD ModelFile="LSZI-tee.gltf"/>		</LODS>		
+		<Animation guid="8eebb0b7-6f9f-4d4b-a5f3-856a9e3259a6" length="1" name="flip" type="Sim" typeParam="AutoPlay" typeParam2="flip"/>		
+		<PartInfo>
+			<Name>flip</Name>
+			<AnimLength>1</AnimLength>
+			<Animation>
+				<Parameter>
+					<Code>					74.7 (A:AMBIENT WIND DIRECTION, Degrees) - 450 + 360 % 180 &lt;					if{ 1 }					els{ 0 }					</Code>
+				</Parameter>
+			</Animation>
+		</PartInfo>
+	</ModelInfo>
