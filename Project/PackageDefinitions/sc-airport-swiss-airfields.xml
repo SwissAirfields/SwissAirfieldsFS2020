@@ -31,8 +31,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\LSZF-assets</AssetDir>
+			<AssetDir>PackageSources\LSZF-assets\</AssetDir>
 			<OutputDir>scenery\LSZF-Assets\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="LSZI-Aerial">
+			<Type>CGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZI-aerial\</AssetDir>
+			<OutputDir>CGL</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="SimObject-LSGE-tee">
 			<Type>SimObject</Type>
@@ -47,7 +55,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\SimObjects\misc\LSGT-tee</AssetDir>
+			<AssetDir>PackageSources\SimObjects\misc\LSGT-tee\</AssetDir>
 			<OutputDir>SimObjects\misc\LSGT-tee\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="SimObjects-LSGY-tee">
@@ -210,6 +218,14 @@
 			<AssetDir>PackageSources\LSZK\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="airport-lszn-hausen_am_albis">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZN\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="airport-lszq-bressaucourt">
 			<Type>BGL</Type>
 			<Flags>
@@ -232,14 +248,6 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\LSZV\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
-		</AssetGroup>
-		<AssetGroup Name="airport-lszn-hausen_am_albis">
-			<Type>BGL</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageSources\LSZN\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
