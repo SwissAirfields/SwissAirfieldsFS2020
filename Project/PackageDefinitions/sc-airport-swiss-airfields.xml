@@ -50,6 +50,14 @@
 			<AssetDir>PackageSources\LSPH-assets</AssetDir>
 			<OutputDir>scenery\LSPH-Assets\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="LSZI-Aerial">
+			<Type>CGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\LSZI-aerial\</AssetDir>
+			<OutputDir>CGL</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="SimObject-LSGE-tee">
 			<Type>SimObject</Type>
 			<Flags>
