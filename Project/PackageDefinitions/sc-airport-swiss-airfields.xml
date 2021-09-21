@@ -39,7 +39,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\LSZF-assets</AssetDir>
+			<AssetDir>PackageSources\LSZF-assets\</AssetDir>
 			<OutputDir>scenery\LSZF-Assets\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="LSPH-Assets">
@@ -66,12 +66,20 @@
 			<AssetDir>PackageSources\SimObjects\misc\LSGE-tee\</AssetDir>
 			<OutputDir>SimObjects\misc\LSGE-tee\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="SimObject-LSZF-RW-Designator">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\misc\LSZF-rw-designator</AssetDir>
+			<OutputDir>SimObjects\misc\LSZF-RW-Designator\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="SimObjects-LSGT-tee">
 			<Type>SimObject</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\SimObjects\misc\LSGT-tee</AssetDir>
+			<AssetDir>PackageSources\SimObjects\misc\LSGT-tee\</AssetDir>
 			<OutputDir>SimObjects\misc\LSGT-tee\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="SimObjects-LSGY-tee">
