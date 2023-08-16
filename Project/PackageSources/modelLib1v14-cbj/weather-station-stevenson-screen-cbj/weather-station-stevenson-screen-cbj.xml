@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{bee8f418-3e21-40c7-b3ec-ffb0ec7bbc58}" version="1.1">
+		<LODS>
+			<LOD ModelFile="weather-station-stevenson-screen-cbj_LOD00.gltf" minSize="8"/>
+			<LOD ModelFile="weather-station-stevenson-screen-cbj_LOD01.gltf" minSize="4"/>
+			<LOD ModelFile="weather-station-stevenson-screen-cbj_LOD02.gltf"/>
+		</LODS>
+	</ModelInfo>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{371e89c3-68fb-42e8-46c7-810e578ee697}" version="1.1">
+		<LODS>
+			<LOD ModelFile="rail-passenger-carriage-cbj_LOD00.gltf" minSize="18"/>
+			<LOD ModelFile="rail-passenger-carriage-cbj_LOD01.gltf" minSize="10"/>
+			<LOD ModelFile="rail-passenger-carriage-cbj_LOD02.gltf" minSize="5"/>
+			<LOD ModelFile="rail-passenger-carriage-cbj_LOD03.gltf"/>
+		</LODS>
+	</ModelInfo>

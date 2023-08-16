@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{a78e17a4-7ee9-41b8-af19-a88a2c0261ce}" version="1.1">
+		<LODS>
+			<LOD ModelFile="glider-dg100-white-cbj_LOD00.gltf" minSize="24"/>
+			<LOD ModelFile="glider-dg100-white-cbj_LOD01.gltf" minSize="14"/>
+			<LOD ModelFile="glider-dg100-white-cbj_LOD02.gltf" minSize="9"/>
+			<LOD ModelFile="glider-dg100-white-cbj_LOD03.gltf" minSize="5"/>
+			<LOD ModelFile="glider-dg100-white-cbj_LOD04.gltf"/>
+		</LODS>
+	</ModelInfo>

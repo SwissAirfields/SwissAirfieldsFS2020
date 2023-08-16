@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{34af82b8-52d4-4bd5-170a-bd5de123d0ca}" version="1.1">		<Animation guid="cbceb6b9-3ca3-4a0f-f601-c28366243f4d" name="harness-plus00" type="Standard" typeParam="Autoplay"/>		<Animation guid="968ce147-a18e-4d1f-a754-234d9227844d" name="Cube1" type="Standard" typeParam="Autoplay"/>
+		<LODS>
+			<LOD ModelFile="paraglider-yellow-ridge-cbj_LOD00.gltf" minSize="30"/>
+			<LOD ModelFile="paraglider-yellow-ridge-cbj_LOD01.gltf" minSize="10"/>
+			<LOD ModelFile="paraglider-yellow-ridge-cbj_LOD02.gltf" minSize="5"/>
+			<LOD ModelFile="paraglider-yellow-ridge-cbj_LOD03.gltf"/>
+		</LODS>
+	</ModelInfo>

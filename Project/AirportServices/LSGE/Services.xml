@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="ServiceFile" version="1,0">
+    <Service.ParkingSpaceServices>
+        <ParkingSpace  name ="RAMP GA SMALL" MinParkingSpaces="0">
+            <ParkingTypes>
+			    <ParkingEntry ParkingType="RAMP_GA"/>
+                <ParkingEntry ParkingType="RAMP_GA_SMALL"/>
+                <ParkingEntry ParkingType="RAMP_GA_MEDIUM"/>
+                <ParkingEntry ParkingType="RAMP_GA_LARGE"/>
+                <ParkingEntry ParkingType="RAMP_CARGO"/>
+                <ParkingEntry ParkingType="GATE_SMALL"/>
+                <ParkingEntry ParkingType="GATE_MEDIUM"/>
+                <ParkingEntry ParkingType="GATE_HEAVY"/>
+                <ParkingEntry ParkingType="RAMP_MIL_CARGO"/>
+            </ParkingTypes>
+            <IdleWorkers>
+            </IdleWorkers>
+            <Services>
+            </Services>
+			<SleepingActivities>
+            </SleepingActivities>
+        </ParkingSpace>
+    </Service.ParkingSpaceServices>
+    <Service.AirportServices>
+        <Services>
+        </Services>
+    </Service.AirportServices>
+</SimBase.Document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{344715a5-b5c8-4ef2-4159-87461c6f4b20}" version="1.1">
+		<LODS>
+			<LOD ModelFile="gen_open_hangar01-18x13x5-cbj_LOD00.gltf" minSize="990"/>
+			<LOD ModelFile="gen_open_hangar01-18x13x5-cbj_LOD01.gltf" minSize="600"/>
+			<LOD ModelFile="gen_open_hangar01-18x13x5-cbj_LOD02.gltf" minSize="300"/>
+			<LOD ModelFile="gen_open_hangar01-18x13x5-cbj_LOD03.gltf" minSize="80"/>
+			<LOD ModelFile="gen_open_hangar01-18x13x5-cbj_LOD04.gltf" minSize="40"/>
+			<LOD ModelFile="gen_open_hangar01-18x13x5-cbj_LOD05.gltf" minSize="3"/>
+			<LOD ModelFile="gen_open_hangar01-18x13x5-cbj_LOD06.gltf"/>
+		</LODS>
+	</ModelInfo>

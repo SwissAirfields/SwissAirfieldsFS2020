@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{8e96415b-6878-4013-2ec2-a6a8b869ddff}" version="1.1">
+		<LODS>
+			<LOD ModelFile="fence-tall-gate-3m-RH-cbj_LOD00.gltf" minSize="600"/>
+			<LOD ModelFile="fence-tall-gate-3m-RH-cbj_LOD01.gltf" minSize="200"/>
+			<LOD ModelFile="fence-tall-gate-3m-RH-cbj_LOD02.gltf" minSize="80"/>
+			<LOD ModelFile="fence-tall-gate-3m-RH-cbj_LOD03.gltf" minSize="8"/>
+			<LOD ModelFile="fence-tall-gate-3m-RH-cbj_LOD04.gltf"/>
+		</LODS>
+	</ModelInfo>

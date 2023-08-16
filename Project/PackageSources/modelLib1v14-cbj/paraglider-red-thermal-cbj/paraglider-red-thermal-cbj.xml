@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{4c1edd09-bf54-41db-2d18-e88c8f165e77}" version="1.1">		<Animation guid="{b745f82f-89a7-4a0a-c11f-c44584822563}" name="glider00" type="Standard" typeParam="Autoplay"/>
+		<LODS>
+			<LOD ModelFile="paraglider-red-thermal-cbj_LOD00.gltf" minSize="32"/>
+			<LOD ModelFile="paraglider-red-thermal-cbj_LOD01.gltf" minSize="14"/>
+			<LOD ModelFile="paraglider-red-thermal-cbj_LOD02.gltf" minSize="5"/>
+			<LOD ModelFile="paraglider-red-thermal-cbj_LOD03.gltf"/>
+		</LODS>
+	</ModelInfo>

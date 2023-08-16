@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{cee8ca4c-9c65-4009-ea51-442dbada3b52}" version="1.1">
+		<LODS>
+			<LOD ModelFile="water-tower-concrete-37x11-cbj_LOD00.gltf" minSize="24"/>
+			<LOD ModelFile="water-tower-concrete-37x11-cbj_LOD01.gltf" minSize="10"/>
+			<LOD ModelFile="water-tower-concrete-37x11-cbj_LOD02.gltf" minSize="4"/>
+			<LOD ModelFile="water-tower-concrete-37x11-cbj_LOD03.gltf" minSize="1"/>
+			<LOD ModelFile="water-tower-concrete-37x11-cbj_LOD04.gltf"/>
+		</LODS>
+	</ModelInfo>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{608872e2-38fa-4c11-43df-1fb91a5a9210}" version="1.1">
+		<LODS>
+			<LOD ModelFile="water-tower-steel-legs-24x12-cbj_LOD00.gltf" minSize="18"/>
+			<LOD ModelFile="water-tower-steel-legs-24x12-cbj_LOD01.gltf" minSize="8"/>
+			<LOD ModelFile="water-tower-steel-legs-24x12-cbj_LOD02.gltf" minSize="4"/>
+			<LOD ModelFile="water-tower-steel-legs-24x12-cbj_LOD03.gltf" minSize="1"/>
+			<LOD ModelFile="water-tower-steel-legs-24x12-cbj_LOD04.gltf"/>
+		</LODS>
+	</ModelInfo>

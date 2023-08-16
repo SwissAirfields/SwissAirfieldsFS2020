@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{507733e8-4467-4484-90e8-c99f7489d99c}" version="1.1">
+		<LODS>
+			<LOD MinSize="0" ModelFile="LSZF-Aargau-flag.gltf"/>
+		</LODS>
+		<Animation guid="7a40fcd6-26a5-4ef0-b26c-de65c98990ab" name="wind_00" type="Standard"/>
+		<Animation guid="a96a0d63-d0cb-4ef8-bc16-b7a929c52546" name="wind_05" type="Standard"/>
+		<Animation guid="f754fbda-6b30-484e-a5b2-b9ac16b7285f" name="wind_15" type="Standard"/>
+		<Animation guid="857e35d5-3089-4d21-805b-88cfa8137b82" name="wind_25" type="Standard"/>
+		<AnimGraph>
+			<DefaultState name="BONES"/>
+			<BlendTreeState name="BONES">
+				<Animations>
+					<Animation guid="7a40fcd6-26a5-4ef0-b26c-de65c98990ab" loop="True" speed="1" threshold="0"/>
+					<Animation guid="a96a0d63-d0cb-4ef8-bc16-b7a929c52546" loop="True" speed="1" threshold="5"/>
+					<Animation guid="f754fbda-6b30-484e-a5b2-b9ac16b7285f" loop="True" speed="1" threshold="10"/>
+					<Animation guid="857e35d5-3089-4d21-805b-88cfa8137b82" loop="True" speed="1" threshold="15"/>
+					
+				</Animations>
+				<Value>(A:AMBIENT WIND VELOCITY, KNOTS)</Value>
+			</BlendTreeState>
+		</AnimGraph>
+		<Animation guid="bbaf948e-8839-4112-9196-d8bdc1f86a83" length="360" name="flag_orientation" type="Sim" typeParam="Autoplay,Random" typeParam2="flag_orientation"/>
+		<PartInfo>
+			<Name>flag_orientation</Name>
+			<AnimLength>360</AnimLength>
+			<Animation>
+				<Parameter>
+					<Code>(A:AMBIENT WIND DIRECTION, Degrees)</Code>
+				</Parameter>
+			</Animation>
+		</PartInfo>
+	</ModelInfo>

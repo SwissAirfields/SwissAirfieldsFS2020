@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{5e765b3e-5a2d-4faa-4633-8d94b49c9406}" version="1.1">
+		<LODS>
+			<LOD ModelFile="water-tank-corrigated-3x2-cbj_LOD00.gltf" minSize="32"/>
+			<LOD ModelFile="water-tank-corrigated-3x2-cbj_LOD01.gltf" minSize="16"/>
+			<LOD ModelFile="water-tank-corrigated-3x2-cbj_LOD02.gltf" minSize="8"/>
+			<LOD ModelFile="water-tank-corrigated-3x2-cbj_LOD03.gltf" minSize="4"/>
+			<LOD ModelFile="water-tank-corrigated-3x2-cbj_LOD04.gltf"/>
+		</LODS>
+	</ModelInfo>

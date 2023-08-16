@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{c8677151-6d69-40bb-fc6b-ec3ff93fd736}" version="1.1">
+		<Animation guid="7fc48751-daa8-42b8-8c4f-e43a2d13d402" name="head" type="Standard" typeParam="Autoplay"/>
+		<Animation guid="ce5364a9-bf5f-4e21-a553-f37af79a48fc" name="trunk-no-arm" type="Standard" typeParam="Autoplay"/>
+		<Animation guid="8c1a8fcb-85bc-46d5-3370-c6f8870b6e03" name="arm-left" type="Standard" typeParam="Autoplay"/>
+		<LODS>
+			<LOD ModelFile="woman-well-dressed-cbj_LOD00.gltf" minSize="60"/>
+			<LOD ModelFile="woman-well-dressed-cbj_LOD01.gltf" minSize="35"/>
+			<LOD ModelFile="woman-well-dressed-cbj_LOD02.gltf" minSize="15"/>
+			<LOD ModelFile="woman-well-dressed-cbj_LOD03.gltf" minSize="6"/>
+			<LOD ModelFile="woman-well-dressed-cbj_LOD04.gltf"/>
+		</LODS>
+	</ModelInfo>

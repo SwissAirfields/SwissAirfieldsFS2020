@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{68248d2f-83e8-42e6-0d1b-61874ba97a44}" version="1.1">
+		<LODS>
+			<LOD ModelFile="water-tower-40x9-cbj_LOD00.gltf" minSize="30"/>
+			<LOD ModelFile="water-tower-40x9-cbj_LOD01.gltf" minSize="12"/>
+			<LOD ModelFile="water-tower-40x9-cbj_LOD02.gltf" minSize="4"/>
+			<LOD ModelFile="water-tower-40x9-cbj_LOD03.gltf" minSize="1"/>
+			<LOD ModelFile="water-tower-40x9-cbj_LOD04.gltf"/>
+		</LODS>
+	</ModelInfo>

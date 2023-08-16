@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{ffdbe901-1232-46c8-2e84-014dd179c760}" version="1.1">
+		<LODS>
+			<LOD ModelFile="weather-station-anemometer-cbj_LOD00.gltf" minSize="8"/>
+			<LOD ModelFile="weather-station-anemometer-cbj_LOD01.gltf" minSize="4"/>
+			<LOD ModelFile="weather-station-anemometer-cbj_LOD02.gltf"/>
+		</LODS>
+	</ModelInfo>

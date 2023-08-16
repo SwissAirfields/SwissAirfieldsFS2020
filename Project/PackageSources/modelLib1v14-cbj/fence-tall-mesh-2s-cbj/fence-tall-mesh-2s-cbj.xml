@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{3f306aed-125f-4ded-0ea5-36d64c6f5f2d}" version="1.1">
+		<LODS>
+			<LOD ModelFile="fence-tall-mesh-2s-cbj_LOD00.gltf" minSize="100"/>
+			<LOD ModelFile="fence-tall-mesh-2s-cbj_LOD01.gltf" minSize="10"/>
+			<LOD ModelFile="fence-tall-mesh-2s-cbj_LOD02.gltf"/>
+		</LODS>
+	</ModelInfo>

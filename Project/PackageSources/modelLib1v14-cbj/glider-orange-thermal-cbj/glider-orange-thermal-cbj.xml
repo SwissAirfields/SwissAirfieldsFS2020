@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{51284dc1-3063-45bf-c8e2-f39f37243669}" version="1.1">		<Animation guid="4e137d19-2086-44ca-ebd9-fd88d1a4ba53" name="glid-path" type="Standard" typeParam="Autoplay"/>
+		<LODS>
+			<LOD ModelFile="glider-orange-thermal-cbj_LOD00.gltf" minSize="10"/>
+			<LOD ModelFile="glider-orange-thermal-cbj_LOD01.gltf" minSize="4"/>
+			<LOD ModelFile="glider-orange-thermal-cbj_LOD02.gltf"/>
+		</LODS>
+	</ModelInfo>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{dd8bef31-46ea-4597-e669-97300fcc5905}" version="1.1">
+		<LODS>
+			<LOD ModelFile="fence-mesh-grey-gate-2m-cbj_LOD00.gltf" minSize="45"/>
+			<LOD ModelFile="fence-mesh-grey-gate-2m-cbj_LOD01.gltf" minSize="20"/>
+			<LOD ModelFile="fence-mesh-grey-gate-2m-cbj_LOD02.gltf" minSize="7"/>
+			<LOD ModelFile="fence-mesh-grey-gate-2m-cbj_LOD03.gltf"/>
+		</LODS>
+	</ModelInfo>

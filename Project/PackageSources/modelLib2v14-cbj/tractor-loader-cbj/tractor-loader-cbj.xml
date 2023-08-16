@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{931cc9c2-7258-4b77-6e40-90bf437febc9}" version="1.1">
+		<LODS>
+			<LOD ModelFile="tractor-loader-cbj_LOD00.gltf" minSize="28"/>
+			<LOD ModelFile="tractor-loader-cbj_LOD01.gltf" minSize="6"/>
+			<LOD ModelFile="tractor-loader-cbj_LOD02.gltf" minSize="3"/>
+			<LOD ModelFile="tractor-loader-cbj_LOD03.gltf"/>
+		</LODS>
+	</ModelInfo>

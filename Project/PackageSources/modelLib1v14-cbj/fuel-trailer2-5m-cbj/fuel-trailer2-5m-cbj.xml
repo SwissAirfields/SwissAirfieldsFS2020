@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{7f05d2f6-12d8-4faa-19e3-8859a3d7608d}" version="1.1">
+		<LODS>
+			<LOD ModelFile="fuel-trailer2-5m-cbj_LOD00.gltf" minSize="600"/>
+			<LOD ModelFile="fuel-trailer2-5m-cbj_LOD01.gltf" minSize="75"/>
+			<LOD ModelFile="fuel-trailer2-5m-cbj_LOD02.gltf" minSize="35"/>
+			<LOD ModelFile="fuel-trailer2-5m-cbj_LOD03.gltf" minSize="20"/>
+			<LOD ModelFile="fuel-trailer2-5m-cbj_LOD04.gltf" minSize="12"/>
+			<LOD ModelFile="fuel-trailer2-5m-cbj_LOD05.gltf" minSize="4"/>
+			<LOD ModelFile="fuel-trailer2-5m-cbj_LOD06.gltf"/>
+		</LODS>
+	</ModelInfo>

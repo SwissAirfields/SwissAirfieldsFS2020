@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{0272ef9d-48d1-4224-9e76-27000581a762}" version="1.1">		<Animation guid="85cd3497-0597-4cc7-7944-8aaa41e9c88d" name="glid-path" type="Standard" typeParam="Autoplay"/>
+		<LODS>
+			<LOD ModelFile="glider-blue-thermal-cbj_LOD00.gltf" minSize="10"/>
+			<LOD ModelFile="glider-blue-thermal-cbj_LOD01.gltf" minSize="4"/>
+			<LOD ModelFile="glider-blue-thermal-cbj_LOD02.gltf"/>
+		</LODS>
+	</ModelInfo>

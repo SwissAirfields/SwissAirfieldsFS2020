@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{17ff8ae2-72fe-43a8-cf60-d60f6ef98a21}" version="1.1">		<Animation guid="27afe684-89bd-43f6-52be-1890e987deb9" name="glider00" type="Standard" typeParam="Autoplay"/>		<Animation guid="793ac1d5-bfd6-4574-e4ba-3f9599b40313" name="Cube1" type="Standard" typeParam="Autoplay"/>
+		<LODS>
+			<LOD ModelFile="paraglider-red-ridge-cbj_LOD00.gltf" minSize="30"/>
+			<LOD ModelFile="paraglider-red-ridge-cbj_LOD01.gltf" minSize="15"/>
+			<LOD ModelFile="paraglider-red-ridge-cbj_LOD02.gltf" minSize="5"/>
+			<LOD ModelFile="paraglider-red-ridge-cbj_LOD03.gltf"/>
+		</LODS>
+	</ModelInfo>

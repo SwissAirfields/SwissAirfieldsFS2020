@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{88460ae2-7279-4c4b-681d-152cf791f7d0}" version="1.1">		<Animation guid="8d97f108-26a3-4532-cb00-fff02c88f56f" name="hang-glider00" type="Standard" typeParam="Autoplay"/>		<Animation guid="604be69c-1f0c-4b87-3fb7-f8fd21b55da6" name="Cube1" type="Standard" typeParam="Autoplay"/>
+		<LODS>
+			<LOD ModelFile="hang-glider-red-ridge-cbj_LOD00.gltf" minSize="35"/>
+			<LOD ModelFile="hang-glider-red-ridge-cbj_LOD01.gltf" minSize="11"/>
+			<LOD ModelFile="hang-glider-red-ridge-cbj_LOD02.gltf" minSize="7"/>
+			<LOD ModelFile="hang-glider-red-ridge-cbj_LOD03.gltf"/>
+		</LODS>
+	</ModelInfo>

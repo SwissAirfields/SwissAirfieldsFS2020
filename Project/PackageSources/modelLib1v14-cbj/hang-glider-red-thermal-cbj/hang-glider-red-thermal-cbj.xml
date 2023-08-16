@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>	<ModelInfo guid="{714f45fe-c2b4-4e83-9b53-12dae6d84175}" version="1.1">		<Animation guid="7f07a073-6187-4792-5d8f-425a27125da4" name="circle" type="Standard" typeParam="Autoplay"/>
+		<LODS>
+			<LOD ModelFile="hang-glider-red-thermal-cbj_LOD00.gltf" minSize="200"/>
+			<LOD ModelFile="hang-glider-red-thermal-cbj_LOD01.gltf" minSize="50"/>
+			<LOD ModelFile="hang-glider-red-thermal-cbj_LOD02.gltf" minSize="15"/>
+			<LOD ModelFile="hang-glider-red-thermal-cbj_LOD03.gltf"/>
+		</LODS>
+	</ModelInfo>

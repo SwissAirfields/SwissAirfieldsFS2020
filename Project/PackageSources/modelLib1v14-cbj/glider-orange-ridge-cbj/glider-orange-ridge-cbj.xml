@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{11a0bd81-eb1d-4893-3542-a92aaf54c177}" version="1.1">		<Animation guid="1c14e292-889e-43b2-3bdc-7502188f76d0" name="glider00" type="Standard" typeParam="Autoplay"/>		<Animation guid="6975749f-6d6b-4be8-6de0-be6116e3384d" name="Cube1" type="Standard" typeParam="Autoplay"/>
+		<LODS>
+			<LOD ModelFile="glider-orange-ridge-cbj_LOD00.gltf" minSize="20"/>
+			<LOD ModelFile="glider-orange-ridge-cbj_LOD01.gltf" minSize="6"/>
+			<LOD ModelFile="glider-orange-ridge-cbj_LOD02.gltf"/>
+		</LODS>
+	</ModelInfo>

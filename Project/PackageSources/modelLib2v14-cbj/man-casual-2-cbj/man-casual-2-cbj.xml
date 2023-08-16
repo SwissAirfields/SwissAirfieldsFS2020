@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{4a147eb4-8cd0-4348-fe18-992072b920df}" version="1.1">		<Animation guid="e4e7b6b4-4f41-4d32-5fc0-f575767cd3cc" name="head" type="Standard" typeParam="Autoplay"/>		<Animation guid="bea6c08e-4942-4470-8d90-1997946b1eb9" name="trunk-no-arm" type="Standard" typeParam="Autoplay"/>		<Animation guid="732b8117-6fe1-412b-80e1-5f18208976ae" name="arm" type="Standard" typeParam="Autoplay"/>
+		<LODS>
+			<LOD ModelFile="man-casual-2-cbj_LOD00.gltf" minSize="50"/>
+			<LOD ModelFile="man-casual-2-cbj_LOD01.gltf" minSize="30"/>
+			<LOD ModelFile="man-casual-2-cbj_LOD02.gltf" minSize="20"/>
+			<LOD ModelFile="man-casual-2-cbj_LOD03.gltf" minSize="6"/>
+			<LOD ModelFile="man-casual-2-cbj_LOD04.gltf"/>
+		</LODS>
+	</ModelInfo>

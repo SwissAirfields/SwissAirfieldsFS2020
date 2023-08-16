@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{1bc3e054-9dce-4032-08d7-4619fbb1669b}" version="1.1">
+		<LODS>
+			<LOD ModelFile="weather-station-cbj_LOD00.gltf" minSize="8"/>
+			<LOD ModelFile="weather-station-cbj_LOD01.gltf" minSize="4"/>
+			<LOD ModelFile="weather-station-cbj_LOD02.gltf"/>
+		</LODS>
+	</ModelInfo>

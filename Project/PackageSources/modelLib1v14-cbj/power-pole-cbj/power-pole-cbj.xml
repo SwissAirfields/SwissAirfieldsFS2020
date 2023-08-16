@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{9c573049-a486-4831-529f-208021ea66c2}" version="1.1">
+		<LODS>
+			<LOD ModelFile="power-pole-cbj_LOD00.gltf" minSize="30"/>
+			<LOD ModelFile="power-pole-cbj_LOD01.gltf" minSize="8"/>
+			<LOD ModelFile="power-pole-cbj_LOD02.gltf" minSize="4"/>
+			<LOD ModelFile="power-pole-cbj_LOD03.gltf"/>
+		</LODS>
+	</ModelInfo>

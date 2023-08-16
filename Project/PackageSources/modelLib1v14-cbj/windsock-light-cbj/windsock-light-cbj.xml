@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{b4c63cf1-e191-4c32-0f67-4247a63286d5}" version="1.1">
+		<LODS>
+			<LOD ModelFile="windsock-light-cbj_LOD00.gltf" minSize="80"/>
+			<LOD ModelFile="windsock-light-cbj_LOD01.gltf" minSize="50"/>
+			<LOD ModelFile="windsock-light-cbj_LOD02.gltf" minSize="25"/>
+			<LOD ModelFile="windsock-light-cbj_LOD03.gltf" minSize="15"/>
+			<LOD ModelFile="windsock-light-cbj_LOD04.gltf" minSize="8"/>
+			<LOD ModelFile="windsock-light-cbj_LOD05.gltf" minSize="5"/>
+			<LOD ModelFile="windsock-light-cbj_LOD06.gltf"/>
+		</LODS>
+	</ModelInfo>

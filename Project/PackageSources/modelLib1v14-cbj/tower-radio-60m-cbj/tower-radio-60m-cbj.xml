@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{7161a7e8-e72a-412e-f508-97db0f3245f0}" version="1.1">
+		<LODS>
+			<LOD ModelFile="tower-radio-60m-cbj_LOD00.gltf" minSize="16"/>
+			<LOD ModelFile="tower-radio-60m-cbj_LOD01.gltf" minSize="8"/>
+			<LOD ModelFile="tower-radio-60m-cbj_LOD02.gltf" minSize="4"/>
+			<LOD ModelFile="tower-radio-60m-cbj_LOD03.gltf"/>
+		</LODS>
+	</ModelInfo>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{9b131c79-d112-4303-570f-dc7a0483824b}" version="1.1">
+		<LODS>
+			<LOD ModelFile="rail-station-cbj_LOD00.gltf" minSize="16"/>
+			<LOD ModelFile="rail-station-cbj_LOD01.gltf" minSize="5"/>
+			<LOD ModelFile="rail-station-cbj_LOD02.gltf" minSize="2"/>
+			<LOD ModelFile="rail-station-cbj_LOD03.gltf"/>
+		</LODS>
+	</ModelInfo>

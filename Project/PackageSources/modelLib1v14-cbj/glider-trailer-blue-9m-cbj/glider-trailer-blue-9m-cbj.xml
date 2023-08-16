@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+	<ModelInfo guid="{3220e8e3-2110-4ec1-e2fe-bd73228d1b52}" version="1.1">
+		<LODS>
+			<LOD ModelFile="glider-trailer-blue-9m-cbj_LOD00.gltf" minSize="40"/>
+			<LOD ModelFile="glider-trailer-blue-9m-cbj_LOD01.gltf" minSize="20"/>
+			<LOD ModelFile="glider-trailer-blue-9m-cbj_LOD02.gltf" minSize="10"/>
+			<LOD ModelFile="glider-trailer-blue-9m-cbj_LOD03.gltf" minSize="3"/>
+			<LOD ModelFile="glider-trailer-blue-9m-cbj_LOD04.gltf"/>
+		</LODS>
+	</ModelInfo>
