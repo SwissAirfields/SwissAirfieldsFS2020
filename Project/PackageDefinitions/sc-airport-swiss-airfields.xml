@@ -211,6 +211,14 @@
 			<AssetDir>PackageSources\SimObjects\misc\LSGE-tee\</AssetDir>
 			<OutputDir>SimObjects\misc\LSGE-tee\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="SimObject-LSPA-tee">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\misc\LSPA-tee\</AssetDir>
+			<OutputDir>SimObjects\misc\LSPA-tee\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="SimObject-LSZF-Aargau-flag">
 			<Type>SimObject</Type>
 			<Flags>

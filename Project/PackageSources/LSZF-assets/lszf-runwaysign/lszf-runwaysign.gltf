@@ -214,7 +214,7 @@
         {
             "bufferView" : 5,
             "componentType" : 5126,
-            "count" : 36,
+            "count" : 43,
             "max" : [
                 1.5000004768371582,
                 0.5000002384185791,
@@ -222,46 +222,46 @@
             ],
             "min" : [
                 -1.5000004768371582,
-                -2.98023280720372e-07,
-                -0.5000003576278687
+                -0.001214221934787929,
+                -0.5002517104148865
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 6,
             "componentType" : 5126,
-            "count" : 36,
+            "count" : 43,
             "type" : "VEC3"
         },
         {
             "bufferView" : 7,
             "componentType" : 5126,
-            "count" : 36,
+            "count" : 43,
             "type" : "VEC4"
         },
         {
             "bufferView" : 8,
             "componentType" : 5126,
-            "count" : 36,
+            "count" : 43,
             "type" : "VEC2"
         },
         {
             "bufferView" : 9,
             "componentType" : 5123,
-            "count" : 36,
+            "count" : 51,
             "type" : "SCALAR"
         },
         {
             "bufferView" : 10,
             "componentType" : 5126,
-            "count" : 96,
+            "count" : 3,
             "max" : [
-                1.5000004768371582,
-                0.5000002384185791,
-                0.5000001788139343
+                -0.49999988079071045,
+                -1.4901162614933128e-07,
+                -0.5000002384185791
             ],
             "min" : [
-                -1.5000004768371582,
+                -1.5000001192092896,
                 -2.98023280720372e-07,
                 -0.5000003576278687
             ],
@@ -270,25 +270,25 @@
         {
             "bufferView" : 11,
             "componentType" : 5126,
-            "count" : 96,
+            "count" : 3,
             "type" : "VEC3"
         },
         {
             "bufferView" : 12,
             "componentType" : 5126,
-            "count" : 96,
+            "count" : 3,
             "type" : "VEC4"
         },
         {
             "bufferView" : 13,
             "componentType" : 5126,
-            "count" : 96,
+            "count" : 3,
             "type" : "VEC2"
         },
         {
             "bufferView" : 14,
             "componentType" : 5123,
-            "count" : 96,
+            "count" : 3,
             "type" : "SCALAR"
         }
     ],
@@ -325,62 +325,62 @@
         },
         {
             "buffer" : 0,
-            "byteLength" : 432,
+            "byteLength" : 516,
             "byteOffset" : 1224,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 432,
-            "byteOffset" : 1656,
+            "byteLength" : 516,
+            "byteOffset" : 1740,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 576,
-            "byteOffset" : 2088,
+            "byteLength" : 688,
+            "byteOffset" : 2256,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 288,
-            "byteOffset" : 2664,
+            "byteLength" : 344,
+            "byteOffset" : 2944,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 72,
-            "byteOffset" : 2952,
+            "byteLength" : 102,
+            "byteOffset" : 3288,
             "target" : 34963
         },
         {
             "buffer" : 0,
-            "byteLength" : 1152,
-            "byteOffset" : 3024,
+            "byteLength" : 36,
+            "byteOffset" : 3392,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 1152,
-            "byteOffset" : 4176,
+            "byteLength" : 36,
+            "byteOffset" : 3428,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 1536,
-            "byteOffset" : 5328,
+            "byteLength" : 48,
+            "byteOffset" : 3464,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 768,
-            "byteOffset" : 6864,
+            "byteLength" : 24,
+            "byteOffset" : 3512,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 192,
-            "byteOffset" : 7632,
+            "byteLength" : 6,
+            "byteOffset" : 3536,
             "target" : 34963
         }
     ],
@@ -392,7 +392,7 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 7824,
+            "byteLength" : 3544,
             "uri" : "lszf-runwaysign.bin"
         }
     ]

@@ -1,13 +1,23 @@
-<?xml version="1.0" ?>
-	<ModelInfo guid="{9a669a40-f71e-400f-8fe6-3f90d2aa2c7c}" version="1.1">				<LODS>			<LOD ModelFile="LSZF-tee.gltf"/>		</LODS>		
-		<Animation guid="ff16b3ec-af2b-45d8-8ce7-d2002dcb28e8" length="1" name="flip" type="Sim" typeParam="AutoPlay" typeParam2="flip"/>		
-		<PartInfo>
-			<Name>flip</Name>
-			<AnimLength>1</AnimLength>
-			<Animation>
-				<Parameter>
-					<Code>					80.35 (A:AMBIENT WIND DIRECTION, Degrees) - 450 + 360 % 180 &lt;					if{ 1 }					els{ 0 }					</Code>
-				</Parameter>
-			</Animation>
-		</PartInfo>
-	</ModelInfo>
+<?xml version="1.0" encoding="utf-8" ?>
+<ModelInfo version="1.1" guid="ffa04aa8-c90c-49f5-b447-42df7505c3aa">
+	<LODS>
+		<LOD minSize="0" ModelFile="LSZF-tee.gltf"/>
+	</LODS>
+	<Behaviors>
+			<Component ID="AMBIENT_WIND_DIRECTION_rwy26" Node="LSZF_wind_rwy26">
+				<Visibility>
+					<Parameter>
+						<Code>(A:AMBIENT WIND DIRECTION, Degrees) 0 &gt; (A:AMBIENT WIND DIRECTION, Degrees) 180 &lt; and if{ 1 } els{ 0 }</Code>
+					</Parameter>
+				</Visibility>
+			</Component>
+
+			<Component ID="AMBIENT_WIND_DIRECTION_rwy08" Node="LSZF_wind_rwy08">
+				<Visibility>
+					<Parameter>
+		<Code>(A:AMBIENT WIND DIRECTION, Degrees) 0 &gt; (A:AMBIENT WIND DIRECTION, Degrees) 180 &lt; and if{ 0 } els{ 1 }</Code>
+					</Parameter>
+				</Visibility>
+			</Component>
+	</Behaviors>
+</ModelInfo>

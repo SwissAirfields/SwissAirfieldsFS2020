@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModelInfo version="1.1" guid="{ebb99e88-a7b4-43da-b2d0-1d2c7dcc23f2}">
+
+	
+	<LODS>
+		<LOD minSize="0" ModelFile="LSPA-tee.gltf"/>
+	</LODS>
+
+
+	<Behaviors>
+		
+			<Component ID="lspa_27" Node="lspa_wind_27">
+				<Visibility>
+					<Parameter>
+						<Code>(A:AMBIENT WIND DIRECTION, Degrees) 0 &gt; (A:AMBIENT WIND DIRECTION, Degrees) 180 &lt; and if{ 1 } els{ 0 }</Code>
+					</Parameter>
+				</Visibility>
+			</Component>
+
+			<Component ID="lspa_09" Node="lspa_wind_09">
+				<Visibility>
+					<Parameter>
+		<Code>(A:AMBIENT WIND DIRECTION, Degrees) 0 &gt; (A:AMBIENT WIND DIRECTION, Degrees) 180 &lt; and if{ 0 } els{ 1 }</Code>
+					</Parameter>
+				</Visibility>
+			</Component>
+
+
+	</Behaviors>
+</ModelInfo>
